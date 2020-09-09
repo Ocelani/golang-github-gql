@@ -1,66 +1,44 @@
-// package config
+package config
 
-// import (
-// 	"os"
-// 	"strconv"
-// 	"strings"
-// )
+import (
+	"context"
+	"fmt"
+	"log"
+	"os"
 
-// type GitHubConfig struct {
-// 	APIKey string
-// }
+	"github.com/joho/godotenv"
+	"github.com/shurcooL/githubv4"
+	"golang.org/x/oauth2"
+)
 
-// type Config struct {
-// 	GitHub GitHubConfig
-// }
+// Viewer is the user login session
+var query struct {
+	Viewer struct {
+		Login     githubv4.String
+		CreatedAt githubv4.DateTime
+	}
+}
 
-// // New returns a new Config struct
-// func New() *Config {
-// 	return &Config{
-// 		GitHub: GitHubConfig{
-// 			APIKey: getEnv("GITHUB_TOKEN", ""),
-// 		},
-// 	}
-// }
+// Init is responsible to connect with github gql api.
+func Init() *githubv4.Client {
+	err := godotenv.Load()
+	if err != nil {
+		log.Fatal("Error loading .env file!")
+	}
 
-// // Simple helper function to read an environment or return a default value
-// func getEnv(key string, defaultVal string) string {
-// 	if value, exists := os.LookupEnv(key); exists {
-// 		return value
-// 	}
+	src := oauth2.StaticTokenSource(
+		&oauth2.Token{AccessToken: os.Getenv("GITHUB_TOKEN")},
+	)
+	httpClient := oauth2.NewClient(context.Background(), src)
+	client := githubv4.NewClient(httpClient)
+	{
+		err := client.Query(context.Background(), &query, nil)
+		if err != nil {
+			log.Fatal("Error on query!")
+		}
+	}
+	fmt.Println("    Login:", query.Viewer.Login)
+	fmt.Println("CreatedAt:", query.Viewer.CreatedAt)
 
-// 	return defaultVal
-// }
-
-// // Simple helper function to read an environment variable into integer or return a default value
-// func getEnvAsInt(name string, defaultVal int) int {
-// 	valueStr := getEnv(name, "")
-// 	if value, err := strconv.Atoi(valueStr); err == nil {
-// 		return value
-// 	}
-
-// 	return defaultVal
-// }
-
-// // Helper to read an environment variable into a bool or return default value
-// func getEnvAsBool(name string, defaultVal bool) bool {
-// 	valStr := getEnv(name, "")
-// 	if val, err := strconv.ParseBool(valStr); err == nil {
-// 		return val
-// 	}
-
-// 	return defaultVal
-// }
-
-// // Helper to read an environment variable into a string slice or return default value
-// func getEnvAsSlice(name string, defaultVal []string, sep string) []string {
-// 	valStr := getEnv(name, "")
-
-// 	if valStr == "" {
-// 		return defaultVal
-// 	}
-
-// 	val := strings.Split(valStr, sep)
-
-// 	return val
-// }
+	return client
+}
