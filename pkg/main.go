@@ -41,10 +41,15 @@ func run() {
         ... on Repository {
           name
           owner{login}
-          url
           stargazers{totalCount}
+          url
+          primaryLanguage{name}
           issues{totalCount}
+          issues(states: CLOSED){totalCount}
           createdAt
+          updatedAt
+          issues{totalCount}
+          issues(states: CLOSED){totalCount}
           pullRequests(states: MERGED, first: 10) {
             totalCount
             pageInfo {
