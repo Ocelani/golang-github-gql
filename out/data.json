@@ -1,0 +1,5416 @@
+{
+  "Search": {
+    "RepositoryCount": 1691,
+    "PageInfo": {
+      "EndCursor": "Y3Vyc29yOjEwMA==",
+      "HasNextPage": true
+    },
+    "Nodes": [{
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyODQ1NzgyMw==",
+          "Name": "freeCodeCamp",
+          "URL": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "CreatedAt": "2014-12-24T17:49:19Z",
+          "UpdatedAt": "2020-09-21T23:31:34Z",
+          "Owner": {
+            "Login": "freeCodeCamp"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 314882
+          },
+          "IssuesTotal": {
+            "TotalCount": 14757
+          },
+          "IssuesClosed": {
+            "TotalCount": 14559
+          },
+          "PullRequests": {
+            "TotalCount": 24373
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxNzc3MzY1MzM=",
+          "Name": "996.ICU",
+          "URL": "https://github.com/996icu/996.ICU",
+          "CreatedAt": "2019-03-26T07:31:14Z",
+          "UpdatedAt": "2020-09-21T18:50:14Z",
+          "Owner": {
+            "Login": "996icu"
+          },
+          "PrimaryLanguage": {
+            "Name": "Rust"
+          },
+          "Stargazers": {
+            "TotalCount": 251694
+          },
+          "IssuesTotal": {
+            "TotalCount": 0
+          },
+          "IssuesClosed": {
+            "TotalCount": 0
+          },
+          "PullRequests": {
+            "TotalCount": 1854
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMTczMDM0Mg==",
+          "Name": "vue",
+          "URL": "https://github.com/vuejs/vue",
+          "CreatedAt": "2013-07-29T03:24:51Z",
+          "UpdatedAt": "2020-09-21T23:41:22Z",
+          "Owner": {
+            "Login": "vuejs"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 172559
+          },
+          "IssuesTotal": {
+            "TotalCount": 9183
+          },
+          "IssuesClosed": {
+            "TotalCount": 8858
+          },
+          "PullRequests": {
+            "TotalCount": 1877
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMzQ5MTg5NQ==",
+          "Name": "free-programming-books",
+          "URL": "https://github.com/EbookFoundation/free-programming-books",
+          "CreatedAt": "2013-10-11T06:50:37Z",
+          "UpdatedAt": "2020-09-21T23:32:13Z",
+          "Owner": {
+            "Login": "EbookFoundation"
+          },
+          "PrimaryLanguage": {
+            "Name": ""
+          },
+          "Stargazers": {
+            "TotalCount": 159892
+          },
+          "IssuesTotal": {
+            "TotalCount": 459
+          },
+          "IssuesClosed": {
+            "TotalCount": 423
+          },
+          "PullRequests": {
+            "TotalCount": 3156
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMDI3MDI1MA==",
+          "Name": "react",
+          "URL": "https://github.com/facebook/react",
+          "CreatedAt": "2013-05-24T16:15:54Z",
+          "UpdatedAt": "2020-09-21T23:38:10Z",
+          "Owner": {
+            "Login": "facebook"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 156180
+          },
+          "IssuesTotal": {
+            "TotalCount": 9580
+          },
+          "IssuesClosed": {
+            "TotalCount": 9119
+          },
+          "PullRequests": {
+            "TotalCount": 10076
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk0NTcxNzI1MA==",
+          "Name": "tensorflow",
+          "URL": "https://github.com/tensorflow/tensorflow",
+          "CreatedAt": "2015-11-07T01:19:20Z",
+          "UpdatedAt": "2020-09-21T23:44:29Z",
+          "Owner": {
+            "Login": "tensorflow"
+          },
+          "PrimaryLanguage": {
+            "Name": "C++"
+          },
+          "Stargazers": {
+            "TotalCount": 148585
+          },
+          "IssuesTotal": {
+            "TotalCount": 27747
+          },
+          "IssuesClosed": {
+            "TotalCount": 23999
+          },
+          "PullRequests": {
+            "TotalCount": 15460
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyMTI2MjQ0",
+          "Name": "bootstrap",
+          "URL": "https://github.com/twbs/bootstrap",
+          "CreatedAt": "2011-07-29T21:19:00Z",
+          "UpdatedAt": "2020-09-21T23:40:22Z",
+          "Owner": {
+            "Login": "twbs"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 144235
+          },
+          "IssuesTotal": {
+            "TotalCount": 19596
+          },
+          "IssuesClosed": {
+            "TotalCount": 19272
+          },
+          "PullRequests": {
+            "TotalCount": 11381
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyMTczNzQ2NQ==",
+          "Name": "awesome",
+          "URL": "https://github.com/sindresorhus/awesome",
+          "CreatedAt": "2014-07-11T13:42:37Z",
+          "UpdatedAt": "2020-09-21T23:26:02Z",
+          "Owner": {
+            "Login": "sindresorhus"
+          },
+          "PrimaryLanguage": {
+            "Name": ""
+          },
+          "Stargazers": {
+            "TotalCount": 141217
+          },
+          "IssuesTotal": {
+            "TotalCount": 257
+          },
+          "IssuesClosed": {
+            "TotalCount": 242
+          },
+          "PullRequests": {
+            "TotalCount": 1555
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk2MDQ5MzEwMQ==",
+          "Name": "coding-interview-university",
+          "URL": "https://github.com/jwasham/coding-interview-university",
+          "CreatedAt": "2016-06-06T02:34:12Z",
+          "UpdatedAt": "2020-09-21T23:42:06Z",
+          "Owner": {
+            "Login": "jwasham"
+          },
+          "PrimaryLanguage": {
+            "Name": ""
+          },
+          "Stargazers": {
+            "TotalCount": 135336
+          },
+          "IssuesTotal": {
+            "TotalCount": 163
+          },
+          "IssuesClosed": {
+            "TotalCount": 136
+          },
+          "PullRequests": {
+            "TotalCount": 453
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxNDQ0MDI3MA==",
+          "Name": "You-Dont-Know-JS",
+          "URL": "https://github.com/getify/You-Dont-Know-JS",
+          "CreatedAt": "2013-11-16T02:37:24Z",
+          "UpdatedAt": "2020-09-21T23:29:53Z",
+          "Owner": {
+            "Login": "getify"
+          },
+          "PrimaryLanguage": {
+            "Name": ""
+          },
+          "Stargazers": {
+            "TotalCount": 127583
+          },
+          "IssuesTotal": {
+            "TotalCount": 851
+          },
+          "IssuesClosed": {
+            "TotalCount": 776
+          },
+          "PullRequests": {
+            "TotalCount": 819
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk4NTA3NzU1OA==",
+          "Name": "developer-roadmap",
+          "URL": "https://github.com/kamranahmedse/developer-roadmap",
+          "CreatedAt": "2017-03-15T13:45:52Z",
+          "UpdatedAt": "2020-09-21T23:04:35Z",
+          "Owner": {
+            "Login": "kamranahmedse"
+          },
+          "PrimaryLanguage": {
+            "Name": ""
+          },
+          "Stargazers": {
+            "TotalCount": 126856
+          },
+          "IssuesTotal": {
+            "TotalCount": 462
+          },
+          "IssuesClosed": {
+            "TotalCount": 433
+          },
+          "PullRequests": {
+            "TotalCount": 171
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyOTExMzc=",
+          "Name": "ohmyzsh",
+          "URL": "https://github.com/ohmyzsh/ohmyzsh",
+          "CreatedAt": "2009-08-28T18:15:37Z",
+          "UpdatedAt": "2020-09-21T23:24:49Z",
+          "Owner": {
+            "Login": "ohmyzsh"
+          },
+          "PrimaryLanguage": {
+            "Name": "Shell"
+          },
+          "Stargazers": {
+            "TotalCount": 116483
+          },
+          "IssuesTotal": {
+            "TotalCount": 3527
+          },
+          "IssuesClosed": {
+            "TotalCount": 3312
+          },
+          "PullRequests": {
+            "TotalCount": 5710
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMjEzOTU1MTA=",
+          "Name": "CS-Notes",
+          "URL": "https://github.com/CyC2018/CS-Notes",
+          "CreatedAt": "2018-02-13T14:56:24Z",
+          "UpdatedAt": "2020-09-21T19:17:31Z",
+          "Owner": {
+            "Login": "CyC2018"
+          },
+          "PrimaryLanguage": {
+            "Name": "Java"
+          },
+          "Stargazers": {
+            "TotalCount": 111432
+          },
+          "IssuesTotal": {
+            "TotalCount": 432
+          },
+          "IssuesClosed": {
+            "TotalCount": 378
+          },
+          "PullRequests": {
+            "TotalCount": 500
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMDYyODk3",
+          "Name": "gitignore",
+          "URL": "https://github.com/github/gitignore",
+          "CreatedAt": "2010-11-08T20:17:14Z",
+          "UpdatedAt": "2020-09-21T23:38:56Z",
+          "Owner": {
+            "Login": "github"
+          },
+          "PrimaryLanguage": {
+            "Name": ""
+          },
+          "Stargazers": {
+            "TotalCount": 108098
+          },
+          "IssuesTotal": {
+            "TotalCount": 0
+          },
+          "IssuesClosed": {
+            "TotalCount": 0
+          },
+          "PullRequests": {
+            "TotalCount": 3474
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk4MzIyMjQ0MQ==",
+          "Name": "system-design-primer",
+          "URL": "https://github.com/donnemartin/system-design-primer",
+          "CreatedAt": "2017-02-26T16:15:28Z",
+          "UpdatedAt": "2020-09-21T23:34:47Z",
+          "Owner": {
+            "Login": "donnemartin"
+          },
+          "PrimaryLanguage": {
+            "Name": "Python"
+          },
+          "Stargazers": {
+            "TotalCount": 107393
+          },
+          "IssuesTotal": {
+            "TotalCount": 138
+          },
+          "IssuesClosed": {
+            "TotalCount": 52
+          },
+          "PullRequests": {
+            "TotalCount": 306
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk0MTg4MTkwMA==",
+          "Name": "vscode",
+          "URL": "https://github.com/microsoft/vscode",
+          "CreatedAt": "2015-09-03T20:23:38Z",
+          "UpdatedAt": "2020-09-21T23:27:25Z",
+          "Owner": {
+            "Login": "microsoft"
+          },
+          "PrimaryLanguage": {
+            "Name": "TypeScript"
+          },
+          "Stargazers": {
+            "TotalCount": 103496
+          },
+          "IssuesTotal": {
+            "TotalCount": 97543
+          },
+          "IssuesClosed": {
+            "TotalCount": 92252
+          },
+          "PullRequests": {
+            "TotalCount": 7927
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkzMTc5MjgyNA==",
+          "Name": "flutter",
+          "URL": "https://github.com/flutter/flutter",
+          "CreatedAt": "2015-03-06T22:54:58Z",
+          "UpdatedAt": "2020-09-21T23:34:48Z",
+          "Owner": {
+            "Login": "flutter"
+          },
+          "PrimaryLanguage": {
+            "Name": "Dart"
+          },
+          "Stargazers": {
+            "TotalCount": 101744
+          },
+          "IssuesTotal": {
+            "TotalCount": 43462
+          },
+          "IssuesClosed": {
+            "TotalCount": 35588
+          },
+          "PullRequests": {
+            "TotalCount": 22630
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk2NDk4NDky",
+          "Name": "javascript",
+          "URL": "https://github.com/airbnb/javascript",
+          "CreatedAt": "2012-11-01T23:13:50Z",
+          "UpdatedAt": "2020-09-21T23:36:00Z",
+          "Owner": {
+            "Login": "airbnb"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 99818
+          },
+          "IssuesTotal": {
+            "TotalCount": 1024
+          },
+          "IssuesClosed": {
+            "TotalCount": 948
+          },
+          "PullRequests": {
+            "TotalCount": 1224
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyMzI1Mjk4",
+          "Name": "linux",
+          "URL": "https://github.com/torvalds/linux",
+          "CreatedAt": "2011-09-04T22:48:12Z",
+          "UpdatedAt": "2020-09-21T23:30:38Z",
+          "Owner": {
+            "Login": "torvalds"
+          },
+          "PrimaryLanguage": {
+            "Name": "C"
+          },
+          "Stargazers": {
+            "TotalCount": 97856
+          },
+          "IssuesTotal": {
+            "TotalCount": 0
+          },
+          "IssuesClosed": {
+            "TotalCount": 0
+          },
+          "PullRequests": {
+            "TotalCount": 761
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk1NDM0Njc5OQ==",
+          "Name": "public-apis",
+          "URL": "https://github.com/public-apis/public-apis",
+          "CreatedAt": "2016-03-20T23:49:42Z",
+          "UpdatedAt": "2020-09-21T23:44:05Z",
+          "Owner": {
+            "Login": "public-apis"
+          },
+          "PrimaryLanguage": {
+            "Name": "Python"
+          },
+          "Stargazers": {
+            "TotalCount": 96637
+          },
+          "IssuesTotal": {
+            "TotalCount": 144
+          },
+          "IssuesClosed": {
+            "TotalCount": 123
+          },
+          "PullRequests": {
+            "TotalCount": 1196
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk5NDMxNDk=",
+          "Name": "d3",
+          "URL": "https://github.com/d3/d3",
+          "CreatedAt": "2010-09-27T17:22:42Z",
+          "UpdatedAt": "2020-09-21T22:28:49Z",
+          "Owner": {
+            "Login": "d3"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 93767
+          },
+          "IssuesTotal": {
+            "TotalCount": 2053
+          },
+          "IssuesClosed": {
+            "TotalCount": 2048
+          },
+          "PullRequests": {
+            "TotalCount": 1099
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMjM0NTg1NTE=",
+          "Name": "Python-100-Days",
+          "URL": "https://github.com/jackfrued/Python-100-Days",
+          "CreatedAt": "2018-03-01T16:05:52Z",
+          "UpdatedAt": "2020-09-21T23:38:23Z",
+          "Owner": {
+            "Login": "jackfrued"
+          },
+          "PrimaryLanguage": {
+            "Name": "Jupyter Notebook"
+          },
+          "Stargazers": {
+            "TotalCount": 92881
+          },
+          "IssuesTotal": {
+            "TotalCount": 417
+          },
+          "IssuesClosed": {
+            "TotalCount": 72
+          },
+          "PullRequests": {
+            "TotalCount": 214
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyOTAyODc3NQ==",
+          "Name": "react-native",
+          "URL": "https://github.com/facebook/react-native",
+          "CreatedAt": "2015-01-09T18:10:16Z",
+          "UpdatedAt": "2020-09-21T21:44:08Z",
+          "Owner": {
+            "Login": "facebook"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 90229
+          },
+          "IssuesTotal": {
+            "TotalCount": 20155
+          },
+          "IssuesClosed": {
+            "TotalCount": 19371
+          },
+          "PullRequests": {
+            "TotalCount": 9619
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMzI0NjQzOTU=",
+          "Name": "JavaGuide",
+          "URL": "https://github.com/Snailclimb/JavaGuide",
+          "CreatedAt": "2018-05-07T13:27:00Z",
+          "UpdatedAt": "2020-09-21T17:09:41Z",
+          "Owner": {
+            "Login": "Snailclimb"
+          },
+          "PrimaryLanguage": {
+            "Name": "Java"
+          },
+          "Stargazers": {
+            "TotalCount": 88358
+          },
+          "IssuesTotal": {
+            "TotalCount": 461
+          },
+          "IssuesClosed": {
+            "TotalCount": 430
+          },
+          "PullRequests": {
+            "TotalCount": 472
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyMTI4OTExMA==",
+          "Name": "awesome-python",
+          "URL": "https://github.com/vinta/awesome-python",
+          "CreatedAt": "2014-06-27T21:00:06Z",
+          "UpdatedAt": "2020-09-21T23:12:08Z",
+          "Owner": {
+            "Login": "vinta"
+          },
+          "PrimaryLanguage": {
+            "Name": "Python"
+          },
+          "Stargazers": {
+            "TotalCount": 86920
+          },
+          "IssuesTotal": {
+            "TotalCount": 175
+          },
+          "IssuesClosed": {
+            "TotalCount": 175
+          },
+          "PullRequests": {
+            "TotalCount": 1408
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk5Mzg0MjY3",
+          "Name": "electron",
+          "URL": "https://github.com/electron/electron",
+          "CreatedAt": "2013-04-12T01:47:36Z",
+          "UpdatedAt": "2020-09-21T23:37:25Z",
+          "Owner": {
+            "Login": "electron"
+          },
+          "PrimaryLanguage": {
+            "Name": "C++"
+          },
+          "Stargazers": {
+            "TotalCount": 85899
+          },
+          "IssuesTotal": {
+            "TotalCount": 13729
+          },
+          "IssuesClosed": {
+            "TotalCount": 12399
+          },
+          "PullRequests": {
+            "TotalCount": 11580
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk2MzQ3NjMzNw==",
+          "Name": "Python",
+          "URL": "https://github.com/TheAlgorithms/Python",
+          "CreatedAt": "2016-07-16T09:44:01Z",
+          "UpdatedAt": "2020-09-21T23:35:07Z",
+          "Owner": {
+            "Login": "TheAlgorithms"
+          },
+          "PrimaryLanguage": {
+            "Name": "Python"
+          },
+          "Stargazers": {
+            "TotalCount": 85882
+          },
+          "IssuesTotal": {
+            "TotalCount": 405
+          },
+          "IssuesClosed": {
+            "TotalCount": 401
+          },
+          "PullRequests": {
+            "TotalCount": 2023
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMzI3NTA3MjQ=",
+          "Name": "build-your-own-x",
+          "URL": "https://github.com/danistefanovic/build-your-own-x",
+          "CreatedAt": "2018-05-09T12:03:18Z",
+          "UpdatedAt": "2020-09-21T23:39:55Z",
+          "Owner": {
+            "Login": "danistefanovic"
+          },
+          "PrimaryLanguage": {
+            "Name": ""
+          },
+          "Stargazers": {
+            "TotalCount": 82906
+          },
+          "IssuesTotal": {
+            "TotalCount": 348
+          },
+          "IssuesClosed": {
+            "TotalCount": 275
+          },
+          "PullRequests": {
+            "TotalCount": 160
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk2MzUzNzI0OQ==",
+          "Name": "create-react-app",
+          "URL": "https://github.com/facebook/create-react-app",
+          "CreatedAt": "2016-07-17T14:55:11Z",
+          "UpdatedAt": "2020-09-21T22:48:46Z",
+          "Owner": {
+            "Login": "facebook"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 82133
+          },
+          "IssuesTotal": {
+            "TotalCount": 6209
+          },
+          "IssuesClosed": {
+            "TotalCount": 5681
+          },
+          "PullRequests": {
+            "TotalCount": 3302
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMjY1NzcyNjA=",
+          "Name": "javascript-algorithms",
+          "URL": "https://github.com/trekhleb/javascript-algorithms",
+          "CreatedAt": "2018-03-24T07:47:04Z",
+          "UpdatedAt": "2020-09-21T23:45:15Z",
+          "Owner": {
+            "Login": "trekhleb"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 81335
+          },
+          "IssuesTotal": {
+            "TotalCount": 158
+          },
+          "IssuesClosed": {
+            "TotalCount": 100
+          },
+          "PullRequests": {
+            "TotalCount": 375
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkzNTk1NTY2Ng==",
+          "Name": "the-art-of-command-line",
+          "URL": "https://github.com/jlevy/the-art-of-command-line",
+          "CreatedAt": "2015-05-20T15:11:03Z",
+          "UpdatedAt": "2020-09-21T23:25:37Z",
+          "Owner": {
+            "Login": "jlevy"
+          },
+          "PrimaryLanguage": {
+            "Name": ""
+          },
+          "Stargazers": {
+            "TotalCount": 80424
+          },
+          "IssuesTotal": {
+            "TotalCount": 174
+          },
+          "IssuesClosed": {
+            "TotalCount": 83
+          },
+          "PullRequests": {
+            "TotalCount": 515
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyMzA4ODc0MA==",
+          "Name": "axios",
+          "URL": "https://github.com/axios/axios",
+          "CreatedAt": "2014-08-18T22:30:27Z",
+          "UpdatedAt": "2020-09-21T22:40:58Z",
+          "Owner": {
+            "Login": "axios"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 77177
+          },
+          "IssuesTotal": {
+            "TotalCount": 2563
+          },
+          "IssuesClosed": {
+            "TotalCount": 2366
+          },
+          "PullRequests": {
+            "TotalCount": 723
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyMzA5Njk1OQ==",
+          "Name": "go",
+          "URL": "https://github.com/golang/go",
+          "CreatedAt": "2014-08-19T04:33:40Z",
+          "UpdatedAt": "2020-09-21T22:10:55Z",
+          "Owner": {
+            "Login": "golang"
+          },
+          "PrimaryLanguage": {
+            "Name": "Go"
+          },
+          "Stargazers": {
+            "TotalCount": 76744
+          },
+          "IssuesTotal": {
+            "TotalCount": 40029
+          },
+          "IssuesClosed": {
+            "TotalCount": 33871
+          },
+          "PullRequests": {
+            "TotalCount": 1296
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyNzE5Mzc3OQ==",
+          "Name": "node",
+          "URL": "https://github.com/nodejs/node",
+          "CreatedAt": "2014-11-26T19:57:11Z",
+          "UpdatedAt": "2020-09-21T23:37:33Z",
+          "Owner": {
+            "Login": "nodejs"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 73094
+          },
+          "IssuesTotal": {
+            "TotalCount": 12167
+          },
+          "IssuesClosed": {
+            "TotalCount": 11280
+          },
+          "PullRequests": {
+            "TotalCount": 22416
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMDM5NTIw",
+          "Name": "youtube-dl",
+          "URL": "https://github.com/ytdl-org/youtube-dl",
+          "CreatedAt": "2010-10-31T14:35:07Z",
+          "UpdatedAt": "2020-09-21T22:24:39Z",
+          "Owner": {
+            "Login": "ytdl-org"
+          },
+          "PrimaryLanguage": {
+            "Name": "Python"
+          },
+          "Stargazers": {
+            "TotalCount": 70981
+          },
+          "IssuesTotal": {
+            "TotalCount": 21473
+          },
+          "IssuesClosed": {
+            "TotalCount": 18304
+          },
+          "PullRequests": {
+            "TotalCount": 4000
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyMDU4MDQ5OA==",
+          "Name": "kubernetes",
+          "URL": "https://github.com/kubernetes/kubernetes",
+          "CreatedAt": "2014-06-06T22:56:04Z",
+          "UpdatedAt": "2020-09-21T23:39:29Z",
+          "Owner": {
+            "Login": "kubernetes"
+          },
+          "PrimaryLanguage": {
+            "Name": "Go"
+          },
+          "Stargazers": {
+            "TotalCount": 70193
+          },
+          "IssuesTotal": {
+            "TotalCount": 36140
+          },
+          "IssuesClosed": {
+            "TotalCount": 34114
+          },
+          "PullRequests": {
+            "TotalCount": 58763
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxNDA5ODA2OQ==",
+          "Name": "free-programming-books-zh_CN",
+          "URL": "https://github.com/justjavac/free-programming-books-zh_CN",
+          "CreatedAt": "2013-11-04T01:59:19Z",
+          "UpdatedAt": "2020-09-21T19:43:17Z",
+          "Owner": {
+            "Login": "justjavac"
+          },
+          "PrimaryLanguage": {
+            "Name": ""
+          },
+          "Stargazers": {
+            "TotalCount": 69973
+          },
+          "IssuesTotal": {
+            "TotalCount": 0
+          },
+          "IssuesClosed": {
+            "TotalCount": 0
+          },
+          "PullRequests": {
+            "TotalCount": 404
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMDAwNjA5MTI=",
+          "Name": "terminal",
+          "URL": "https://github.com/microsoft/terminal",
+          "CreatedAt": "2017-08-11T18:38:22Z",
+          "UpdatedAt": "2020-09-21T23:31:37Z",
+          "Owner": {
+            "Login": "microsoft"
+          },
+          "PrimaryLanguage": {
+            "Name": "C++"
+          },
+          "Stargazers": {
+            "TotalCount": 67973
+          },
+          "IssuesTotal": {
+            "TotalCount": 6043
+          },
+          "IssuesClosed": {
+            "TotalCount": 4971
+          },
+          "PullRequests": {
+            "TotalCount": 1608
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyNTYxNTgy",
+          "Name": "animate.css",
+          "URL": "https://github.com/animate-css/animate.css",
+          "CreatedAt": "2011-10-12T10:07:38Z",
+          "UpdatedAt": "2020-09-21T20:09:37Z",
+          "Owner": {
+            "Login": "animate-css"
+          },
+          "PrimaryLanguage": {
+            "Name": "CSS"
+          },
+          "Stargazers": {
+            "TotalCount": 67923
+          },
+          "IssuesTotal": {
+            "TotalCount": 738
+          },
+          "IssuesClosed": {
+            "TotalCount": 734
+          },
+          "PullRequests": {
+            "TotalCount": 378
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMzM0NDIzODQ=",
+          "Name": "deno",
+          "URL": "https://github.com/denoland/deno",
+          "CreatedAt": "2018-05-15T01:34:26Z",
+          "UpdatedAt": "2020-09-21T20:09:59Z",
+          "Owner": {
+            "Login": "denoland"
+          },
+          "PrimaryLanguage": {
+            "Name": "TypeScript"
+          },
+          "Stargazers": {
+            "TotalCount": 67471
+          },
+          "IssuesTotal": {
+            "TotalCount": 3098
+          },
+          "IssuesClosed": {
+            "TotalCount": 2496
+          },
+          "PullRequests": {
+            "TotalCount": 4460
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk1MTExNzgzNw==",
+          "Name": "models",
+          "URL": "https://github.com/tensorflow/models",
+          "CreatedAt": "2016-02-05T01:15:20Z",
+          "UpdatedAt": "2020-09-21T22:52:34Z",
+          "Owner": {
+            "Login": "tensorflow"
+          },
+          "PrimaryLanguage": {
+            "Name": "Python"
+          },
+          "Stargazers": {
+            "TotalCount": 66191
+          },
+          "IssuesTotal": {
+            "TotalCount": 5836
+          },
+          "IssuesClosed": {
+            "TotalCount": 5038
+          },
+          "PullRequests": {
+            "TotalCount": 3317
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyNDE5NTMzOQ==",
+          "Name": "angular",
+          "URL": "https://github.com/angular/angular",
+          "CreatedAt": "2014-09-18T16:12:01Z",
+          "UpdatedAt": "2020-09-21T23:30:53Z",
+          "Owner": {
+            "Login": "angular"
+          },
+          "PrimaryLanguage": {
+            "Name": "TypeScript"
+          },
+          "Stargazers": {
+            "TotalCount": 66155
+          },
+          "IssuesTotal": {
+            "TotalCount": 21507
+          },
+          "IssuesClosed": {
+            "TotalCount": 18799
+          },
+          "PullRequests": {
+            "TotalCount": 16973
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxOTQxNTA2NA==",
+          "Name": "computer-science",
+          "URL": "https://github.com/ossu/computer-science",
+          "CreatedAt": "2014-05-04T00:18:39Z",
+          "UpdatedAt": "2020-09-21T22:24:34Z",
+          "Owner": {
+            "Login": "ossu"
+          },
+          "PrimaryLanguage": {
+            "Name": ""
+          },
+          "Stargazers": {
+            "TotalCount": 66148
+          },
+          "IssuesTotal": {
+            "TotalCount": 486
+          },
+          "IssuesClosed": {
+            "TotalCount": 481
+          },
+          "PullRequests": {
+            "TotalCount": 276
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk5MDc5NjY2Mw==",
+          "Name": "puppeteer",
+          "URL": "https://github.com/puppeteer/puppeteer",
+          "CreatedAt": "2017-05-09T22:16:13Z",
+          "UpdatedAt": "2020-09-21T23:26:32Z",
+          "Owner": {
+            "Login": "puppeteer"
+          },
+          "PrimaryLanguage": {
+            "Name": "TypeScript"
+          },
+          "Stargazers": {
+            "TotalCount": 65236
+          },
+          "IssuesTotal": {
+            "TotalCount": 4306
+          },
+          "IssuesClosed": {
+            "TotalCount": 3098
+          },
+          "PullRequests": {
+            "TotalCount": 2093
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyMDkyOTAyNQ==",
+          "Name": "TypeScript",
+          "URL": "https://github.com/microsoft/TypeScript",
+          "CreatedAt": "2014-06-17T15:28:39Z",
+          "UpdatedAt": "2020-09-21T22:43:03Z",
+          "Owner": {
+            "Login": "microsoft"
+          },
+          "PrimaryLanguage": {
+            "Name": "TypeScript"
+          },
+          "Stargazers": {
+            "TotalCount": 64456
+          },
+          "IssuesTotal": {
+            "TotalCount": 27697
+          },
+          "IssuesClosed": {
+            "TotalCount": 23222
+          },
+          "PullRequests": {
+            "TotalCount": 12178
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkzNDcwNDcx",
+          "Name": "Font-Awesome",
+          "URL": "https://github.com/FortAwesome/Font-Awesome",
+          "CreatedAt": "2012-02-17T14:19:43Z",
+          "UpdatedAt": "2020-09-21T21:05:04Z",
+          "Owner": {
+            "Login": "FortAwesome"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 63950
+          },
+          "IssuesTotal": {
+            "TotalCount": 16493
+          },
+          "IssuesClosed": {
+            "TotalCount": 10995
+          },
+          "PullRequests": {
+            "TotalCount": 599
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk1NzYyMDE=",
+          "Name": "three.js",
+          "URL": "https://github.com/mrdoob/three.js",
+          "CreatedAt": "2010-03-23T18:58:01Z",
+          "UpdatedAt": "2020-09-21T20:15:33Z",
+          "Owner": {
+            "Login": "mrdoob"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 63554
+          },
+          "IssuesTotal": {
+            "TotalCount": 10030
+          },
+          "IssuesClosed": {
+            "TotalCount": 9596
+          },
+          "PullRequests": {
+            "TotalCount": 10284
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkzNDUyNjg4NA==",
+          "Name": "ant-design",
+          "URL": "https://github.com/ant-design/ant-design",
+          "CreatedAt": "2015-04-24T15:37:24Z",
+          "UpdatedAt": "2020-09-21T21:36:21Z",
+          "Owner": {
+            "Login": "ant-design"
+          },
+          "PrimaryLanguage": {
+            "Name": "TypeScript"
+          },
+          "Stargazers": {
+            "TotalCount": 63512
+          },
+          "IssuesTotal": {
+            "TotalCount": 18833
+          },
+          "IssuesClosed": {
+            "TotalCount": 18363
+          },
+          "PullRequests": {
+            "TotalCount": 7953
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyNDE1NzYyNzA=",
+          "Name": "fucking-algorithm",
+          "URL": "https://github.com/labuladong/fucking-algorithm",
+          "CreatedAt": "2020-02-19T09:01:23Z",
+          "UpdatedAt": "2020-09-21T23:37:22Z",
+          "Owner": {
+            "Login": "labuladong"
+          },
+          "PrimaryLanguage": {
+            "Name": ""
+          },
+          "Stargazers": {
+            "TotalCount": 62451
+          },
+          "IssuesTotal": {
+            "TotalCount": 217
+          },
+          "IssuesClosed": {
+            "TotalCount": 194
+          },
+          "PullRequests": {
+            "TotalCount": 227
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMTI1MDcwODY=",
+          "Name": "30-seconds-of-code",
+          "URL": "https://github.com/30-seconds/30-seconds-of-code",
+          "CreatedAt": "2017-11-29T17:35:03Z",
+          "UpdatedAt": "2020-09-21T22:54:13Z",
+          "Owner": {
+            "Login": "30-seconds"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 62046
+          },
+          "IssuesTotal": {
+            "TotalCount": 258
+          },
+          "IssuesClosed": {
+            "TotalCount": 257
+          },
+          "PullRequests": {
+            "TotalCount": 909
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxODYzMzI5",
+          "Name": "laravel",
+          "URL": "https://github.com/laravel/laravel",
+          "CreatedAt": "2011-06-08T03:06:08Z",
+          "UpdatedAt": "2020-09-21T23:41:39Z",
+          "Owner": {
+            "Login": "laravel"
+          },
+          "PrimaryLanguage": {
+            "Name": "PHP"
+          },
+          "Stargazers": {
+            "TotalCount": 61556
+          },
+          "IssuesTotal": {
+            "TotalCount": 0
+          },
+          "IssuesClosed": {
+            "TotalCount": 0
+          },
+          "PullRequests": {
+            "TotalCount": 3767
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyMzA4MzE1Ng==",
+          "Name": "material-ui",
+          "URL": "https://github.com/mui-org/material-ui",
+          "CreatedAt": "2014-08-18T19:11:54Z",
+          "UpdatedAt": "2020-09-21T23:44:57Z",
+          "Owner": {
+            "Login": "mui-org"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 61128
+          },
+          "IssuesTotal": {
+            "TotalCount": 11753
+          },
+          "IssuesClosed": {
+            "TotalCount": 11331
+          },
+          "PullRequests": {
+            "TotalCount": 10801
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyMjc5MDQ4OA==",
+          "Name": "java-design-patterns",
+          "URL": "https://github.com/iluwatar/java-design-patterns",
+          "CreatedAt": "2014-08-09T16:45:18Z",
+          "UpdatedAt": "2020-09-21T23:30:16Z",
+          "Owner": {
+            "Login": "iluwatar"
+          },
+          "PrimaryLanguage": {
+            "Name": "Java"
+          },
+          "Stargazers": {
+            "TotalCount": 60705
+          },
+          "IssuesTotal": {
+            "TotalCount": 639
+          },
+          "IssuesClosed": {
+            "TotalCount": 410
+          },
+          "PullRequests": {
+            "TotalCount": 869
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk4ODQ2NDcwNA==",
+          "Name": "vue-element-admin",
+          "URL": "https://github.com/PanJiaChen/vue-element-admin",
+          "CreatedAt": "2017-04-17T03:35:49Z",
+          "UpdatedAt": "2020-09-21T16:47:56Z",
+          "Owner": {
+            "Login": "PanJiaChen"
+          },
+          "PrimaryLanguage": {
+            "Name": "Vue"
+          },
+          "Stargazers": {
+            "TotalCount": 59955
+          },
+          "IssuesTotal": {
+            "TotalCount": 2915
+          },
+          "IssuesClosed": {
+            "TotalCount": 2204
+          },
+          "PullRequests": {
+            "TotalCount": 498
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk0NjAwNzg=",
+          "Name": "angular.js",
+          "URL": "https://github.com/angular/angular.js",
+          "CreatedAt": "2010-01-06T00:34:37Z",
+          "UpdatedAt": "2020-09-21T21:05:13Z",
+          "Owner": {
+            "Login": "angular"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 59499
+          },
+          "IssuesTotal": {
+            "TotalCount": 9001
+          },
+          "IssuesClosed": {
+            "TotalCount": 8612
+          },
+          "PullRequests": {
+            "TotalCount": 7942
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxNjA2NDAwOTQ=",
+          "Name": "LeetCodeAnimation",
+          "URL": "https://github.com/MisterBooo/LeetCodeAnimation",
+          "CreatedAt": "2018-12-06T08:01:22Z",
+          "UpdatedAt": "2020-09-21T22:01:42Z",
+          "Owner": {
+            "Login": "MisterBooo"
+          },
+          "PrimaryLanguage": {
+            "Name": "Java"
+          },
+          "Stargazers": {
+            "TotalCount": 59361
+          },
+          "IssuesTotal": {
+            "TotalCount": 45
+          },
+          "IssuesClosed": {
+            "TotalCount": 39
+          },
+          "PullRequests": {
+            "TotalCount": 71
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk3NjkxNjMx",
+          "Name": "moby",
+          "URL": "https://github.com/moby/moby",
+          "CreatedAt": "2013-01-18T18:10:57Z",
+          "UpdatedAt": "2020-09-21T23:16:57Z",
+          "Owner": {
+            "Login": "moby"
+          },
+          "PrimaryLanguage": {
+            "Name": "Go"
+          },
+          "Stargazers": {
+            "TotalCount": 58220
+          },
+          "IssuesTotal": {
+            "TotalCount": 20433
+          },
+          "IssuesClosed": {
+            "TotalCount": 16776
+          },
+          "PullRequests": {
+            "TotalCount": 20966
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyMTU0MDc1OQ==",
+          "Name": "awesome-go",
+          "URL": "https://github.com/avelino/awesome-go",
+          "CreatedAt": "2014-07-06T13:42:15Z",
+          "UpdatedAt": "2020-09-21T23:35:31Z",
+          "Owner": {
+            "Login": "avelino"
+          },
+          "PrimaryLanguage": {
+            "Name": "Go"
+          },
+          "Stargazers": {
+            "TotalCount": 57645
+          },
+          "IssuesTotal": {
+            "TotalCount": 237
+          },
+          "IssuesClosed": {
+            "TotalCount": 229
+          },
+          "PullRequests": {
+            "TotalCount": 2990
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk0NDU3MTcxOA==",
+          "Name": "awesome-vue",
+          "URL": "https://github.com/vuejs/awesome-vue",
+          "CreatedAt": "2015-10-20T00:16:14Z",
+          "UpdatedAt": "2020-09-21T20:39:10Z",
+          "Owner": {
+            "Login": "vuejs"
+          },
+          "PrimaryLanguage": {
+            "Name": ""
+          },
+          "Stargazers": {
+            "TotalCount": 56464
+          },
+          "IssuesTotal": {
+            "TotalCount": 181
+          },
+          "IssuesClosed": {
+            "TotalCount": 115
+          },
+          "PullRequests": {
+            "TotalCount": 3255
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkzNjc4NzMx",
+          "Name": "webpack",
+          "URL": "https://github.com/webpack/webpack",
+          "CreatedAt": "2012-03-10T10:08:14Z",
+          "UpdatedAt": "2020-09-21T14:54:19Z",
+          "Owner": {
+            "Login": "webpack"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 55653
+          },
+          "IssuesTotal": {
+            "TotalCount": 7380
+          },
+          "IssuesClosed": {
+            "TotalCount": 7122
+          },
+          "PullRequests": {
+            "TotalCount": 3968
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkzMzYxNDMwNA==",
+          "Name": "thefuck",
+          "URL": "https://github.com/nvbn/thefuck",
+          "CreatedAt": "2015-04-08T15:08:04Z",
+          "UpdatedAt": "2020-09-21T22:53:39Z",
+          "Owner": {
+            "Login": "nvbn"
+          },
+          "PrimaryLanguage": {
+            "Name": "Python"
+          },
+          "Stargazers": {
+            "TotalCount": 55561
+          },
+          "IssuesTotal": {
+            "TotalCount": 557
+          },
+          "IssuesClosed": {
+            "TotalCount": 363
+          },
+          "PullRequests": {
+            "TotalCount": 551
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkzNjUzNTE1Ng==",
+          "Name": "redux",
+          "URL": "https://github.com/reduxjs/redux",
+          "CreatedAt": "2015-05-29T23:53:15Z",
+          "UpdatedAt": "2020-09-21T18:07:29Z",
+          "Owner": {
+            "Login": "reduxjs"
+          },
+          "PrimaryLanguage": {
+            "Name": "TypeScript"
+          },
+          "Stargazers": {
+            "TotalCount": 54329
+          },
+          "IssuesTotal": {
+            "TotalCount": 1806
+          },
+          "IssuesClosed": {
+            "TotalCount": 1773
+          },
+          "PullRequests": {
+            "TotalCount": 2039
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxNjcxNzQ=",
+          "Name": "jquery",
+          "URL": "https://github.com/jquery/jquery",
+          "CreatedAt": "2009-04-03T15:20:14Z",
+          "UpdatedAt": "2020-09-21T23:40:59Z",
+          "Owner": {
+            "Login": "jquery"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 53996
+          },
+          "IssuesTotal": {
+            "TotalCount": 2053
+          },
+          "IssuesClosed": {
+            "TotalCount": 1990
+          },
+          "PullRequests": {
+            "TotalCount": 2654
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk1NDE3MzU5Mw==",
+          "Name": "storybook",
+          "URL": "https://github.com/storybookjs/storybook",
+          "CreatedAt": "2016-03-18T04:23:44Z",
+          "UpdatedAt": "2020-09-21T22:37:37Z",
+          "Owner": {
+            "Login": "storybookjs"
+          },
+          "PrimaryLanguage": {
+            "Name": "TypeScript"
+          },
+          "Stargazers": {
+            "TotalCount": 53572
+          },
+          "IssuesTotal": {
+            "TotalCount": 6218
+          },
+          "IssuesClosed": {
+            "TotalCount": 5563
+          },
+          "PullRequests": {
+            "TotalCount": 6144
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk0NDgzODk0OQ==",
+          "Name": "swift",
+          "URL": "https://github.com/apple/swift",
+          "CreatedAt": "2015-10-23T21:15:07Z",
+          "UpdatedAt": "2020-09-21T23:33:09Z",
+          "Owner": {
+            "Login": "apple"
+          },
+          "PrimaryLanguage": {
+            "Name": "C++"
+          },
+          "Stargazers": {
+            "TotalCount": 53522
+          },
+          "IssuesTotal": {
+            "TotalCount": 0
+          },
+          "IssuesClosed": {
+            "TotalCount": 0
+          },
+          "PullRequests": {
+            "TotalCount": 33881
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk3MDEwNzc4Ng==",
+          "Name": "next.js",
+          "URL": "https://github.com/vercel/next.js",
+          "CreatedAt": "2016-10-05T23:32:51Z",
+          "UpdatedAt": "2020-09-21T23:04:03Z",
+          "Owner": {
+            "Login": "vercel"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 53462
+          },
+          "IssuesTotal": {
+            "TotalCount": 7328
+          },
+          "IssuesClosed": {
+            "TotalCount": 6812
+          },
+          "PullRequests": {
+            "TotalCount": 6615
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxODYxNDU4",
+          "Name": "reveal.js",
+          "URL": "https://github.com/hakimel/reveal.js",
+          "CreatedAt": "2011-06-07T18:54:22Z",
+          "UpdatedAt": "2020-09-21T23:23:56Z",
+          "Owner": {
+            "Login": "hakimel"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 53148
+          },
+          "IssuesTotal": {
+            "TotalCount": 1868
+          },
+          "IssuesClosed": {
+            "TotalCount": 1365
+          },
+          "PullRequests": {
+            "TotalCount": 876
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkzMjI4NTA1",
+          "Name": "atom",
+          "URL": "https://github.com/atom/atom",
+          "CreatedAt": "2012-01-20T18:18:21Z",
+          "UpdatedAt": "2020-09-21T22:10:17Z",
+          "Owner": {
+            "Login": "atom"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 53040
+          },
+          "IssuesTotal": {
+            "TotalCount": 16052
+          },
+          "IssuesClosed": {
+            "TotalCount": 15486
+          },
+          "PullRequests": {
+            "TotalCount": 4828
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMDM2MzM5ODQ=",
+          "Name": "nodebestpractices",
+          "URL": "https://github.com/goldbergyoni/nodebestpractices",
+          "CreatedAt": "2017-09-15T08:33:19Z",
+          "UpdatedAt": "2020-09-21T23:44:06Z",
+          "Owner": {
+            "Login": "goldbergyoni"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 52679
+          },
+          "IssuesTotal": {
+            "TotalCount": 209
+          },
+          "IssuesClosed": {
+            "TotalCount": 193
+          },
+          "PullRequests": {
+            "TotalCount": 545
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk1OTY4OTI=",
+          "Name": "flask",
+          "URL": "https://github.com/pallets/flask",
+          "CreatedAt": "2010-04-06T11:11:59Z",
+          "UpdatedAt": "2020-09-21T23:04:18Z",
+          "Owner": {
+            "Login": "pallets"
+          },
+          "PrimaryLanguage": {
+            "Name": "Python"
+          },
+          "Stargazers": {
+            "TotalCount": 52076
+          },
+          "IssuesTotal": {
+            "TotalCount": 1989
+          },
+          "IssuesClosed": {
+            "TotalCount": 1970
+          },
+          "PullRequests": {
+            "TotalCount": 1743
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk0MTY0NDgy",
+          "Name": "django",
+          "URL": "https://github.com/django/django",
+          "CreatedAt": "2012-04-28T02:47:18Z",
+          "UpdatedAt": "2020-09-21T23:34:02Z",
+          "Owner": {
+            "Login": "django"
+          },
+          "PrimaryLanguage": {
+            "Name": "Python"
+          },
+          "Stargazers": {
+            "TotalCount": 52066
+          },
+          "IssuesTotal": {
+            "TotalCount": 0
+          },
+          "IssuesClosed": {
+            "TotalCount": 0
+          },
+          "PullRequests": {
+            "TotalCount": 13410
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk1MDc3NzU=",
+          "Name": "elasticsearch",
+          "URL": "https://github.com/elastic/elasticsearch",
+          "CreatedAt": "2010-02-08T13:20:56Z",
+          "UpdatedAt": "2020-09-21T23:43:35Z",
+          "Owner": {
+            "Login": "elastic"
+          },
+          "PrimaryLanguage": {
+            "Name": "Java"
+          },
+          "Stargazers": {
+            "TotalCount": 51249
+          },
+          "IssuesTotal": {
+            "TotalCount": 24894
+          },
+          "IssuesClosed": {
+            "TotalCount": 22248
+          },
+          "PullRequests": {
+            "TotalCount": 37675
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk1NTc5ODA=",
+          "Name": "socket.io",
+          "URL": "https://github.com/socketio/socket.io",
+          "CreatedAt": "2010-03-11T18:24:48Z",
+          "UpdatedAt": "2020-09-21T18:51:40Z",
+          "Owner": {
+            "Login": "socketio"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 50698
+          },
+          "IssuesTotal": {
+            "TotalCount": 2885
+          },
+          "IssuesClosed": {
+            "TotalCount": 2378
+          },
+          "PullRequests": {
+            "TotalCount": 746
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyNjUwMDc4Nw==",
+          "Name": "FiraCode",
+          "URL": "https://github.com/tonsky/FiraCode",
+          "CreatedAt": "2014-11-11T19:32:38Z",
+          "UpdatedAt": "2020-09-21T22:52:49Z",
+          "Owner": {
+            "Login": "tonsky"
+          },
+          "PrimaryLanguage": {
+            "Name": "Clojure"
+          },
+          "Stargazers": {
+            "TotalCount": 50669
+          },
+          "IssuesTotal": {
+            "TotalCount": 983
+          },
+          "IssuesClosed": {
+            "TotalCount": 745
+          },
+          "PullRequests": {
+            "TotalCount": 134
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk2Mjk2Nzkw",
+          "Name": "spring-boot",
+          "URL": "https://github.com/spring-projects/spring-boot",
+          "CreatedAt": "2012-10-19T15:02:57Z",
+          "UpdatedAt": "2020-09-21T23:38:25Z",
+          "Owner": {
+            "Login": "spring-projects"
+          },
+          "PrimaryLanguage": {
+            "Name": "Java"
+          },
+          "Stargazers": {
+            "TotalCount": 50646
+          },
+          "IssuesTotal": {
+            "TotalCount": 18875
+          },
+          "IssuesClosed": {
+            "TotalCount": 18388
+          },
+          "PullRequests": {
+            "TotalCount": 4412
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk3NjAwNDA5",
+          "Name": "shadowsocks-windows",
+          "URL": "https://github.com/shadowsocks/shadowsocks-windows",
+          "CreatedAt": "2013-01-14T07:54:16Z",
+          "UpdatedAt": "2020-09-21T20:09:46Z",
+          "Owner": {
+            "Login": "shadowsocks"
+          },
+          "PrimaryLanguage": {
+            "Name": "C#"
+          },
+          "Stargazers": {
+            "TotalCount": 50477
+          },
+          "IssuesTotal": {
+            "TotalCount": 2557
+          },
+          "IssuesClosed": {
+            "TotalCount": 2503
+          },
+          "PullRequests": {
+            "TotalCount": 387
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk4ODQzNjgz",
+          "Name": "Chart.js",
+          "URL": "https://github.com/chartjs/Chart.js",
+          "CreatedAt": "2013-03-17T23:56:36Z",
+          "UpdatedAt": "2020-09-21T20:58:21Z",
+          "Owner": {
+            "Login": "chartjs"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 50334
+          },
+          "IssuesTotal": {
+            "TotalCount": 5371
+          },
+          "IssuesClosed": {
+            "TotalCount": 5016
+          },
+          "PullRequests": {
+            "TotalCount": 2408
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyMzcxNTk=",
+          "Name": "express",
+          "URL": "https://github.com/expressjs/express",
+          "CreatedAt": "2009-06-26T18:56:01Z",
+          "UpdatedAt": "2020-09-21T23:04:24Z",
+          "Owner": {
+            "Login": "expressjs"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 50180
+          },
+          "IssuesTotal": {
+            "TotalCount": 3373
+          },
+          "IssuesClosed": {
+            "TotalCount": 3277
+          },
+          "PullRequests": {
+            "TotalCount": 1007
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkzMzAxNTU4Mw==",
+          "Name": "keras",
+          "URL": "https://github.com/keras-team/keras",
+          "CreatedAt": "2015-03-28T00:35:42Z",
+          "UpdatedAt": "2020-09-21T23:13:30Z",
+          "Owner": {
+            "Login": "keras-team"
+          },
+          "PrimaryLanguage": {
+            "Name": "Python"
+          },
+          "Stargazers": {
+            "TotalCount": 49788
+          },
+          "IssuesTotal": {
+            "TotalCount": 10261
+          },
+          "IssuesClosed": {
+            "TotalCount": 7189
+          },
+          "PullRequests": {
+            "TotalCount": 3935
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxNDc0NzU5OA==",
+          "Name": "json-server",
+          "URL": "https://github.com/typicode/json-server",
+          "CreatedAt": "2013-11-27T13:21:13Z",
+          "UpdatedAt": "2020-09-21T23:31:22Z",
+          "Owner": {
+            "Login": "typicode"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 49601
+          },
+          "IssuesTotal": {
+            "TotalCount": 898
+          },
+          "IssuesClosed": {
+            "TotalCount": 405
+          },
+          "PullRequests": {
+            "TotalCount": 261
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxODQwODYzNQ==",
+          "Name": "Apollo-11",
+          "URL": "https://github.com/chrislgarry/Apollo-11",
+          "CreatedAt": "2014-04-03T15:45:02Z",
+          "UpdatedAt": "2020-09-21T21:17:34Z",
+          "Owner": {
+            "Login": "chrislgarry"
+          },
+          "PrimaryLanguage": {
+            "Name": "Assembly"
+          },
+          "Stargazers": {
+            "TotalCount": 49033
+          },
+          "IssuesTotal": {
+            "TotalCount": 364
+          },
+          "IssuesClosed": {
+            "TotalCount": 281
+          },
+          "PullRequests": {
+            "TotalCount": 323
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkzNjYzMzM3MA==",
+          "Name": "awesome-selfhosted",
+          "URL": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+          "CreatedAt": "2015-06-01T02:33:17Z",
+          "UpdatedAt": "2020-09-21T22:37:07Z",
+          "Owner": {
+            "Login": "awesome-selfhosted"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 48588
+          },
+          "IssuesTotal": {
+            "TotalCount": 545
+          },
+          "IssuesClosed": {
+            "TotalCount": 469
+          },
+          "PullRequests": {
+            "TotalCount": 1670
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMDc0NDE4Mw==",
+          "Name": "netdata",
+          "URL": "https://github.com/netdata/netdata",
+          "CreatedAt": "2013-06-17T18:39:10Z",
+          "UpdatedAt": "2020-09-21T23:35:28Z",
+          "Owner": {
+            "Login": "netdata"
+          },
+          "PrimaryLanguage": {
+            "Name": "C"
+          },
+          "Stargazers": {
+            "TotalCount": 48500
+          },
+          "IssuesTotal": {
+            "TotalCount": 5768
+          },
+          "IssuesClosed": {
+            "TotalCount": 5127
+          },
+          "PullRequests": {
+            "TotalCount": 4176
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk5MzA5MDkz",
+          "Name": "Semantic-UI",
+          "URL": "https://github.com/Semantic-Org/Semantic-UI",
+          "CreatedAt": "2013-04-08T23:32:04Z",
+          "UpdatedAt": "2020-09-21T23:37:34Z",
+          "Owner": {
+            "Login": "Semantic-Org"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 48475
+          },
+          "IssuesTotal": {
+            "TotalCount": 6128
+          },
+          "IssuesClosed": {
+            "TotalCount": 5220
+          },
+          "PullRequests": {
+            "TotalCount": 867
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk1MTA4MDUx",
+          "Name": "opencv",
+          "URL": "https://github.com/opencv/opencv",
+          "CreatedAt": "2012-07-19T09:40:17Z",
+          "UpdatedAt": "2020-09-21T22:30:57Z",
+          "Owner": {
+            "Login": "opencv"
+          },
+          "PrimaryLanguage": {
+            "Name": "C++"
+          },
+          "Stargazers": {
+            "TotalCount": 48420
+          },
+          "IssuesTotal": {
+            "TotalCount": 7185
+          },
+          "IssuesClosed": {
+            "TotalCount": 5317
+          },
+          "PullRequests": {
+            "TotalCount": 11149
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk3MjQ3MTI=",
+          "Name": "rust",
+          "URL": "https://github.com/rust-lang/rust",
+          "CreatedAt": "2010-06-16T20:39:03Z",
+          "UpdatedAt": "2020-09-21T23:42:05Z",
+          "Owner": {
+            "Login": "rust-lang"
+          },
+          "PrimaryLanguage": {
+            "Name": "Rust"
+          },
+          "Stargazers": {
+            "TotalCount": 48357
+          },
+          "IssuesTotal": {
+            "TotalCount": 35984
+          },
+          "IssuesClosed": {
+            "TotalCount": 30044
+          },
+          "PullRequests": {
+            "TotalCount": 40922
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk0MzExNzk2",
+          "Name": "markdown-here",
+          "URL": "https://github.com/adam-p/markdown-here",
+          "CreatedAt": "2012-05-13T03:27:22Z",
+          "UpdatedAt": "2020-09-21T23:32:06Z",
+          "Owner": {
+            "Login": "adam-p"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 48275
+          },
+          "IssuesTotal": {
+            "TotalCount": 557
+          },
+          "IssuesClosed": {
+            "TotalCount": 299
+          },
+          "PullRequests": {
+            "TotalCount": 61
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkzNTQ0NDI0",
+          "Name": "httpie",
+          "URL": "https://github.com/httpie/httpie",
+          "CreatedAt": "2012-02-25T12:39:13Z",
+          "UpdatedAt": "2020-09-21T23:41:02Z",
+          "Owner": {
+            "Login": "httpie"
+          },
+          "PrimaryLanguage": {
+            "Name": "Python"
+          },
+          "Stargazers": {
+            "TotalCount": 48127
+          },
+          "IssuesTotal": {
+            "TotalCount": 633
+          },
+          "IssuesClosed": {
+            "TotalCount": 528
+          },
+          "PullRequests": {
+            "TotalCount": 273
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk4MTk3NTM3Mg==",
+          "Name": "interviews",
+          "URL": "https://github.com/kdn251/interviews",
+          "CreatedAt": "2017-02-14T18:19:25Z",
+          "UpdatedAt": "2020-09-21T23:45:41Z",
+          "Owner": {
+            "Login": "kdn251"
+          },
+          "PrimaryLanguage": {
+            "Name": "Java"
+          },
+          "Stargazers": {
+            "TotalCount": 47774
+          },
+          "IssuesTotal": {
+            "TotalCount": 44
+          },
+          "IssuesClosed": {
+            "TotalCount": 17
+          },
+          "PullRequests": {
+            "TotalCount": 122
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMjgzOTg2MzY=",
+          "Name": "architect-awesome",
+          "URL": "https://github.com/xingshaocheng/architect-awesome",
+          "CreatedAt": "2018-04-06T13:30:58Z",
+          "UpdatedAt": "2020-09-21T20:22:47Z",
+          "Owner": {
+            "Login": "xingshaocheng"
+          },
+          "PrimaryLanguage": {
+            "Name": ""
+          },
+          "Stargazers": {
+            "TotalCount": 47485
+          },
+          "IssuesTotal": {
+            "TotalCount": 64
+          },
+          "IssuesClosed": {
+            "TotalCount": 19
+          },
+          "PullRequests": {
+            "TotalCount": 70
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxNTE4MzQwNjI=",
+          "Name": "advanced-java",
+          "URL": "https://github.com/doocs/advanced-java",
+          "CreatedAt": "2018-10-06T11:38:30Z",
+          "UpdatedAt": "2020-09-21T17:10:48Z",
+          "Owner": {
+            "Login": "doocs"
+          },
+          "PrimaryLanguage": {
+            "Name": "Java"
+          },
+          "Stargazers": {
+            "TotalCount": 47435
+          },
+          "IssuesTotal": {
+            "TotalCount": 107
+          },
+          "IssuesClosed": {
+            "TotalCount": 94
+          },
+          "PullRequests": {
+            "TotalCount": 80
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk2NzI3NDczNg==",
+          "Name": "element",
+          "URL": "https://github.com/ElemeFE/element",
+          "CreatedAt": "2016-09-03T06:19:26Z",
+          "UpdatedAt": "2020-09-21T18:51:39Z",
+          "Owner": {
+            "Login": "ElemeFE"
+          },
+          "PrimaryLanguage": {
+            "Name": "Vue"
+          },
+          "Stargazers": {
+            "TotalCount": 47327
+          },
+          "IssuesTotal": {
+            "TotalCount": 15734
+          },
+          "IssuesClosed": {
+            "TotalCount": 14097
+          },
+          "PullRequests": {
+            "TotalCount": 4444
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk1MjYzMTg0MQ==",
+          "Name": "realworld",
+          "URL": "https://github.com/gothinkster/realworld",
+          "CreatedAt": "2016-02-26T20:49:53Z",
+          "UpdatedAt": "2020-09-21T22:46:32Z",
+          "Owner": {
+            "Login": "gothinkster"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 47167
+          },
+          "IssuesTotal": {
+            "TotalCount": 375
+          },
+          "IssuesClosed": {
+            "TotalCount": 157
+          },
+          "PullRequests": {
+            "TotalCount": 178
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkzNjA0MDg5NA==",
+          "Name": "gatsby",
+          "URL": "https://github.com/gatsbyjs/gatsby",
+          "CreatedAt": "2015-05-21T22:43:05Z",
+          "UpdatedAt": "2020-09-21T22:31:37Z",
+          "Owner": {
+            "Login": "gatsbyjs"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 46984
+          },
+          "IssuesTotal": {
+            "TotalCount": 11581
+          },
+          "IssuesClosed": {
+            "TotalCount": 10979
+          },
+          "PullRequests": {
+            "TotalCount": 15371
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk0ODY1NTA=",
+          "Name": "html5-boilerplate",
+          "URL": "https://github.com/h5bp/html5-boilerplate",
+          "CreatedAt": "2010-01-24T18:03:24Z",
+          "UpdatedAt": "2020-09-21T23:20:47Z",
+          "Owner": {
+            "Login": "h5bp"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 46793
+          },
+          "IssuesTotal": {
+            "TotalCount": 1185
+          },
+          "IssuesClosed": {
+            "TotalCount": 1184
+          },
+          "PullRequests": {
+            "TotalCount": 1115
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMTE4MDY4Nw==",
+          "Name": "hugo",
+          "URL": "https://github.com/gohugoio/hugo",
+          "CreatedAt": "2013-07-04T15:26:26Z",
+          "UpdatedAt": "2020-09-21T21:25:38Z",
+          "Owner": {
+            "Login": "gohugoio"
+          },
+          "PrimaryLanguage": {
+            "Name": "Go"
+          },
+          "Stargazers": {
+            "TotalCount": 46733
+          },
+          "IssuesTotal": {
+            "TotalCount": 4908
+          },
+          "IssuesClosed": {
+            "TotalCount": 4426
+          },
+          "PullRequests": {
+            "TotalCount": 2773
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyMTg3MjM5Mg==",
+          "Name": "awesome-machine-learning",
+          "URL": "https://github.com/josephmisiti/awesome-machine-learning",
+          "CreatedAt": "2014-07-15T19:11:19Z",
+          "UpdatedAt": "2020-09-21T22:34:21Z",
+          "Owner": {
+            "Login": "josephmisiti"
+          },
+          "PrimaryLanguage": {
+            "Name": "Python"
+          },
+          "Stargazers": {
+            "TotalCount": 46688
+          },
+          "IssuesTotal": {
+            "TotalCount": 66
+          },
+          "IssuesClosed": {
+            "TotalCount": 65
+          },
+          "PullRequests": {
+            "TotalCount": 647
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkzOTU1NjQ3",
+          "Name": "lodash",
+          "URL": "https://github.com/lodash/lodash",
+          "CreatedAt": "2012-04-07T04:11:46Z",
+          "UpdatedAt": "2020-09-21T21:18:02Z",
+          "Owner": {
+            "Login": "lodash"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 46562
+          },
+          "IssuesTotal": {
+            "TotalCount": 3784
+          },
+          "IssuesClosed": {
+            "TotalCount": 3685
+          },
+          "PullRequests": {
+            "TotalCount": 1126
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk4NTE0",
+          "Name": "rails",
+          "URL": "https://github.com/rails/rails",
+          "CreatedAt": "2008-04-11T02:19:47Z",
+          "UpdatedAt": "2020-09-21T23:32:03Z",
+          "Owner": {
+            "Login": "rails"
+          },
+          "PrimaryLanguage": {
+            "Name": "Ruby"
+          },
+          "Stargazers": {
+            "TotalCount": 46506
+          },
+          "IssuesTotal": {
+            "TotalCount": 14045
+          },
+          "IssuesClosed": {
+            "TotalCount": 13673
+          },
+          "PullRequests": {
+            "TotalCount": 26023
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMzM0MzY5",
+          "Name": "resume.github.com",
+          "URL": "https://github.com/resume/resume.github.com",
+          "CreatedAt": "2011-02-06T13:39:55Z",
+          "UpdatedAt": "2020-09-21T21:21:41Z",
+          "Owner": {
+            "Login": "resume"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 46202
+          },
+          "IssuesTotal": {
+            "TotalCount": 86
+          },
+          "IssuesClosed": {
+            "TotalCount": 56
+          },
+          "PullRequests": {
+            "TotalCount": 175
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk2MDk0Njgz",
+          "Name": "bootstrap",
+          "URL": "https://github.com/angular-ui/bootstrap",
+          "CreatedAt": "2012-10-05T18:27:01Z",
+          "UpdatedAt": "2020-09-21T20:58:21Z",
+          "Owner": {
+            "Login": "angular-ui"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 14601
+          },
+          "IssuesTotal": {
+            "TotalCount": 4455
+          },
+          "IssuesClosed": {
+            "TotalCount": 4185
+          },
+          "PullRequests": {
+            "TotalCount": 2270
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk0Mzc5NzcxOA==",
+          "Name": "recompose",
+          "URL": "https://github.com/acdlite/recompose",
+          "CreatedAt": "2015-10-07T05:54:51Z",
+          "UpdatedAt": "2020-09-21T16:26:54Z",
+          "Owner": {
+            "Login": "acdlite"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 14598
+          },
+          "IssuesTotal": {
+            "TotalCount": 430
+          },
+          "IssuesClosed": {
+            "TotalCount": 374
+          },
+          "PullRequests": {
+            "TotalCount": 386
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxOTk5NDI1Nw==",
+          "Name": "delve",
+          "URL": "https://github.com/go-delve/delve",
+          "CreatedAt": "2014-05-20T19:24:43Z",
+          "UpdatedAt": "2020-09-21T14:22:54Z",
+          "Owner": {
+            "Login": "go-delve"
+          },
+          "PrimaryLanguage": {
+            "Name": "Go"
+          },
+          "Stargazers": {
+            "TotalCount": 14588
+          },
+          "IssuesTotal": {
+            "TotalCount": 1126
+          },
+          "IssuesClosed": {
+            "TotalCount": 1027
+          },
+          "PullRequests": {
+            "TotalCount": 1049
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxNzA2Njg4NA==",
+          "Name": "pyspider",
+          "URL": "https://github.com/binux/pyspider",
+          "CreatedAt": "2014-02-21T19:18:47Z",
+          "UpdatedAt": "2020-09-21T21:05:55Z",
+          "Owner": {
+            "Login": "binux"
+          },
+          "PrimaryLanguage": {
+            "Name": "Python"
+          },
+          "Stargazers": {
+            "TotalCount": 14583
+          },
+          "IssuesTotal": {
+            "TotalCount": 795
+          },
+          "IssuesClosed": {
+            "TotalCount": 542
+          },
+          "PullRequests": {
+            "TotalCount": 160
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk5NDA2MTMwNw==",
+          "Name": "ink",
+          "URL": "https://github.com/vadimdemedes/ink",
+          "CreatedAt": "2017-06-12T06:12:28Z",
+          "UpdatedAt": "2020-09-21T18:55:12Z",
+          "Owner": {
+            "Login": "vadimdemedes"
+          },
+          "PrimaryLanguage": {
+            "Name": "TypeScript"
+          },
+          "Stargazers": {
+            "TotalCount": 14579
+          },
+          "IssuesTotal": {
+            "TotalCount": 199
+          },
+          "IssuesClosed": {
+            "TotalCount": 177
+          },
+          "PullRequests": {
+            "TotalCount": 180
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMjM1ODA5Nw==",
+          "Name": "IQKeyboardManager",
+          "URL": "https://github.com/hackiftekhar/IQKeyboardManager",
+          "CreatedAt": "2013-08-25T11:32:48Z",
+          "UpdatedAt": "2020-09-21T15:58:38Z",
+          "Owner": {
+            "Login": "hackiftekhar"
+          },
+          "PrimaryLanguage": {
+            "Name": "Objective-C"
+          },
+          "Stargazers": {
+            "TotalCount": 14565
+          },
+          "IssuesTotal": {
+            "TotalCount": 1575
+          },
+          "IssuesClosed": {
+            "TotalCount": 1523
+          },
+          "PullRequests": {
+            "TotalCount": 178
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk2MTk4NDk=",
+          "Name": "spf13-vim",
+          "URL": "https://github.com/spf13/spf13-vim",
+          "CreatedAt": "2010-04-20T16:20:16Z",
+          "UpdatedAt": "2020-09-21T02:49:00Z",
+          "Owner": {
+            "Login": "spf13"
+          },
+          "PrimaryLanguage": {
+            "Name": "Vim script"
+          },
+          "Stargazers": {
+            "TotalCount": 14564
+          },
+          "IssuesTotal": {
+            "TotalCount": 722
+          },
+          "IssuesClosed": {
+            "TotalCount": 412
+          },
+          "PullRequests": {
+            "TotalCount": 384
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMjA4ODc4MzU=",
+          "Name": "interview",
+          "URL": "https://github.com/huihut/interview",
+          "CreatedAt": "2018-02-09T09:49:48Z",
+          "UpdatedAt": "2020-09-21T15:24:31Z",
+          "Owner": {
+            "Login": "huihut"
+          },
+          "PrimaryLanguage": {
+            "Name": "C++"
+          },
+          "Stargazers": {
+            "TotalCount": 14561
+          },
+          "IssuesTotal": {
+            "TotalCount": 36
+          },
+          "IssuesClosed": {
+            "TotalCount": 34
+          },
+          "PullRequests": {
+            "TotalCount": 31
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMzgxMjgz",
+          "Name": "solarized",
+          "URL": "https://github.com/altercation/solarized",
+          "CreatedAt": "2011-02-18T05:18:27Z",
+          "UpdatedAt": "2020-09-21T03:11:13Z",
+          "Owner": {
+            "Login": "altercation"
+          },
+          "PrimaryLanguage": {
+            "Name": "Vim script"
+          },
+          "Stargazers": {
+            "TotalCount": 14559
+          },
+          "IssuesTotal": {
+            "TotalCount": 245
+          },
+          "IssuesClosed": {
+            "TotalCount": 96
+          },
+          "PullRequests": {
+            "TotalCount": 154
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMDUwMzYyMzY=",
+          "Name": "draggable",
+          "URL": "https://github.com/Shopify/draggable",
+          "CreatedAt": "2017-09-27T15:31:23Z",
+          "UpdatedAt": "2020-09-21T23:10:40Z",
+          "Owner": {
+            "Login": "Shopify"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 14555
+          },
+          "IssuesTotal": {
+            "TotalCount": 241
+          },
+          "IssuesClosed": {
+            "TotalCount": 145
+          },
+          "PullRequests": {
+            "TotalCount": 195
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk4OTAxMjQyNw==",
+          "Name": "react-sketchapp",
+          "URL": "https://github.com/airbnb/react-sketchapp",
+          "CreatedAt": "2017-04-21T18:27:39Z",
+          "UpdatedAt": "2020-09-21T13:58:32Z",
+          "Owner": {
+            "Login": "airbnb"
+          },
+          "PrimaryLanguage": {
+            "Name": "TypeScript"
+          },
+          "Stargazers": {
+            "TotalCount": 14522
+          },
+          "IssuesTotal": {
+            "TotalCount": 292
+          },
+          "IssuesClosed": {
+            "TotalCount": 266
+          },
+          "PullRequests": {
+            "TotalCount": 226
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk3NjM0MjI0Mg==",
+          "Name": "rough",
+          "URL": "https://github.com/rough-stuff/rough",
+          "CreatedAt": "2016-12-13T09:12:55Z",
+          "UpdatedAt": "2020-09-21T21:17:54Z",
+          "Owner": {
+            "Login": "rough-stuff"
+          },
+          "PrimaryLanguage": {
+            "Name": "TypeScript"
+          },
+          "Stargazers": {
+            "TotalCount": 14518
+          },
+          "IssuesTotal": {
+            "TotalCount": 106
+          },
+          "IssuesClosed": {
+            "TotalCount": 89
+          },
+          "PullRequests": {
+            "TotalCount": 63
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk3NTQyNTA3Mw==",
+          "Name": "rxdb",
+          "URL": "https://github.com/pubkey/rxdb",
+          "CreatedAt": "2016-12-02T19:34:42Z",
+          "UpdatedAt": "2020-09-21T21:37:46Z",
+          "Owner": {
+            "Login": "pubkey"
+          },
+          "PrimaryLanguage": {
+            "Name": "TypeScript"
+          },
+          "Stargazers": {
+            "TotalCount": 14516
+          },
+          "IssuesTotal": {
+            "TotalCount": 403
+          },
+          "IssuesClosed": {
+            "TotalCount": 399
+          },
+          "PullRequests": {
+            "TotalCount": 2125
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMTM5MzExMA==",
+          "Name": "cli",
+          "URL": "https://github.com/urfave/cli",
+          "CreatedAt": "2013-07-13T19:32:06Z",
+          "UpdatedAt": "2020-09-21T21:40:22Z",
+          "Owner": {
+            "Login": "urfave"
+          },
+          "PrimaryLanguage": {
+            "Name": "Go"
+          },
+          "Stargazers": {
+            "TotalCount": 14502
+          },
+          "IssuesTotal": {
+            "TotalCount": 550
+          },
+          "IssuesClosed": {
+            "TotalCount": 505
+          },
+          "PullRequests": {
+            "TotalCount": 637
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkzMDE2MTY2NQ==",
+          "Name": "inferno",
+          "URL": "https://github.com/infernojs/inferno",
+          "CreatedAt": "2015-02-01T22:07:38Z",
+          "UpdatedAt": "2020-09-21T04:10:36Z",
+          "Owner": {
+            "Login": "infernojs"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 14493
+          },
+          "IssuesTotal": {
+            "TotalCount": 824
+          },
+          "IssuesClosed": {
+            "TotalCount": 788
+          },
+          "PullRequests": {
+            "TotalCount": 696
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyMzExMjUyNg==",
+          "Name": "Android-CleanArchitecture",
+          "URL": "https://github.com/android10/Android-CleanArchitecture",
+          "CreatedAt": "2014-08-19T14:09:26Z",
+          "UpdatedAt": "2020-09-21T18:38:20Z",
+          "Owner": {
+            "Login": "android10"
+          },
+          "PrimaryLanguage": {
+            "Name": "Java"
+          },
+          "Stargazers": {
+            "TotalCount": 14493
+          },
+          "IssuesTotal": {
+            "TotalCount": 246
+          },
+          "IssuesClosed": {
+            "TotalCount": 122
+          },
+          "PullRequests": {
+            "TotalCount": 54
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMjQ4ODM3NA==",
+          "Name": "Best-App",
+          "URL": "https://github.com/hzlzh/Best-App",
+          "CreatedAt": "2013-08-30T14:32:19Z",
+          "UpdatedAt": "2020-09-21T10:03:40Z",
+          "Owner": {
+            "Login": "hzlzh"
+          },
+          "PrimaryLanguage": {
+            "Name": ""
+          },
+          "Stargazers": {
+            "TotalCount": 14485
+          },
+          "IssuesTotal": {
+            "TotalCount": 68
+          },
+          "IssuesClosed": {
+            "TotalCount": 36
+          },
+          "PullRequests": {
+            "TotalCount": 56
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk1Njg5OTI4NA==",
+          "Name": "insomnia",
+          "URL": "https://github.com/Kong/insomnia",
+          "CreatedAt": "2016-04-23T03:54:26Z",
+          "UpdatedAt": "2020-09-21T21:49:28Z",
+          "Owner": {
+            "Login": "Kong"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 14481
+          },
+          "IssuesTotal": {
+            "TotalCount": 1936
+          },
+          "IssuesClosed": {
+            "TotalCount": 1450
+          },
+          "PullRequests": {
+            "TotalCount": 708
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk2MDAyNzUzNA==",
+          "Name": "Awesome",
+          "URL": "https://github.com/Awesome-Windows/Awesome",
+          "CreatedAt": "2016-05-30T17:27:35Z",
+          "UpdatedAt": "2020-09-21T19:52:40Z",
+          "Owner": {
+            "Login": "Awesome-Windows"
+          },
+          "PrimaryLanguage": {
+            "Name": ""
+          },
+          "Stargazers": {
+            "TotalCount": 14465
+          },
+          "IssuesTotal": {
+            "TotalCount": 76
+          },
+          "IssuesClosed": {
+            "TotalCount": 69
+          },
+          "PullRequests": {
+            "TotalCount": 279
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxNTU2NjIzMDY=",
+          "Name": "homemade-machine-learning",
+          "URL": "https://github.com/trekhleb/homemade-machine-learning",
+          "CreatedAt": "2018-11-01T04:34:19Z",
+          "UpdatedAt": "2020-09-21T20:20:24Z",
+          "Owner": {
+            "Login": "trekhleb"
+          },
+          "PrimaryLanguage": {
+            "Name": "Jupyter Notebook"
+          },
+          "Stargazers": {
+            "TotalCount": 14452
+          },
+          "IssuesTotal": {
+            "TotalCount": 18
+          },
+          "IssuesClosed": {
+            "TotalCount": 7
+          },
+          "PullRequests": {
+            "TotalCount": 12
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk0MDgwODU3MQ==",
+          "Name": "gotty",
+          "URL": "https://github.com/yudai/gotty",
+          "CreatedAt": "2015-08-16T09:48:33Z",
+          "UpdatedAt": "2020-09-21T16:41:13Z",
+          "Owner": {
+            "Login": "yudai"
+          },
+          "PrimaryLanguage": {
+            "Name": "Go"
+          },
+          "Stargazers": {
+            "TotalCount": 14437
+          },
+          "IssuesTotal": {
+            "TotalCount": 196
+          },
+          "IssuesClosed": {
+            "TotalCount": 120
+          },
+          "PullRequests": {
+            "TotalCount": 92
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyNjc4NDgyNw==",
+          "Name": "core",
+          "URL": "https://github.com/dotnet/core",
+          "CreatedAt": "2014-11-18T00:44:57Z",
+          "UpdatedAt": "2020-09-21T17:07:17Z",
+          "Owner": {
+            "Login": "dotnet"
+          },
+          "PrimaryLanguage": {
+            "Name": "Shell"
+          },
+          "Stargazers": {
+            "TotalCount": 14416
+          },
+          "IssuesTotal": {
+            "TotalCount": 3566
+          },
+          "IssuesClosed": {
+            "TotalCount": 3314
+          },
+          "PullRequests": {
+            "TotalCount": 1211
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk1NDQ4NTMw",
+          "Name": "ratchet",
+          "URL": "https://github.com/twbs/ratchet",
+          "CreatedAt": "2012-08-17T05:41:57Z",
+          "UpdatedAt": "2020-09-17T17:12:05Z",
+          "Owner": {
+            "Login": "twbs"
+          },
+          "PrimaryLanguage": {
+            "Name": "CSS"
+          },
+          "Stargazers": {
+            "TotalCount": 14415
+          },
+          "IssuesTotal": {
+            "TotalCount": 536
+          },
+          "IssuesClosed": {
+            "TotalCount": 334
+          },
+          "PullRequests": {
+            "TotalCount": 335
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxNzQwMzgwMzE=",
+          "Name": "react-hook-form",
+          "URL": "https://github.com/react-hook-form/react-hook-form",
+          "CreatedAt": "2019-03-05T23:47:10Z",
+          "UpdatedAt": "2020-09-21T22:44:13Z",
+          "Owner": {
+            "Login": "react-hook-form"
+          },
+          "PrimaryLanguage": {
+            "Name": "TypeScript"
+          },
+          "Stargazers": {
+            "TotalCount": 14397
+          },
+          "IssuesTotal": {
+            "TotalCount": 1447
+          },
+          "IssuesClosed": {
+            "TotalCount": 1445
+          },
+          "PullRequests": {
+            "TotalCount": 959
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxOTk1NzAwNzE=",
+          "Name": "v2rayN",
+          "URL": "https://github.com/2dust/v2rayN",
+          "CreatedAt": "2019-07-30T03:47:24Z",
+          "UpdatedAt": "2020-09-21T19:03:00Z",
+          "Owner": {
+            "Login": "2dust"
+          },
+          "PrimaryLanguage": {
+            "Name": "C#"
+          },
+          "Stargazers": {
+            "TotalCount": 14391
+          },
+          "IssuesTotal": {
+            "TotalCount": 937
+          },
+          "IssuesClosed": {
+            "TotalCount": 659
+          },
+          "PullRequests": {
+            "TotalCount": 70
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk2NTg1MTg=",
+          "Name": "ipython",
+          "URL": "https://github.com/ipython/ipython",
+          "CreatedAt": "2010-05-10T04:46:06Z",
+          "UpdatedAt": "2020-09-21T09:22:46Z",
+          "Owner": {
+            "Login": "ipython"
+          },
+          "PrimaryLanguage": {
+            "Name": "Python"
+          },
+          "Stargazers": {
+            "TotalCount": 14391
+          },
+          "IssuesTotal": {
+            "TotalCount": 6464
+          },
+          "IssuesClosed": {
+            "TotalCount": 5117
+          },
+          "PullRequests": {
+            "TotalCount": 6030
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk0NjgwNjE4NA==",
+          "Name": "charts",
+          "URL": "https://github.com/helm/charts",
+          "CreatedAt": "2015-11-24T17:05:28Z",
+          "UpdatedAt": "2020-09-21T23:16:13Z",
+          "Owner": {
+            "Login": "helm"
+          },
+          "PrimaryLanguage": {
+            "Name": "Go"
+          },
+          "Stargazers": {
+            "TotalCount": 14390
+          },
+          "IssuesTotal": {
+            "TotalCount": 6160
+          },
+          "IssuesClosed": {
+            "TotalCount": 6048
+          },
+          "PullRequests": {
+            "TotalCount": 17623
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxNTgyMzQ2MA==",
+          "Name": "redisson",
+          "URL": "https://github.com/redisson/redisson",
+          "CreatedAt": "2014-01-11T14:06:25Z",
+          "UpdatedAt": "2020-09-21T22:14:28Z",
+          "Owner": {
+            "Login": "redisson"
+          },
+          "PrimaryLanguage": {
+            "Name": "Java"
+          },
+          "Stargazers": {
+            "TotalCount": 14349
+          },
+          "IssuesTotal": {
+            "TotalCount": 2729
+          },
+          "IssuesClosed": {
+            "TotalCount": 2569
+          },
+          "PullRequests": {
+            "TotalCount": 331
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk0OTIxNzAwNw==",
+          "Name": "setup-ipsec-vpn",
+          "URL": "https://github.com/hwdsl2/setup-ipsec-vpn",
+          "CreatedAt": "2016-01-07T16:44:12Z",
+          "UpdatedAt": "2020-09-21T12:52:21Z",
+          "Owner": {
+            "Login": "hwdsl2"
+          },
+          "PrimaryLanguage": {
+            "Name": "Shell"
+          },
+          "Stargazers": {
+            "TotalCount": 14329
+          },
+          "IssuesTotal": {
+            "TotalCount": 792
+          },
+          "IssuesClosed": {
+            "TotalCount": 792
+          },
+          "PullRequests": {
+            "TotalCount": 55
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyNTQyNzgxNw==",
+          "Name": "react-dnd",
+          "URL": "https://github.com/react-dnd/react-dnd",
+          "CreatedAt": "2014-10-19T13:29:28Z",
+          "UpdatedAt": "2020-09-21T20:27:16Z",
+          "Owner": {
+            "Login": "react-dnd"
+          },
+          "PrimaryLanguage": {
+            "Name": "TypeScript"
+          },
+          "Stargazers": {
+            "TotalCount": 14326
+          },
+          "IssuesTotal": {
+            "TotalCount": 1294
+          },
+          "IssuesClosed": {
+            "TotalCount": 1133
+          },
+          "PullRequests": {
+            "TotalCount": 1461
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyODg5MzI4",
+          "Name": "WordPress",
+          "URL": "https://github.com/WordPress/WordPress",
+          "CreatedAt": "2011-12-01T07:05:17Z",
+          "UpdatedAt": "2020-09-21T22:56:16Z",
+          "Owner": {
+            "Login": "WordPress"
+          },
+          "PrimaryLanguage": {
+            "Name": "PHP"
+          },
+          "Stargazers": {
+            "TotalCount": 14307
+          },
+          "IssuesTotal": {
+            "TotalCount": 0
+          },
+          "IssuesClosed": {
+            "TotalCount": 0
+          },
+          "PullRequests": {
+            "TotalCount": 482
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMzE0MjEyNg==",
+          "Name": "riot",
+          "URL": "https://github.com/riot/riot",
+          "CreatedAt": "2013-09-27T05:21:01Z",
+          "UpdatedAt": "2020-09-21T22:29:43Z",
+          "Owner": {
+            "Login": "riot"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 14300
+          },
+          "IssuesTotal": {
+            "TotalCount": 2105
+          },
+          "IssuesClosed": {
+            "TotalCount": 2101
+          },
+          "PullRequests": {
+            "TotalCount": 754
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk0OTAwOTk1MA==",
+          "Name": "HowToBeAProgrammer",
+          "URL": "https://github.com/braydie/HowToBeAProgrammer",
+          "CreatedAt": "2016-01-04T16:47:54Z",
+          "UpdatedAt": "2020-09-21T14:32:42Z",
+          "Owner": {
+            "Login": "braydie"
+          },
+          "PrimaryLanguage": {
+            "Name": ""
+          },
+          "Stargazers": {
+            "TotalCount": 14296
+          },
+          "IssuesTotal": {
+            "TotalCount": 21
+          },
+          "IssuesClosed": {
+            "TotalCount": 17
+          },
+          "PullRequests": {
+            "TotalCount": 99
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk4MjA1NjAy",
+          "Name": "mybatis-3",
+          "URL": "https://github.com/mybatis/mybatis-3",
+          "CreatedAt": "2013-02-14T19:03:32Z",
+          "UpdatedAt": "2020-09-21T23:50:32Z",
+          "Owner": {
+            "Login": "mybatis"
+          },
+          "PrimaryLanguage": {
+            "Name": "Java"
+          },
+          "Stargazers": {
+            "TotalCount": 14284
+          },
+          "IssuesTotal": {
+            "TotalCount": 1036
+          },
+          "IssuesClosed": {
+            "TotalCount": 916
+          },
+          "PullRequests": {
+            "TotalCount": 1023
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk3MDEwNzI0",
+          "Name": "cat",
+          "URL": "https://github.com/dianping/cat",
+          "CreatedAt": "2012-12-05T02:31:48Z",
+          "UpdatedAt": "2020-09-21T11:16:31Z",
+          "Owner": {
+            "Login": "dianping"
+          },
+          "PrimaryLanguage": {
+            "Name": "Java"
+          },
+          "Stargazers": {
+            "TotalCount": 14267
+          },
+          "IssuesTotal": {
+            "TotalCount": 1044
+          },
+          "IssuesClosed": {
+            "TotalCount": 969
+          },
+          "PullRequests": {
+            "TotalCount": 994
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyNTEzODM1NTM=",
+          "Name": "CnC_Remastered_Collection",
+          "URL": "https://github.com/electronicarts/CnC_Remastered_Collection",
+          "CreatedAt": "2020-03-30T17:48:04Z",
+          "UpdatedAt": "2020-09-21T23:09:04Z",
+          "Owner": {
+            "Login": "electronicarts"
+          },
+          "PrimaryLanguage": {
+            "Name": "C++"
+          },
+          "Stargazers": {
+            "TotalCount": 14260
+          },
+          "IssuesTotal": {
+            "TotalCount": 82
+          },
+          "IssuesClosed": {
+            "TotalCount": 16
+          },
+          "PullRequests": {
+            "TotalCount": 21
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk4MTczNDU=",
+          "Name": "git-extras",
+          "URL": "https://github.com/tj/git-extras",
+          "CreatedAt": "2010-08-04T16:32:07Z",
+          "UpdatedAt": "2020-09-21T15:57:30Z",
+          "Owner": {
+            "Login": "tj"
+          },
+          "PrimaryLanguage": {
+            "Name": "Shell"
+          },
+          "Stargazers": {
+            "TotalCount": 14259
+          },
+          "IssuesTotal": {
+            "TotalCount": 320
+          },
+          "IssuesClosed": {
+            "TotalCount": 230
+          },
+          "PullRequests": {
+            "TotalCount": 553
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk1NjMxNTcxNQ==",
+          "Name": "NativeBase",
+          "URL": "https://github.com/GeekyAnts/NativeBase",
+          "CreatedAt": "2016-04-15T11:37:23Z",
+          "UpdatedAt": "2020-09-21T22:40:40Z",
+          "Owner": {
+            "Login": "GeekyAnts"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 14252
+          },
+          "IssuesTotal": {
+            "TotalCount": 2507
+          },
+          "IssuesClosed": {
+            "TotalCount": 2345
+          },
+          "PullRequests": {
+            "TotalCount": 743
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk2NTA4MzMxNg==",
+          "Name": "Awesome-Linux-Software",
+          "URL": "https://github.com/luong-komorebi/Awesome-Linux-Software",
+          "CreatedAt": "2016-08-06T13:16:29Z",
+          "UpdatedAt": "2020-09-21T21:41:11Z",
+          "Owner": {
+            "Login": "luong-komorebi"
+          },
+          "PrimaryLanguage": {
+            "Name": "Python"
+          },
+          "Stargazers": {
+            "TotalCount": 14249
+          },
+          "IssuesTotal": {
+            "TotalCount": 104
+          },
+          "IssuesClosed": {
+            "TotalCount": 94
+          },
+          "PullRequests": {
+            "TotalCount": 411
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyOTIxNzA1NA==",
+          "Name": "go-micro",
+          "URL": "https://github.com/micro/go-micro",
+          "CreatedAt": "2015-01-13T23:30:18Z",
+          "UpdatedAt": "2020-09-21T19:04:33Z",
+          "Owner": {
+            "Login": "micro"
+          },
+          "PrimaryLanguage": {
+            "Name": "Go"
+          },
+          "Stargazers": {
+            "TotalCount": 14242
+          },
+          "IssuesTotal": {
+            "TotalCount": 705
+          },
+          "IssuesClosed": {
+            "TotalCount": 675
+          },
+          "PullRequests": {
+            "TotalCount": 1301
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMTA3NTUyNw==",
+          "Name": "vim-airline",
+          "URL": "https://github.com/vim-airline/vim-airline",
+          "CreatedAt": "2013-06-30T18:49:56Z",
+          "UpdatedAt": "2020-09-21T21:02:42Z",
+          "Owner": {
+            "Login": "vim-airline"
+          },
+          "PrimaryLanguage": {
+            "Name": "Vim script"
+          },
+          "Stargazers": {
+            "TotalCount": 14231
+          },
+          "IssuesTotal": {
+            "TotalCount": 1527
+          },
+          "IssuesClosed": {
+            "TotalCount": 1504
+          },
+          "PullRequests": {
+            "TotalCount": 713
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxNzkwNTY0",
+          "Name": "handsontable",
+          "URL": "https://github.com/handsontable/handsontable",
+          "CreatedAt": "2011-05-23T22:38:58Z",
+          "UpdatedAt": "2020-09-21T19:46:16Z",
+          "Owner": {
+            "Login": "handsontable"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 14230
+          },
+          "IssuesTotal": {
+            "TotalCount": 6190
+          },
+          "IssuesClosed": {
+            "TotalCount": 5519
+          },
+          "PullRequests": {
+            "TotalCount": 1019
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMjYzNjU5NjU=",
+          "Name": "litemall",
+          "URL": "https://github.com/linlinjava/litemall",
+          "CreatedAt": "2018-03-22T16:42:30Z",
+          "UpdatedAt": "2020-09-21T23:44:25Z",
+          "Owner": {
+            "Login": "linlinjava"
+          },
+          "PrimaryLanguage": {
+            "Name": "Java"
+          },
+          "Stargazers": {
+            "TotalCount": 14230
+          },
+          "IssuesTotal": {
+            "TotalCount": 295
+          },
+          "IssuesClosed": {
+            "TotalCount": 265
+          },
+          "PullRequests": {
+            "TotalCount": 134
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMzg4MDYxMjk=",
+          "Name": "download",
+          "URL": "https://github.com/getlantern/download",
+          "CreatedAt": "2018-06-26T23:52:16Z",
+          "UpdatedAt": "2020-09-21T18:27:52Z",
+          "Owner": {
+            "Login": "getlantern"
+          },
+          "PrimaryLanguage": {
+            "Name": ""
+          },
+          "Stargazers": {
+            "TotalCount": 14214
+          },
+          "IssuesTotal": {
+            "TotalCount": 0
+          },
+          "IssuesClosed": {
+            "TotalCount": 0
+          },
+          "PullRequests": {
+            "TotalCount": 4
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMzU1MTYyNzA=",
+          "Name": "k3s",
+          "URL": "https://github.com/rancher/k3s",
+          "CreatedAt": "2018-05-31T01:37:46Z",
+          "UpdatedAt": "2020-09-21T20:52:28Z",
+          "Owner": {
+            "Login": "rancher"
+          },
+          "PrimaryLanguage": {
+            "Name": "Go"
+          },
+          "Stargazers": {
+            "TotalCount": 14210
+          },
+          "IssuesTotal": {
+            "TotalCount": 1478
+          },
+          "IssuesClosed": {
+            "TotalCount": 842
+          },
+          "PullRequests": {
+            "TotalCount": 814
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMzc0NTE0MDM=",
+          "Name": "nacos",
+          "URL": "https://github.com/alibaba/nacos",
+          "CreatedAt": "2018-06-15T06:49:27Z",
+          "UpdatedAt": "2020-09-21T13:48:57Z",
+          "Owner": {
+            "Login": "alibaba"
+          },
+          "PrimaryLanguage": {
+            "Name": "Java"
+          },
+          "Stargazers": {
+            "TotalCount": 14191
+          },
+          "IssuesTotal": {
+            "TotalCount": 2795
+          },
+          "IssuesClosed": {
+            "TotalCount": 2479
+          },
+          "PullRequests": {
+            "TotalCount": 1056
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk4Mzg1NjE2",
+          "Name": "toml",
+          "URL": "https://github.com/toml-lang/toml",
+          "CreatedAt": "2013-02-24T03:03:57Z",
+          "UpdatedAt": "2020-09-21T21:05:40Z",
+          "Owner": {
+            "Login": "toml-lang"
+          },
+          "PrimaryLanguage": {
+            "Name": "Python"
+          },
+          "Stargazers": {
+            "TotalCount": 14184
+          },
+          "IssuesTotal": {
+            "TotalCount": 381
+          },
+          "IssuesClosed": {
+            "TotalCount": 355
+          },
+          "PullRequests": {
+            "TotalCount": 384
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyMDU4NzU5OQ==",
+          "Name": "flink",
+          "URL": "https://github.com/apache/flink",
+          "CreatedAt": "2014-06-07T07:00:10Z",
+          "UpdatedAt": "2020-09-21T20:53:45Z",
+          "Owner": {
+            "Login": "apache"
+          },
+          "PrimaryLanguage": {
+            "Name": "Java"
+          },
+          "Stargazers": {
+            "TotalCount": 14183
+          },
+          "IssuesTotal": {
+            "TotalCount": 0
+          },
+          "IssuesClosed": {
+            "TotalCount": 0
+          },
+          "PullRequests": {
+            "TotalCount": 13432
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk4NzYyNDg3MA==",
+          "Name": "SpringCloudLearning",
+          "URL": "https://github.com/forezp/SpringCloudLearning",
+          "CreatedAt": "2017-04-08T10:06:56Z",
+          "UpdatedAt": "2020-09-21T16:08:56Z",
+          "Owner": {
+            "Login": "forezp"
+          },
+          "PrimaryLanguage": {
+            "Name": "Java"
+          },
+          "Stargazers": {
+            "TotalCount": 14182
+          },
+          "IssuesTotal": {
+            "TotalCount": 45
+          },
+          "IssuesClosed": {
+            "TotalCount": 11
+          },
+          "PullRequests": {
+            "TotalCount": 13
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk0NTE0Nzg0MQ==",
+          "Name": "prepack",
+          "URL": "https://github.com/facebook/prepack",
+          "CreatedAt": "2015-10-28T23:25:08Z",
+          "UpdatedAt": "2020-09-21T06:56:09Z",
+          "Owner": {
+            "Login": "facebook"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 14159
+          },
+          "IssuesTotal": {
+            "TotalCount": 767
+          },
+          "IssuesClosed": {
+            "TotalCount": 577
+          },
+          "PullRequests": {
+            "TotalCount": 1851
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk2NjQyNDg3MQ==",
+          "Name": "examples",
+          "URL": "https://github.com/pytorch/examples",
+          "CreatedAt": "2016-08-24T03:12:48Z",
+          "UpdatedAt": "2020-09-21T22:31:08Z",
+          "Owner": {
+            "Login": "pytorch"
+          },
+          "PrimaryLanguage": {
+            "Name": "Python"
+          },
+          "Stargazers": {
+            "TotalCount": 14146
+          },
+          "IssuesTotal": {
+            "TotalCount": 429
+          },
+          "IssuesClosed": {
+            "TotalCount": 221
+          },
+          "PullRequests": {
+            "TotalCount": 389
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyMTUxNTA0NA==",
+          "Name": "awesome-datascience",
+          "URL": "https://github.com/academic/awesome-datascience",
+          "CreatedAt": "2014-07-05T07:07:43Z",
+          "UpdatedAt": "2020-09-21T17:14:24Z",
+          "Owner": {
+            "Login": "academic"
+          },
+          "PrimaryLanguage": {
+            "Name": ""
+          },
+          "Stargazers": {
+            "TotalCount": 14146
+          },
+          "IssuesTotal": {
+            "TotalCount": 34
+          },
+          "IssuesClosed": {
+            "TotalCount": 32
+          },
+          "PullRequests": {
+            "TotalCount": 164
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyMTExMjQ2OTc=",
+          "Name": "spleeter",
+          "URL": "https://github.com/deezer/spleeter",
+          "CreatedAt": "2019-09-26T15:40:46Z",
+          "UpdatedAt": "2020-09-21T21:49:05Z",
+          "Owner": {
+            "Login": "deezer"
+          },
+          "PrimaryLanguage": {
+            "Name": "Python"
+          },
+          "Stargazers": {
+            "TotalCount": 14140
+          },
+          "IssuesTotal": {
+            "TotalCount": 439
+          },
+          "IssuesClosed": {
+            "TotalCount": 347
+          },
+          "PullRequests": {
+            "TotalCount": 54
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk2MzIyNjU4OA==",
+          "Name": "react-admin",
+          "URL": "https://github.com/marmelab/react-admin",
+          "CreatedAt": "2016-07-13T07:58:54Z",
+          "UpdatedAt": "2020-09-21T19:55:14Z",
+          "Owner": {
+            "Login": "marmelab"
+          },
+          "PrimaryLanguage": {
+            "Name": "TypeScript"
+          },
+          "Stargazers": {
+            "TotalCount": 14134
+          },
+          "IssuesTotal": {
+            "TotalCount": 2652
+          },
+          "IssuesClosed": {
+            "TotalCount": 2537
+          },
+          "PullRequests": {
+            "TotalCount": 2634
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyNTA5NTIzOQ==",
+          "Name": "lazysizes",
+          "URL": "https://github.com/aFarkas/lazysizes",
+          "CreatedAt": "2014-10-11T21:03:26Z",
+          "UpdatedAt": "2020-09-21T23:41:36Z",
+          "Owner": {
+            "Login": "aFarkas"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 14127
+          },
+          "IssuesTotal": {
+            "TotalCount": 707
+          },
+          "IssuesClosed": {
+            "TotalCount": 571
+          },
+          "PullRequests": {
+            "TotalCount": 113
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkzMjgy",
+          "Name": "nerdtree",
+          "URL": "https://github.com/preservim/nerdtree",
+          "CreatedAt": "2008-03-10T07:34:08Z",
+          "UpdatedAt": "2020-09-21T20:55:23Z",
+          "Owner": {
+            "Login": "preservim"
+          },
+          "PrimaryLanguage": {
+            "Name": "Vim script"
+          },
+          "Stargazers": {
+            "TotalCount": 14126
+          },
+          "IssuesTotal": {
+            "TotalCount": 796
+          },
+          "IssuesClosed": {
+            "TotalCount": 788
+          },
+          "PullRequests": {
+            "TotalCount": 378
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyMTgxMDIxNjI=",
+          "Name": "BullshitGenerator",
+          "URL": "https://github.com/menzi11/BullshitGenerator",
+          "CreatedAt": "2019-10-28T17:05:51Z",
+          "UpdatedAt": "2020-09-21T15:35:41Z",
+          "Owner": {
+            "Login": "menzi11"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 14115
+          },
+          "IssuesTotal": {
+            "TotalCount": 141
+          },
+          "IssuesClosed": {
+            "TotalCount": 28
+          },
+          "PullRequests": {
+            "TotalCount": 49
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkzMTIyNjI=",
+          "Name": "vimium",
+          "URL": "https://github.com/philc/vimium",
+          "CreatedAt": "2009-09-20T07:08:19Z",
+          "UpdatedAt": "2020-09-21T16:41:31Z",
+          "Owner": {
+            "Login": "philc"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 14102
+          },
+          "IssuesTotal": {
+            "TotalCount": 2699
+          },
+          "IssuesClosed": {
+            "TotalCount": 1957
+          },
+          "PullRequests": {
+            "TotalCount": 947
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk1OTcyMDE5MA==",
+          "Name": "sanic",
+          "URL": "https://github.com/huge-success/sanic",
+          "CreatedAt": "2016-05-26T04:38:22Z",
+          "UpdatedAt": "2020-09-21T16:01:34Z",
+          "Owner": {
+            "Login": "huge-success"
+          },
+          "PrimaryLanguage": {
+            "Name": "Python"
+          },
+          "Stargazers": {
+            "TotalCount": 14100
+          },
+          "IssuesTotal": {
+            "TotalCount": 917
+          },
+          "IssuesClosed": {
+            "TotalCount": 859
+          },
+          "PullRequests": {
+            "TotalCount": 1012
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkzMjY2ODg=",
+          "Name": "mustache.js",
+          "URL": "https://github.com/janl/mustache.js",
+          "CreatedAt": "2009-10-04T23:41:19Z",
+          "UpdatedAt": "2020-09-20T21:38:39Z",
+          "Owner": {
+            "Login": "janl"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 14091
+          },
+          "IssuesTotal": {
+            "TotalCount": 432
+          },
+          "IssuesClosed": {
+            "TotalCount": 376
+          },
+          "PullRequests": {
+            "TotalCount": 322
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk0MDQ0ODkx",
+          "Name": "realm-cocoa",
+          "URL": "https://github.com/realm/realm-cocoa",
+          "CreatedAt": "2012-04-16T20:06:56Z",
+          "UpdatedAt": "2020-09-21T21:29:20Z",
+          "Owner": {
+            "Login": "realm"
+          },
+          "PrimaryLanguage": {
+            "Name": "Objective-C"
+          },
+          "Stargazers": {
+            "TotalCount": 14083
+          },
+          "IssuesTotal": {
+            "TotalCount": 4161
+          },
+          "IssuesClosed": {
+            "TotalCount": 3808
+          },
+          "PullRequests": {
+            "TotalCount": 2585
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkzNjI1NjU0MA==",
+          "Name": "css-modules",
+          "URL": "https://github.com/css-modules/css-modules",
+          "CreatedAt": "2015-05-25T21:54:47Z",
+          "UpdatedAt": "2020-09-21T04:23:46Z",
+          "Owner": {
+            "Login": "css-modules"
+          },
+          "PrimaryLanguage": {
+            "Name": ""
+          },
+          "Stargazers": {
+            "TotalCount": 14080
+          },
+          "IssuesTotal": {
+            "TotalCount": 310
+          },
+          "IssuesClosed": {
+            "TotalCount": 221
+          },
+          "PullRequests": {
+            "TotalCount": 43
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMjA0NDEzMg==",
+          "Name": "bitcoinbook",
+          "URL": "https://github.com/bitcoinbook/bitcoinbook",
+          "CreatedAt": "2013-08-11T23:18:28Z",
+          "UpdatedAt": "2020-09-21T22:08:03Z",
+          "Owner": {
+            "Login": "bitcoinbook"
+          },
+          "PrimaryLanguage": {
+            "Name": "Python"
+          },
+          "Stargazers": {
+            "TotalCount": 13994
+          },
+          "IssuesTotal": {
+            "TotalCount": 269
+          },
+          "IssuesClosed": {
+            "TotalCount": 222
+          },
+          "PullRequests": {
+            "TotalCount": 425
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk4MzUxNjQ5OA==",
+          "Name": "pytudes",
+          "URL": "https://github.com/norvig/pytudes",
+          "CreatedAt": "2017-03-01T05:43:35Z",
+          "UpdatedAt": "2020-09-21T19:39:19Z",
+          "Owner": {
+            "Login": "norvig"
+          },
+          "PrimaryLanguage": {
+            "Name": "Jupyter Notebook"
+          },
+          "Stargazers": {
+            "TotalCount": 13992
+          },
+          "IssuesTotal": {
+            "TotalCount": 23
+          },
+          "IssuesClosed": {
+            "TotalCount": 15
+          },
+          "PullRequests": {
+            "TotalCount": 62
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkzODM0MzMy",
+          "Name": "bokeh",
+          "URL": "https://github.com/bokeh/bokeh",
+          "CreatedAt": "2012-03-26T15:40:01Z",
+          "UpdatedAt": "2020-09-21T23:29:03Z",
+          "Owner": {
+            "Login": "bokeh"
+          },
+          "PrimaryLanguage": {
+            "Name": "Python"
+          },
+          "Stargazers": {
+            "TotalCount": 13987
+          },
+          "IssuesTotal": {
+            "TotalCount": 6158
+          },
+          "IssuesClosed": {
+            "TotalCount": 5594
+          },
+          "PullRequests": {
+            "TotalCount": 4351
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk0MTM0OTAzOQ==",
+          "Name": "dgraph",
+          "URL": "https://github.com/dgraph-io/dgraph",
+          "CreatedAt": "2015-08-25T07:15:56Z",
+          "UpdatedAt": "2020-09-21T22:07:04Z",
+          "Owner": {
+            "Login": "dgraph-io"
+          },
+          "PrimaryLanguage": {
+            "Name": "Go"
+          },
+          "Stargazers": {
+            "TotalCount": 13983
+          },
+          "IssuesTotal": {
+            "TotalCount": 2302
+          },
+          "IssuesClosed": {
+            "TotalCount": 2302
+          },
+          "PullRequests": {
+            "TotalCount": 4214
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxODM1MTg0OA==",
+          "Name": "lowdb",
+          "URL": "https://github.com/typicode/lowdb",
+          "CreatedAt": "2014-04-02T02:16:06Z",
+          "UpdatedAt": "2020-09-21T21:12:02Z",
+          "Owner": {
+            "Login": "typicode"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 13973
+          },
+          "IssuesTotal": {
+            "TotalCount": 315
+          },
+          "IssuesClosed": {
+            "TotalCount": 222
+          },
+          "PullRequests": {
+            "TotalCount": 106
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkzNzYyNzc5Mg==",
+          "Name": "react-helmet",
+          "URL": "https://github.com/nfl/react-helmet",
+          "CreatedAt": "2015-06-18T00:07:34Z",
+          "UpdatedAt": "2020-09-21T19:51:57Z",
+          "Owner": {
+            "Login": "nfl"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 13957
+          },
+          "IssuesTotal": {
+            "TotalCount": 331
+          },
+          "IssuesClosed": {
+            "TotalCount": 204
+          },
+          "PullRequests": {
+            "TotalCount": 278
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkzODgzNjAxNQ==",
+          "Name": "aos",
+          "URL": "https://github.com/michalsnik/aos",
+          "CreatedAt": "2015-07-09T17:49:00Z",
+          "UpdatedAt": "2020-09-21T22:17:03Z",
+          "Owner": {
+            "Login": "michalsnik"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 13934
+          },
+          "IssuesTotal": {
+            "TotalCount": 503
+          },
+          "IssuesClosed": {
+            "TotalCount": 325
+          },
+          "PullRequests": {
+            "TotalCount": 116
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxNTYwODQ1MzA=",
+          "Name": "nps",
+          "URL": "https://github.com/ehang-io/nps",
+          "CreatedAt": "2018-11-04T13:22:51Z",
+          "UpdatedAt": "2020-09-21T16:55:44Z",
+          "Owner": {
+            "Login": "ehang-io"
+          },
+          "PrimaryLanguage": {
+            "Name": "Go"
+          },
+          "Stargazers": {
+            "TotalCount": 13927
+          },
+          "IssuesTotal": {
+            "TotalCount": 565
+          },
+          "IssuesClosed": {
+            "TotalCount": 502
+          },
+          "PullRequests": {
+            "TotalCount": 69
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMjM4NzAzMTU=",
+          "Name": "tfjs",
+          "URL": "https://github.com/tensorflow/tfjs",
+          "CreatedAt": "2018-03-05T05:41:02Z",
+          "UpdatedAt": "2020-09-21T23:46:33Z",
+          "Owner": {
+            "Login": "tensorflow"
+          },
+          "PrimaryLanguage": {
+            "Name": "TypeScript"
+          },
+          "Stargazers": {
+            "TotalCount": 13927
+          },
+          "IssuesTotal": {
+            "TotalCount": 2378
+          },
+          "IssuesClosed": {
+            "TotalCount": 1970
+          },
+          "PullRequests": {
+            "TotalCount": 1565
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxNzgyOTQ4MQ==",
+          "Name": "data",
+          "URL": "https://github.com/fivethirtyeight/data",
+          "CreatedAt": "2014-03-17T13:49:17Z",
+          "UpdatedAt": "2020-09-21T20:07:26Z",
+          "Owner": {
+            "Login": "fivethirtyeight"
+          },
+          "PrimaryLanguage": {
+            "Name": "Jupyter Notebook"
+          },
+          "Stargazers": {
+            "TotalCount": 13921
+          },
+          "IssuesTotal": {
+            "TotalCount": 109
+          },
+          "IssuesClosed": {
+            "TotalCount": 76
+          },
+          "PullRequests": {
+            "TotalCount": 91
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk4NDI0MDQw",
+          "Name": "p5.js",
+          "URL": "https://github.com/processing/p5.js",
+          "CreatedAt": "2013-02-26T03:14:47Z",
+          "UpdatedAt": "2020-09-21T23:15:58Z",
+          "Owner": {
+            "Login": "processing"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 13918
+          },
+          "IssuesTotal": {
+            "TotalCount": 2783
+          },
+          "IssuesClosed": {
+            "TotalCount": 2681
+          },
+          "PullRequests": {
+            "TotalCount": 1953
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyMTQ4NDc4MQ==",
+          "Name": "jumpserver",
+          "URL": "https://github.com/jumpserver/jumpserver",
+          "CreatedAt": "2014-07-04T03:54:59Z",
+          "UpdatedAt": "2020-09-21T21:18:53Z",
+          "Owner": {
+            "Login": "jumpserver"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 13914
+          },
+          "IssuesTotal": {
+            "TotalCount": 2787
+          },
+          "IssuesClosed": {
+            "TotalCount": 2650
+          },
+          "PullRequests": {
+            "TotalCount": 1871
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyNTA1MDg0NA==",
+          "Name": "Carthage",
+          "URL": "https://github.com/Carthage/Carthage",
+          "CreatedAt": "2014-10-10T19:54:55Z",
+          "UpdatedAt": "2020-09-21T14:28:44Z",
+          "Owner": {
+            "Login": "Carthage"
+          },
+          "PrimaryLanguage": {
+            "Name": "Swift"
+          },
+          "Stargazers": {
+            "TotalCount": 13911
+          },
+          "IssuesTotal": {
+            "TotalCount": 1927
+          },
+          "IssuesClosed": {
+            "TotalCount": 1780
+          },
+          "PullRequests": {
+            "TotalCount": 1096
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk1MzYxOTMwMw==",
+          "Name": "f8app",
+          "URL": "https://github.com/fbsamples/f8app",
+          "CreatedAt": "2016-03-10T21:45:12Z",
+          "UpdatedAt": "2020-09-21T02:13:59Z",
+          "Owner": {
+            "Login": "fbsamples"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 13907
+          },
+          "IssuesTotal": {
+            "TotalCount": 203
+          },
+          "IssuesClosed": {
+            "TotalCount": 187
+          },
+          "PullRequests": {
+            "TotalCount": 71
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkzNTY4NTAzNA==",
+          "Name": "react-native-vector-icons",
+          "URL": "https://github.com/oblador/react-native-vector-icons",
+          "CreatedAt": "2015-05-15T16:38:57Z",
+          "UpdatedAt": "2020-09-21T22:32:17Z",
+          "Owner": {
+            "Login": "oblador"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 13895
+          },
+          "IssuesTotal": {
+            "TotalCount": 985
+          },
+          "IssuesClosed": {
+            "TotalCount": 711
+          },
+          "PullRequests": {
+            "TotalCount": 265
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMjc3NjkyMzE=",
+          "Name": "RSSHub",
+          "URL": "https://github.com/DIYgod/RSSHub",
+          "CreatedAt": "2018-04-02T14:43:21Z",
+          "UpdatedAt": "2020-09-21T18:52:15Z",
+          "Owner": {
+            "Login": "DIYgod"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 13893
+          },
+          "IssuesTotal": {
+            "TotalCount": 2203
+          },
+          "IssuesClosed": {
+            "TotalCount": 2023
+          },
+          "PullRequests": {
+            "TotalCount": 3489
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMTU2NzU3ODg=",
+          "Name": "wechat_jump_game",
+          "URL": "https://github.com/wangshub/wechat_jump_game",
+          "CreatedAt": "2017-12-29T02:00:19Z",
+          "UpdatedAt": "2020-09-21T12:20:40Z",
+          "Owner": {
+            "Login": "wangshub"
+          },
+          "PrimaryLanguage": {
+            "Name": "Python"
+          },
+          "Stargazers": {
+            "TotalCount": 13892
+          },
+          "IssuesTotal": {
+            "TotalCount": 984
+          },
+          "IssuesClosed": {
+            "TotalCount": 958
+          },
+          "PullRequests": {
+            "TotalCount": 262
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkzNTczMjIxNA==",
+          "Name": "SwiftLint",
+          "URL": "https://github.com/realm/SwiftLint",
+          "CreatedAt": "2015-05-16T16:59:31Z",
+          "UpdatedAt": "2020-09-21T19:10:51Z",
+          "Owner": {
+            "Login": "realm"
+          },
+          "PrimaryLanguage": {
+            "Name": "Swift"
+          },
+          "Stargazers": {
+            "TotalCount": 13862
+          },
+          "IssuesTotal": {
+            "TotalCount": 1724
+          },
+          "IssuesClosed": {
+            "TotalCount": 1331
+          },
+          "PullRequests": {
+            "TotalCount": 1615
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyOTI0NzQ0NA==",
+          "Name": "blessed-contrib",
+          "URL": "https://github.com/yaronn/blessed-contrib",
+          "CreatedAt": "2015-01-14T14:18:07Z",
+          "UpdatedAt": "2020-09-21T14:12:11Z",
+          "Owner": {
+            "Login": "yaronn"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 13857
+          },
+          "IssuesTotal": {
+            "TotalCount": 120
+          },
+          "IssuesClosed": {
+            "TotalCount": 60
+          },
+          "PullRequests": {
+            "TotalCount": 80
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMzQyODI2NA==",
+          "Name": "ShareX",
+          "URL": "https://github.com/ShareX/ShareX",
+          "CreatedAt": "2013-10-08T23:32:10Z",
+          "UpdatedAt": "2020-09-21T23:12:14Z",
+          "Owner": {
+            "Login": "ShareX"
+          },
+          "PrimaryLanguage": {
+            "Name": "C#"
+          },
+          "Stargazers": {
+            "TotalCount": 13843
+          },
+          "IssuesTotal": {
+            "TotalCount": 4211
+          },
+          "IssuesClosed": {
+            "TotalCount": 3849
+          },
+          "PullRequests": {
+            "TotalCount": 822
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyNTQ0OTA2NA==",
+          "Name": "leetcode",
+          "URL": "https://github.com/haoel/leetcode",
+          "CreatedAt": "2014-10-20T03:22:04Z",
+          "UpdatedAt": "2020-09-21T13:09:27Z",
+          "Owner": {
+            "Login": "haoel"
+          },
+          "PrimaryLanguage": {
+            "Name": "C++"
+          },
+          "Stargazers": {
+            "TotalCount": 13839
+          },
+          "IssuesTotal": {
+            "TotalCount": 51
+          },
+          "IssuesClosed": {
+            "TotalCount": 34
+          },
+          "PullRequests": {
+            "TotalCount": 155
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk2OTYyNjU3Ng==",
+          "Name": "awesome-spider",
+          "URL": "https://github.com/facert/awesome-spider",
+          "CreatedAt": "2016-09-30T02:33:03Z",
+          "UpdatedAt": "2020-09-21T16:56:34Z",
+          "Owner": {
+            "Login": "facert"
+          },
+          "PrimaryLanguage": {
+            "Name": ""
+          },
+          "Stargazers": {
+            "TotalCount": 13835
+          },
+          "IssuesTotal": {
+            "TotalCount": 31
+          },
+          "IssuesClosed": {
+            "TotalCount": 15
+          },
+          "PullRequests": {
+            "TotalCount": 45
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxNTIyNTY3MA==",
+          "Name": "jitsi-meet",
+          "URL": "https://github.com/jitsi/jitsi-meet",
+          "CreatedAt": "2013-12-16T12:51:09Z",
+          "UpdatedAt": "2020-09-21T23:04:46Z",
+          "Owner": {
+            "Login": "jitsi"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 13833
+          },
+          "IssuesTotal": {
+            "TotalCount": 3816
+          },
+          "IssuesClosed": {
+            "TotalCount": 3413
+          },
+          "PullRequests": {
+            "TotalCount": 3908
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMzc3ODY3",
+          "Name": "locust",
+          "URL": "https://github.com/locustio/locust",
+          "CreatedAt": "2011-02-17T11:08:03Z",
+          "UpdatedAt": "2020-09-21T16:27:20Z",
+          "Owner": {
+            "Login": "locustio"
+          },
+          "PrimaryLanguage": {
+            "Name": "Python"
+          },
+          "Stargazers": {
+            "TotalCount": 13826
+          },
+          "IssuesTotal": {
+            "TotalCount": 1008
+          },
+          "IssuesClosed": {
+            "TotalCount": 973
+          },
+          "PullRequests": {
+            "TotalCount": 551
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxNTgzMzY2NzU=",
+          "Name": "OnJava8",
+          "URL": "https://github.com/LingCoder/OnJava8",
+          "CreatedAt": "2018-11-20T05:41:18Z",
+          "UpdatedAt": "2020-09-21T21:23:00Z",
+          "Owner": {
+            "Login": "LingCoder"
+          },
+          "PrimaryLanguage": {
+            "Name": ""
+          },
+          "Stargazers": {
+            "TotalCount": 13826
+          },
+          "IssuesTotal": {
+            "TotalCount": 161
+          },
+          "IssuesClosed": {
+            "TotalCount": 134
+          },
+          "PullRequests": {
+            "TotalCount": 429
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk3NjM0Njc3",
+          "Name": "openssl",
+          "URL": "https://github.com/openssl/openssl",
+          "CreatedAt": "2013-01-15T22:34:48Z",
+          "UpdatedAt": "2020-09-21T20:29:55Z",
+          "Owner": {
+            "Login": "openssl"
+          },
+          "PrimaryLanguage": {
+            "Name": "C"
+          },
+          "Stargazers": {
+            "TotalCount": 13826
+          },
+          "IssuesTotal": {
+            "TotalCount": 4680
+          },
+          "IssuesClosed": {
+            "TotalCount": 3531
+          },
+          "PullRequests": {
+            "TotalCount": 8223
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxNzgwNDU4NA==",
+          "Name": "java8-tutorial",
+          "URL": "https://github.com/winterbe/java8-tutorial",
+          "CreatedAt": "2014-03-16T17:25:43Z",
+          "UpdatedAt": "2020-09-21T21:02:32Z",
+          "Owner": {
+            "Login": "winterbe"
+          },
+          "PrimaryLanguage": {
+            "Name": "Java"
+          },
+          "Stargazers": {
+            "TotalCount": 13814
+          },
+          "IssuesTotal": {
+            "TotalCount": 0
+          },
+          "IssuesClosed": {
+            "TotalCount": 0
+          },
+          "PullRequests": {
+            "TotalCount": 37
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk3NjkzNzk5",
+          "Name": "ui-router",
+          "URL": "https://github.com/angular-ui/ui-router",
+          "CreatedAt": "2013-01-18T20:26:29Z",
+          "UpdatedAt": "2020-09-21T20:59:23Z",
+          "Owner": {
+            "Login": "angular-ui"
+          },
+          "PrimaryLanguage": {
+            "Name": "TypeScript"
+          },
+          "Stargazers": {
+            "TotalCount": 13814
+          },
+          "IssuesTotal": {
+            "TotalCount": 3162
+          },
+          "IssuesClosed": {
+            "TotalCount": 3153
+          },
+          "PullRequests": {
+            "TotalCount": 656
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk0MzU2ODgzMg==",
+          "Name": "Perfect",
+          "URL": "https://github.com/PerfectlySoft/Perfect",
+          "CreatedAt": "2015-10-02T18:20:08Z",
+          "UpdatedAt": "2020-09-21T12:43:57Z",
+          "Owner": {
+            "Login": "PerfectlySoft"
+          },
+          "PrimaryLanguage": {
+            "Name": "Swift"
+          },
+          "Stargazers": {
+            "TotalCount": 13809
+          },
+          "IssuesTotal": {
+            "TotalCount": 185
+          },
+          "IssuesClosed": {
+            "TotalCount": 136
+          },
+          "PullRequests": {
+            "TotalCount": 109
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk0MTc2NjAwMg==",
+          "Name": "amphtml",
+          "URL": "https://github.com/ampproject/amphtml",
+          "CreatedAt": "2015-09-01T22:10:53Z",
+          "UpdatedAt": "2020-09-21T23:31:16Z",
+          "Owner": {
+            "Login": "ampproject"
+          },
+          "PrimaryLanguage": {
+            "Name": "JavaScript"
+          },
+          "Stargazers": {
+            "TotalCount": 13794
+          },
+          "IssuesTotal": {
+            "TotalCount": 11489
+          },
+          "IssuesClosed": {
+            "TotalCount": 9622
+          },
+          "PullRequests": {
+            "TotalCount": 18693
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxODIwOTczMDU=",
+          "Name": "PySnooper",
+          "URL": "https://github.com/cool-RR/PySnooper",
+          "CreatedAt": "2019-04-18T13:55:43Z",
+          "UpdatedAt": "2020-09-21T18:01:48Z",
+          "Owner": {
+            "Login": "cool-RR"
+          },
+          "PrimaryLanguage": {
+            "Name": "Python"
+          },
+          "Stargazers": {
+            "TotalCount": 13778
+          },
+          "IssuesTotal": {
+            "TotalCount": 101
+          },
+          "IssuesClosed": {
+            "TotalCount": 86
+          },
+          "PullRequests": {
+            "TotalCount": 95
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk3ODE4NjgxNA==",
+          "Name": "incubator-weex",
+          "URL": "https://github.com/apache/incubator-weex",
+          "CreatedAt": "2017-01-06T08:00:06Z",
+          "UpdatedAt": "2020-09-21T03:16:28Z",
+          "Owner": {
+            "Login": "apache"
+          },
+          "PrimaryLanguage": {
+            "Name": "C++"
+          },
+          "Stargazers": {
+            "TotalCount": 13777
+          },
+          "IssuesTotal": {
+            "TotalCount": 888
+          },
+          "IssuesClosed": {
+            "TotalCount": 693
+          },
+          "PullRequests": {
+            "TotalCount": 2370
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnk3MzU2MTY1MA==",
+          "Name": "linux-command",
+          "URL": "https://github.com/jaywcjlove/linux-command",
+          "CreatedAt": "2016-11-12T15:44:26Z",
+          "UpdatedAt": "2020-09-21T23:49:19Z",
+          "Owner": {
+            "Login": "jaywcjlove"
+          },
+          "PrimaryLanguage": {
+            "Name": "HTML"
+          },
+          "Stargazers": {
+            "TotalCount": 13771
+          },
+          "IssuesTotal": {
+            "TotalCount": 62
+          },
+          "IssuesClosed": {
+            "TotalCount": 42
+          },
+          "PullRequests": {
+            "TotalCount": 132
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkzMTE2ODU3OA==",
+          "Name": "functional-programming-jargon",
+          "URL": "https://github.com/hemanth/functional-programming-jargon",
+          "CreatedAt": "2015-02-22T16:04:42Z",
+          "UpdatedAt": "2020-09-21T07:26:15Z",
+          "Owner": {
+            "Login": "hemanth"
+          },
+          "PrimaryLanguage": {
+            "Name": ""
+          },
+          "Stargazers": {
+            "TotalCount": 13762
+          },
+          "IssuesTotal": {
+            "TotalCount": 63
+          },
+          "IssuesClosed": {
+            "TotalCount": 42
+          },
+          "PullRequests": {
+            "TotalCount": 143
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMjgwMTg0Mjg=",
+          "Name": "Sentinel",
+          "URL": "https://github.com/alibaba/Sentinel",
+          "CreatedAt": "2018-04-04T06:37:33Z",
+          "UpdatedAt": "2020-09-21T17:21:17Z",
+          "Owner": {
+            "Login": "alibaba"
+          },
+          "PrimaryLanguage": {
+            "Name": "Java"
+          },
+          "Stargazers": {
+            "TotalCount": 13757
+          },
+          "IssuesTotal": {
+            "TotalCount": 1189
+          },
+          "IssuesClosed": {
+            "TotalCount": 989
+          },
+          "PullRequests": {
+            "TotalCount": 557
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxOTQ2MzYyNQ==",
+          "Name": "nginx-proxy",
+          "URL": "https://github.com/nginx-proxy/nginx-proxy",
+          "CreatedAt": "2014-05-05T17:01:40Z",
+          "UpdatedAt": "2020-09-21T22:43:45Z",
+          "Owner": {
+            "Login": "nginx-proxy"
+          },
+          "PrimaryLanguage": {
+            "Name": "Python"
+          },
+          "Stargazers": {
+            "TotalCount": 13753
+          },
+          "IssuesTotal": {
+            "TotalCount": 1102
+          },
+          "IssuesClosed": {
+            "TotalCount": 560
+          },
+          "PullRequests": {
+            "TotalCount": 395
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkxMzQwNDUxNQ==",
+          "Name": "HikariCP",
+          "URL": "https://github.com/brettwooldridge/HikariCP",
+          "CreatedAt": "2013-10-08T05:43:03Z",
+          "UpdatedAt": "2020-09-21T20:30:32Z",
+          "Owner": {
+            "Login": "brettwooldridge"
+          },
+          "PrimaryLanguage": {
+            "Name": "Java"
+          },
+          "Stargazers": {
+            "TotalCount": 13750
+          },
+          "IssuesTotal": {
+            "TotalCount": 1338
+          },
+          "IssuesClosed": {
+            "TotalCount": 1096
+          },
+          "PullRequests": {
+            "TotalCount": 316
+          }
+        }
+      },
+      {
+        "Repository": {
+          "ID": "MDEwOlJlcG9zaXRvcnkyODUxMzM5OA==",
+          "Name": "Spring",
+          "URL": "https://github.com/MengTo/Spring",
+          "CreatedAt": "2014-12-26T14:57:02Z",
+          "UpdatedAt": "2020-09-19T07:23:29Z",
+          "Owner": {
+            "Login": "MengTo"
+          },
+          "PrimaryLanguage": {
+            "Name": "Swift"
+          },
+          "Stargazers": {
+            "TotalCount": 13732
+          },
+          "IssuesTotal": {
+            "TotalCount": 222
+          },
+          "IssuesClosed": {
+            "TotalCount": 90
+          },
+          "PullRequests": {
+            "TotalCount": 118
+          }
+        }
+      }
+    ]
+  },
+  "RateLimit": {
+    "Cost": 1,
+    "Limit": 5000,
+    "Remaining": 4919,
+    "ResetAt": "2020-09-22T00:37:31Z"
+  }
+}

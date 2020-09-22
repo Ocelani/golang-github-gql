@@ -26,6 +26,4 @@
 
 - [x] **RQ.06**
       Sistemas populares possuem um alto percentual de issuesfechadas?
-      _Métrica: razão entre número de issuesfechadas pelo total de issues_
-
-https://github.com/search?q=stars%3A%3E10000
+      _Métrica: razão entre número de issues fechadas pelo total de issues_
