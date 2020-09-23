@@ -2,6 +2,24 @@
 
 ###### Otávio Celani
 
+### Running
+
+Got two options:
+
+- Run the binary file: ./main
+- Run with Go runtime (needs to install Golang)
+
+#### With Binary
+
+##### On an Unix base system (Linux or MacOS)
+
+1. Go to the project root directory.
+2. Run on CLI de following command:
+
+```bash
+$ ./main
+```
+
 ### Questões
 
 - [x] **RQ.01**
