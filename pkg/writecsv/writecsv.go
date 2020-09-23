@@ -12,50 +12,43 @@ import (
 )
 
 func main() {
-	// var df utils.Query
-	// data, _ := ioutil.ReadFile("out/data.json")
-	// // Unmarshal JSON data
-	// json.Unmarshal([]byte(data), &df)
-	// // Create a csv file
-	// file, err := os.OpenFile("out/data.csv", os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
-	// if err != nil {
-	// 	fmt.Println(err)
-	// }
-	// // Write Unmarshaled json data to CSV file
-	// w := csv.NewWriter(file)
-	// // Set csv headers
-	// defer file.Close()
 	// read data from file
-	jsonDataFromFile, err := ioutil.ReadFile("out/data.json")
+	jsondatafromfile, err := ioutil.ReadFile("./out/data.json")
 	if err != nil {
 		fmt.Println(err)
 	}
 
 	// Unmarshal JSON data
-	var df utils.DataFrame
-	err = json.Unmarshal([]byte(jsonDataFromFile), &df)
+	var jsondata utils.DataFrame
+	err = json.Unmarshal([]byte(jsondatafromfile), &jsondata)
 	if err != nil {
 		fmt.Println(err)
 	}
 
-	csvFile, err := os.Create("out/data.csv")
+	csvdatafile, err := os.Create("./datatwo.csv")
 	if err != nil {
 		fmt.Println(err)
 	}
-	defer csvFile.Close()
+	defer csvdatafile.Close()
 
-	w := csv.NewWriter(csvFile)
-	// Appends the data to the csv
-	for _, repo := range df.Search.Nodes {
-		var row []string
-		row = append(row, repo.ID, repo.Owner.Login, repo.Name, repo.URL, repo.ProgLanguage.Name, strconv.Itoa(repo.StarsNumber.TotalCount), strconv.Itoa(repo.PullRequestsNumber.TotalCount), strconv.Itoa(repo.IssuesTotal.TotalCount), strconv.Itoa(repo.IssuesClosed.TotalCount), repo.CreatedAt, repo.UpdatedAt)
-		fmt.Println()
-		w.Write(row)
+	writer := csv.NewWriter(csvdatafile)
+
+	for _, repo := range jsondata.Search.Nodes {
+		var record []string
+		record = append(record, repo.Repository.ID)
+		record = append(record, repo.Repository.Name)
+		record = append(record, repo.Repository.URL)
+		record = append(record, repo.Repository.CreatedAt)
+		record = append(record, repo.Repository.UpdatedAt)
+		record = append(record, repo.Repository.Owner.Login)
+		record = append(record, repo.Repository.PrimaryLanguage.Name)
+		record = append(record, strconv.Itoa(repo.Repository.Stargazers.TotalCount))
+		record = append(record, strconv.Itoa(repo.Repository.IssuesTotal.TotalCount))
+		record = append(record, strconv.Itoa(repo.Repository.IssuesClosed.TotalCount))
+		record = append(record, strconv.Itoa(repo.Repository.PullRequests.TotalCount))
+		writer.Write(record)
 	}
-	w.Flush()
-	if err != nil {
-		fmt.Println(err)
-	}
-	fmt.Println("Data written at -> out/data.csv")
-	return
+
+	// remember to flush!
+	writer.Flush()
 }
