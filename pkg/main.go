@@ -10,12 +10,40 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/Ocelani/medexp/pkg/utils"
 	"github.com/joho/godotenv"
 
 	"github.com/shurcooL/githubv4"
 	"golang.org/x/oauth2"
 )
+
+// Node is the repository type
+type Node struct {
+	Repository struct {
+		ID        string
+		Name      string
+		URL       string
+		CreatedAt string
+		UpdatedAt string
+		Owner     struct {
+			Login string
+		}
+		PrimaryLanguage struct {
+			Name string
+		}
+		Stargazers struct {
+			TotalCount int
+		}
+		IssuesTotal struct {
+			TotalCount int
+		} `graphql:"issuesTotal: issues"`
+		IssuesClosed struct {
+			TotalCount int
+		} `graphql:"issuesClosed: issues(states: CLOSED)"`
+		PullRequests struct {
+			TotalCount int
+		}
+	} `graphql:" ... on Repository"`
+}
 
 func main() {
 	flag.Parse()
@@ -45,34 +73,6 @@ func runQuery() (err error) {
 	// Use client...
 	client := githubv4.NewClient(httpClient)
 	{
-		// Node is the repository type
-		type Node struct {
-			Repository struct {
-				ID        githubv4.ID
-				Name      githubv4.String
-				URL       githubv4.URI
-				CreatedAt githubv4.DateTime
-				UpdatedAt githubv4.DateTime
-				Owner     struct {
-					Login githubv4.String
-				}
-				PrimaryLanguage struct {
-					Name githubv4.String
-				}
-				Stargazers struct {
-					TotalCount githubv4.Int
-				}
-				IssuesTotal struct {
-					TotalCount githubv4.Int
-				} `graphql:"issuesTotal: issues"`
-				IssuesClosed struct {
-					TotalCount githubv4.Int
-				} `graphql:"issuesClosed: issues(states: CLOSED)"`
-				PullRequests struct {
-					TotalCount githubv4.Int
-				}
-			} `graphql:" ... on Repository"`
-		}
 		// q is the main query
 		var q struct {
 			Search struct {
@@ -90,11 +90,12 @@ func runQuery() (err error) {
 				ResetAt   githubv4.DateTime
 			}
 		}
+		// to set the query variables
 		variables := map[string]interface{}{
 			"searchQuery": githubv4.String("stars:>1000"),
 			"afterCursor": (*githubv4.String)(nil),
 		}
-
+		// paginates the query
 		var nodes []Node
 		for {
 			err := client.Query(ctx, &q, variables)
@@ -109,8 +110,9 @@ func runQuery() (err error) {
 			fmt.Printf("\nCursor: %s", githubv4.String(q.Search.PageInfo.EndCursor))
 			fmt.Println("\n.")
 		}
-		writeJSON(q)
-		writeCsv(q)
+		// finally
+		writeJSON(nodes)
+		writeCsv(nodes)
 	}
 	return
 }
@@ -122,6 +124,7 @@ func writeJSON(v interface{}) {
 	w := json.NewEncoder(file)
 	w.SetIndent("", "\t")
 	err := w.Encode(v)
+
 	if err != nil {
 		panic(err)
 	}
@@ -136,8 +139,8 @@ func writeCsv(v interface{}) {
 		fmt.Println(err)
 	}
 	// Unmarshal JSON data
-	var df utils.DataFrame
-	err = json.Unmarshal(data, &df)
+	var n []Node
+	err = json.Unmarshal(data, &n)
 	if err != nil {
 		fmt.Println(err)
 	}
@@ -150,15 +153,15 @@ func writeCsv(v interface{}) {
 
 	writer := csv.NewWriter(csvdatafile)
 
-	for _, node := range df.Search.Nodes {
+	for _, node := range n {
 		var record []string
-		record = append(record, node.Repository.ID)
-		record = append(record, node.Repository.Name)
-		record = append(record, node.Repository.URL)
-		record = append(record, node.Repository.CreatedAt)
-		record = append(record, node.Repository.UpdatedAt)
-		record = append(record, node.Repository.Owner.Login)
-		record = append(record, node.Repository.PrimaryLanguage.Name)
+		record = append(record, string(node.Repository.ID))
+		record = append(record, string(node.Repository.Name))
+		record = append(record, string(node.Repository.URL))
+		record = append(record, string(node.Repository.CreatedAt))
+		record = append(record, string(node.Repository.UpdatedAt))
+		record = append(record, string(node.Repository.Owner.Login))
+		record = append(record, string(node.Repository.PrimaryLanguage.Name))
 		record = append(record, strconv.Itoa(node.Repository.Stargazers.TotalCount))
 		record = append(record, strconv.Itoa(node.Repository.IssuesTotal.TotalCount))
 		record = append(record, strconv.Itoa(node.Repository.IssuesClosed.TotalCount))
