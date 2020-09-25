@@ -3,6 +3,8 @@
 ###### Otávio Celani
 
 ### Running
+First of all, set a .env file with your GITHUB_TOKEN variable.
+Then...
 
 Got two options:
 
