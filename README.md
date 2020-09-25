@@ -2,6 +2,10 @@
 
 ###### Otávio Celani
 
+### Project
+It's a project that collects GitHub data through the GraphQL API.
+The data collected is about the 1000 most popular repositories. You can find it inside the ./data directory, in JSON and CSV.
+
 ### Running
 First of all, set a .env file with your GITHUB_TOKEN variable.
 Then...
