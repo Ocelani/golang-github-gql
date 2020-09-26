@@ -153,8 +153,9 @@ func writeCsv(v interface{}) {
 
 	writer := csv.NewWriter(csvdatafile)
 
-	for _, node := range n {
+	for i, node := range n {
 		var record []string
+		record = append(record, strconv.Itoa(i+1))
 		record = append(record, string(node.Repository.ID))
 		record = append(record, string(node.Repository.Name))
 		record = append(record, string(node.Repository.URL))
@@ -167,6 +168,7 @@ func writeCsv(v interface{}) {
 		record = append(record, strconv.Itoa(node.Repository.IssuesClosed.TotalCount))
 		record = append(record, strconv.Itoa(node.Repository.PullRequests.TotalCount))
 		writer.Write(record)
+		i++
 	}
 	writer.Flush()
 	fmt.Println("csv done!")
