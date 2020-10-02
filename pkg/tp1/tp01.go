@@ -82,7 +82,7 @@ func runQuery() (err error) {
 					HasNextPage githubv4.Boolean
 				}
 				Nodes []Node
-			} `graphql:"search(query:$java, type:REPOSITORY, first:100, after:$afterCursor )"`
+			} `graphql:"search(query:$searchQuery, type:REPOSITORY, first:100, after:$afterCursor )"`
 			RateLimit struct {
 				Cost      githubv4.Int
 				Limit     githubv4.Int
@@ -92,7 +92,7 @@ func runQuery() (err error) {
 		}
 		// to set the query variables
 		variables := map[string]interface{}{
-			"java":        githubv4.String("java stars:>1000"),
+			"searchQuery": githubv4.String("stars:>1000"),
 			"afterCursor": (*githubv4.String)(nil),
 		}
 		// paginates the query

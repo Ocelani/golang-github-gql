@@ -3,10 +3,12 @@
 ###### Otávio Celani
 
 ### Project
+
 It's a project that collects GitHub data through the GraphQL API.
 The data collected is about the 1000 most popular repositories. You can find it inside the ./data directory, in JSON and CSV.
 
 ### Running
+
 First of all, set a .env file with your GITHUB_TOKEN variable.
 Then...
 
@@ -26,7 +28,35 @@ Got two options:
 $ ./main
 ```
 
-### Questões
+### Prática 2
+
+#### Questões
+
+- [ ] **RQ.01**
+      Quais as características dos top-100repositórios Java mais populares?
+- [ ] **RQ.02**
+      Quais as características dos top-100 repositórios Python mais populares?
+- [ ] **RQ.03**
+      Repositórios Java e Python popularespossuem características de “boa qualidade” semelhantes?
+- [ ] **RQ.04**
+      A popularidade influencia nas características dos repositórios Java e Python?
+
+#### Métricas
+
+Utilizaremos como fatores de qualidade métricas associadas à quatro dimensões:
+
+- **Popularidade:**
+- - número de estrelas, número de watchers, número de forks dos repositórios coletados
+- **Tamanho:**
+- - linhas de código (LOC e SLOC) e linhas de comentários
+- **Atividade:**
+- - número de releases, frequência de publicação de releases (número de releases / dias)
+- **Maturidade:**
+- - idade (em anos) de cada repositório coletado
+
+### Prática 1
+
+#### Questões
 
 - [x] **RQ.01**
       Sistemas populares são mais maduros/antigos?
