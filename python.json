@@ -1,0 +1,1802 @@
+[
+	{
+		"Repository": {
+			"Name": "Python",
+			"CreatedAt": "2016-07-16T09:44:01Z",
+			"UpdatedAt": "2020-10-02T23:20:27Z",
+			"StargazerCount": 86338,
+			"ForkCount": 25376,
+			"Owner": {
+				"Login": "TheAlgorithms"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "Python",
+			"CreatedAt": "2011-11-30T09:04:08Z",
+			"UpdatedAt": "2020-10-02T23:46:16Z",
+			"StargazerCount": 18806,
+			"ForkCount": 8910,
+			"Owner": {
+				"Login": "geekcomputers"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "Python",
+			"CreatedAt": "2016-06-23T15:15:23Z",
+			"UpdatedAt": "2020-10-02T22:06:26Z",
+			"StargazerCount": 5837,
+			"ForkCount": 3130,
+			"Owner": {
+				"Login": "injetlee"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "Python",
+			"CreatedAt": "2017-06-07T11:52:22Z",
+			"UpdatedAt": "2020-10-02T06:52:54Z",
+			"StargazerCount": 7404,
+			"ForkCount": 2401,
+			"Owner": {
+				"Login": "TwoWater"
+			},
+			"PrimaryLanguage": {
+				"Name": ""
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python",
+			"CreatedAt": "2014-11-28T01:39:43Z",
+			"UpdatedAt": "2020-10-02T19:27:02Z",
+			"StargazerCount": 2967,
+			"ForkCount": 2489,
+			"Owner": {
+				"Login": "Show-Me-the-Code"
+			},
+			"PrimaryLanguage": {
+				"Name": "HTML"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python",
+			"CreatedAt": "2016-10-31T20:08:03Z",
+			"UpdatedAt": "2020-10-02T11:10:38Z",
+			"StargazerCount": 3082,
+			"ForkCount": 1825,
+			"Owner": {
+				"Login": "kubernetes-client"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 47
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python",
+			"CreatedAt": "2012-09-06T07:00:59Z",
+			"UpdatedAt": "2020-10-02T13:41:00Z",
+			"StargazerCount": 2109,
+			"ForkCount": 1166,
+			"Owner": {
+				"Login": "xxg1413"
+			},
+			"PrimaryLanguage": {
+				"Name": ""
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "PythonDataScienceHandbook",
+			"CreatedAt": "2016-08-10T14:24:36Z",
+			"UpdatedAt": "2020-10-02T18:24:10Z",
+			"StargazerCount": 25735,
+			"ForkCount": 11394,
+			"Owner": {
+				"Login": "jakevdp"
+			},
+			"PrimaryLanguage": {
+				"Name": "Jupyter Notebook"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python",
+			"CreatedAt": "2014-06-20T22:55:57Z",
+			"UpdatedAt": "2020-10-02T19:09:09Z",
+			"StargazerCount": 1466,
+			"ForkCount": 634,
+			"Owner": {
+				"Login": "docker-library"
+			},
+			"PrimaryLanguage": {
+				"Name": "Dockerfile"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "awesome-python",
+			"CreatedAt": "2014-06-27T21:00:06Z",
+			"UpdatedAt": "2020-10-02T22:44:21Z",
+			"StargazerCount": 87282,
+			"ForkCount": 17164,
+			"Owner": {
+				"Login": "vinta"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "Python-100-Days",
+			"CreatedAt": "2018-03-01T16:05:52Z",
+			"UpdatedAt": "2020-10-03T00:12:52Z",
+			"StargazerCount": 93339,
+			"ForkCount": 37526,
+			"Owner": {
+				"Login": "jackfrued"
+			},
+			"PrimaryLanguage": {
+				"Name": "Jupyter Notebook"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "PythonRobotics",
+			"CreatedAt": "2016-03-21T09:34:43Z",
+			"UpdatedAt": "2020-10-02T22:56:15Z",
+			"StargazerCount": 10257,
+			"ForkCount": 3332,
+			"Owner": {
+				"Login": "AtsushiSakai"
+			},
+			"PrimaryLanguage": {
+				"Name": "Jupyter Notebook"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "Complete-Python-3-Bootcamp",
+			"CreatedAt": "2018-02-12T19:30:10Z",
+			"UpdatedAt": "2020-10-02T20:43:12Z",
+			"StargazerCount": 12289,
+			"ForkCount": 45068,
+			"Owner": {
+				"Login": "Pierian-Data"
+			},
+			"PrimaryLanguage": {
+				"Name": "Jupyter Notebook"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "learn-python3",
+			"CreatedAt": "2015-05-15T05:29:05Z",
+			"UpdatedAt": "2020-10-02T16:40:35Z",
+			"StargazerCount": 4782,
+			"ForkCount": 4400,
+			"Owner": {
+				"Login": "michaelliao"
+			},
+			"PrimaryLanguage": {
+				"Name": ""
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python3-cookbook",
+			"CreatedAt": "2014-08-19T03:13:07Z",
+			"UpdatedAt": "2020-10-02T14:33:53Z",
+			"StargazerCount": 8442,
+			"ForkCount": 2463,
+			"Owner": {
+				"Login": "yidao620c"
+			},
+			"PrimaryLanguage": {
+				"Name": "Jupyter Notebook"
+			},
+			"Releases": {
+				"TotalCount": 5
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "PythonSpiderNotes",
+			"CreatedAt": "2015-08-19T03:48:30Z",
+			"UpdatedAt": "2020-10-02T15:52:44Z",
+			"StargazerCount": 5035,
+			"ForkCount": 1981,
+			"Owner": {
+				"Login": "lining0806"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python-patterns",
+			"CreatedAt": "2012-06-06T21:02:35Z",
+			"UpdatedAt": "2020-10-02T20:22:27Z",
+			"StargazerCount": 25973,
+			"ForkCount": 5451,
+			"Owner": {
+				"Login": "faif"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python-guide",
+			"CreatedAt": "2011-03-15T03:24:20Z",
+			"UpdatedAt": "2020-10-02T18:58:21Z",
+			"StargazerCount": 21670,
+			"ForkCount": 5458,
+			"Owner": {
+				"Login": "realpython"
+			},
+			"PrimaryLanguage": {
+				"Name": "Batchfile"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "awesome-python3-webapp",
+			"CreatedAt": "2015-05-20T22:09:21Z",
+			"UpdatedAt": "2020-10-01T10:26:16Z",
+			"StargazerCount": 1932,
+			"ForkCount": 2742,
+			"Owner": {
+				"Login": "michaelliao"
+			},
+			"PrimaryLanguage": {
+				"Name": ""
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "interview_python",
+			"CreatedAt": "2015-04-05T02:59:59Z",
+			"UpdatedAt": "2020-10-02T08:29:27Z",
+			"StargazerCount": 13119,
+			"ForkCount": 5106,
+			"Owner": {
+				"Login": "taizilongxu"
+			},
+			"PrimaryLanguage": {
+				"Name": "Shell"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "learn_python3_spider",
+			"CreatedAt": "2019-04-02T20:19:54Z",
+			"UpdatedAt": "2020-10-02T08:34:10Z",
+			"StargazerCount": 4776,
+			"ForkCount": 1422,
+			"Owner": {
+				"Login": "wistbean"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python-spider",
+			"CreatedAt": "2017-05-05T07:28:13Z",
+			"UpdatedAt": "2020-10-02T09:20:17Z",
+			"StargazerCount": 11375,
+			"ForkCount": 4537,
+			"Owner": {
+				"Login": "Jack-Cherish"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "awesome-python-cn",
+			"CreatedAt": "2015-11-03T09:50:50Z",
+			"UpdatedAt": "2020-10-02T13:54:26Z",
+			"StargazerCount": 20011,
+			"ForkCount": 6534,
+			"Owner": {
+				"Login": "jobbole"
+			},
+			"PrimaryLanguage": {
+				"Name": "Makefile"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python-cheatsheet",
+			"CreatedAt": "2018-01-25T04:16:53Z",
+			"UpdatedAt": "2020-10-02T17:15:04Z",
+			"StargazerCount": 15520,
+			"ForkCount": 3028,
+			"Owner": {
+				"Login": "gto76"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "pythonVSCode",
+			"CreatedAt": "2016-01-19T10:50:01Z",
+			"UpdatedAt": "2020-10-01T22:02:33Z",
+			"StargazerCount": 1963,
+			"ForkCount": 895,
+			"Owner": {
+				"Login": "DonJayamanne"
+			},
+			"PrimaryLanguage": {
+				"Name": "TypeScript"
+			},
+			"Releases": {
+				"TotalCount": 51
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "cpython",
+			"CreatedAt": "2017-02-10T19:23:51Z",
+			"UpdatedAt": "2020-10-02T23:57:44Z",
+			"StargazerCount": 33784,
+			"ForkCount": 16263,
+			"Owner": {
+				"Login": "python"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "Python-programming-exercises",
+			"CreatedAt": "2012-06-14T07:56:46Z",
+			"UpdatedAt": "2020-10-02T23:59:07Z",
+			"StargazerCount": 11714,
+			"ForkCount": 5186,
+			"Owner": {
+				"Login": "zhiwehu"
+			},
+			"PrimaryLanguage": {
+				"Name": ""
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "PythonBooks",
+			"CreatedAt": "2012-08-26T00:18:06Z",
+			"UpdatedAt": "2020-10-02T08:40:46Z",
+			"StargazerCount": 1632,
+			"ForkCount": 792,
+			"Owner": {
+				"Login": "revolunet"
+			},
+			"PrimaryLanguage": {
+				"Name": "CSS"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "LearnPython",
+			"CreatedAt": "2016-10-13T02:30:15Z",
+			"UpdatedAt": "2020-10-01T04:48:39Z",
+			"StargazerCount": 5254,
+			"ForkCount": 3210,
+			"Owner": {
+				"Login": "xianhu"
+			},
+			"PrimaryLanguage": {
+				"Name": "Jupyter Notebook"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python3-in-one-pic",
+			"CreatedAt": "2015-06-28T12:19:54Z",
+			"UpdatedAt": "2020-10-02T17:08:10Z",
+			"StargazerCount": 4213,
+			"ForkCount": 894,
+			"Owner": {
+				"Login": "coodict"
+			},
+			"PrimaryLanguage": {
+				"Name": "Jupyter Notebook"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "notes-python",
+			"CreatedAt": "2015-10-08T09:30:56Z",
+			"UpdatedAt": "2020-10-02T04:00:34Z",
+			"StargazerCount": 5721,
+			"ForkCount": 2781,
+			"Owner": {
+				"Login": "lijin-THU"
+			},
+			"PrimaryLanguage": {
+				"Name": "Jupyter Notebook"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python-machine-learning-book",
+			"CreatedAt": "2015-08-07T20:39:29Z",
+			"UpdatedAt": "2020-10-02T15:13:01Z",
+			"StargazerCount": 10904,
+			"ForkCount": 4226,
+			"Owner": {
+				"Login": "rasbt"
+			},
+			"PrimaryLanguage": {
+				"Name": "Jupyter Notebook"
+			},
+			"Releases": {
+				"TotalCount": 3
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "practical-python",
+			"CreatedAt": "2020-05-24T19:50:08Z",
+			"UpdatedAt": "2020-10-02T21:32:08Z",
+			"StargazerCount": 5434,
+			"ForkCount": 2693,
+			"Owner": {
+				"Login": "dabeaz-course"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "aima-python",
+			"CreatedAt": "2016-02-02T00:11:19Z",
+			"UpdatedAt": "2020-10-02T19:32:20Z",
+			"StargazerCount": 5016,
+			"ForkCount": 2395,
+			"Owner": {
+				"Login": "aimacode"
+			},
+			"PrimaryLanguage": {
+				"Name": "Jupyter Notebook"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python_koans",
+			"CreatedAt": "2010-03-01T17:04:31Z",
+			"UpdatedAt": "2020-10-02T04:27:11Z",
+			"StargazerCount": 4171,
+			"ForkCount": 2480,
+			"Owner": {
+				"Login": "gregmalcolm"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "learn-python3",
+			"CreatedAt": "2018-05-01T11:46:24Z",
+			"UpdatedAt": "2020-10-02T10:23:32Z",
+			"StargazerCount": 2540,
+			"ForkCount": 643,
+			"Owner": {
+				"Login": "jerry-git"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "deep-learning-with-python-notebooks",
+			"CreatedAt": "2017-09-05T19:47:56Z",
+			"UpdatedAt": "2020-10-02T11:34:18Z",
+			"StargazerCount": 11236,
+			"ForkCount": 5669,
+			"Owner": {
+				"Login": "fchollet"
+			},
+			"PrimaryLanguage": {
+				"Name": "Jupyter Notebook"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python-docs-samples",
+			"CreatedAt": "2015-05-04T23:26:13Z",
+			"UpdatedAt": "2020-10-02T22:21:13Z",
+			"StargazerCount": 4500,
+			"ForkCount": 4594,
+			"Owner": {
+				"Login": "GoogleCloudPlatform"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "awesome-python-login-model",
+			"CreatedAt": "2019-01-20T10:43:13Z",
+			"UpdatedAt": "2020-10-02T08:42:48Z",
+			"StargazerCount": 12341,
+			"ForkCount": 2681,
+			"Owner": {
+				"Login": "Kr1s77"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python-fire",
+			"CreatedAt": "2017-02-21T21:35:07Z",
+			"UpdatedAt": "2020-10-02T22:41:02Z",
+			"StargazerCount": 17768,
+			"ForkCount": 1095,
+			"Owner": {
+				"Login": "google"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 7
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python-telegram-bot",
+			"CreatedAt": "2015-07-07T15:30:39Z",
+			"UpdatedAt": "2020-10-02T21:49:55Z",
+			"StargazerCount": 11859,
+			"ForkCount": 2518,
+			"Owner": {
+				"Login": "python-telegram-bot"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 74
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "awesome-python-applications",
+			"CreatedAt": "2018-11-14T07:36:44Z",
+			"UpdatedAt": "2020-10-02T19:37:28Z",
+			"StargazerCount": 11904,
+			"ForkCount": 2132,
+			"Owner": {
+				"Login": "mahmoud"
+			},
+			"PrimaryLanguage": {
+				"Name": "Jupyter Notebook"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python-scraping",
+			"CreatedAt": "2015-06-14T15:32:58Z",
+			"UpdatedAt": "2020-10-02T10:44:02Z",
+			"StargazerCount": 3022,
+			"ForkCount": 1886,
+			"Owner": {
+				"Login": "REMitchell"
+			},
+			"PrimaryLanguage": {
+				"Name": "Jupyter Notebook"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "Python3-Spider",
+			"CreatedAt": "2019-03-27T02:52:43Z",
+			"UpdatedAt": "2020-10-02T13:13:35Z",
+			"StargazerCount": 1367,
+			"ForkCount": 527,
+			"Owner": {
+				"Login": "wkunzhi"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "ISLR-python",
+			"CreatedAt": "2015-06-14T16:14:00Z",
+			"UpdatedAt": "2020-10-02T18:45:06Z",
+			"StargazerCount": 2531,
+			"ForkCount": 1747,
+			"Owner": {
+				"Login": "JWarmenhoven"
+			},
+			"PrimaryLanguage": {
+				"Name": "Jupyter Notebook"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "Machine-Learning-with-Python",
+			"CreatedAt": "2017-05-26T08:55:48Z",
+			"UpdatedAt": "2020-10-02T20:34:24Z",
+			"StargazerCount": 2601,
+			"ForkCount": 3295,
+			"Owner": {
+				"Login": "susanli2016"
+			},
+			"PrimaryLanguage": {
+				"Name": "Jupyter Notebook"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python-cookbook",
+			"CreatedAt": "2013-04-08T11:01:19Z",
+			"UpdatedAt": "2020-10-02T06:42:21Z",
+			"StargazerCount": 2927,
+			"ForkCount": 1462,
+			"Owner": {
+				"Login": "dabeaz"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "interesting-python",
+			"CreatedAt": "2018-03-16T02:54:02Z",
+			"UpdatedAt": "2020-10-01T05:58:00Z",
+			"StargazerCount": 3341,
+			"ForkCount": 1316,
+			"Owner": {
+				"Login": "Alfred1984"
+			},
+			"PrimaryLanguage": {
+				"Name": "Jupyter Notebook"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "kafka-python",
+			"CreatedAt": "2012-09-24T13:00:26Z",
+			"UpdatedAt": "2020-10-02T10:28:06Z",
+			"StargazerCount": 4032,
+			"ForkCount": 1095,
+			"Owner": {
+				"Login": "dpkp"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 34
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "matplotlib",
+			"CreatedAt": "2011-02-19T03:17:12Z",
+			"UpdatedAt": "2020-10-02T23:23:51Z",
+			"StargazerCount": 12247,
+			"ForkCount": 5370,
+			"Owner": {
+				"Login": "matplotlib"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 49
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "introduction_to_ml_with_python",
+			"CreatedAt": "2016-05-29T18:29:47Z",
+			"UpdatedAt": "2020-10-02T22:34:32Z",
+			"StargazerCount": 4898,
+			"ForkCount": 3198,
+			"Owner": {
+				"Login": "amueller"
+			},
+			"PrimaryLanguage": {
+				"Name": "Jupyter Notebook"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "learn-python",
+			"CreatedAt": "2018-08-29T15:20:05Z",
+			"UpdatedAt": "2020-10-02T20:10:20Z",
+			"StargazerCount": 5146,
+			"ForkCount": 914,
+			"Owner": {
+				"Login": "trekhleb"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python-mode",
+			"CreatedAt": "2011-09-18T09:41:07Z",
+			"UpdatedAt": "2020-09-30T03:04:53Z",
+			"StargazerCount": 5102,
+			"ForkCount": 881,
+			"Owner": {
+				"Login": "python-mode"
+			},
+			"PrimaryLanguage": {
+				"Name": "Vim script"
+			},
+			"Releases": {
+				"TotalCount": 1
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python-instagram",
+			"CreatedAt": "2011-02-02T02:45:23Z",
+			"UpdatedAt": "2020-10-02T20:33:46Z",
+			"StargazerCount": 2779,
+			"ForkCount": 1145,
+			"Owner": {
+				"Login": "facebookarchive"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "Complete-Python-Bootcamp",
+			"CreatedAt": "2015-09-06T18:35:51Z",
+			"UpdatedAt": "2020-10-01T08:23:02Z",
+			"StargazerCount": 1650,
+			"ForkCount": 2612,
+			"Owner": {
+				"Login": "jmportilla"
+			},
+			"PrimaryLanguage": {
+				"Name": "Jupyter Notebook"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "google-api-python-client",
+			"CreatedAt": "2014-01-08T21:55:56Z",
+			"UpdatedAt": "2020-10-02T03:05:17Z",
+			"StargazerCount": 4087,
+			"ForkCount": 1733,
+			"Owner": {
+				"Login": "googleapis"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 43
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "scikit-learn",
+			"CreatedAt": "2010-08-17T09:43:38Z",
+			"UpdatedAt": "2020-10-02T23:24:43Z",
+			"StargazerCount": 42478,
+			"ForkCount": 20435,
+			"Owner": {
+				"Login": "scikit-learn"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 20
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "pkuseg-python",
+			"CreatedAt": "2018-08-05T06:41:07Z",
+			"UpdatedAt": "2020-10-02T08:13:49Z",
+			"StargazerCount": 5061,
+			"ForkCount": 802,
+			"Owner": {
+				"Login": "lancopku"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 2
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "PythonPlantsVsZombies",
+			"CreatedAt": "2019-08-28T13:34:16Z",
+			"UpdatedAt": "2020-09-30T01:37:40Z",
+			"StargazerCount": 1409,
+			"ForkCount": 323,
+			"Owner": {
+				"Login": "marblexu"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python-for-android",
+			"CreatedAt": "2011-11-28T09:02:36Z",
+			"UpdatedAt": "2020-10-01T04:18:56Z",
+			"StargazerCount": 6162,
+			"ForkCount": 1340,
+			"Owner": {
+				"Login": "kivy"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 10
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python-twitter",
+			"CreatedAt": "2012-09-12T06:51:02Z",
+			"UpdatedAt": "2020-10-01T11:49:41Z",
+			"StargazerCount": 3045,
+			"ForkCount": 935,
+			"Owner": {
+				"Login": "bear"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 12
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python3_with_pleasure",
+			"CreatedAt": "2017-12-17T14:17:52Z",
+			"UpdatedAt": "2020-09-29T02:20:18Z",
+			"StargazerCount": 3640,
+			"ForkCount": 204,
+			"Owner": {
+				"Login": "arogozhnikov"
+			},
+			"PrimaryLanguage": {
+				"Name": ""
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "scientific-python-lectures",
+			"CreatedAt": "2012-11-29T11:43:34Z",
+			"UpdatedAt": "2020-10-01T11:25:56Z",
+			"StargazerCount": 2911,
+			"ForkCount": 1644,
+			"Owner": {
+				"Login": "jrjohansson"
+			},
+			"PrimaryLanguage": {
+				"Name": "Jupyter Notebook"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "MachineLearning_Python",
+			"CreatedAt": "2016-10-17T15:44:59Z",
+			"UpdatedAt": "2020-10-02T21:44:17Z",
+			"StargazerCount": 3287,
+			"ForkCount": 1579,
+			"Owner": {
+				"Login": "lawlite19"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "c9-python-getting-started",
+			"CreatedAt": "2019-09-17T16:30:14Z",
+			"UpdatedAt": "2020-10-02T01:41:00Z",
+			"StargazerCount": 6897,
+			"ForkCount": 1947,
+			"Owner": {
+				"Login": "microsoft"
+			},
+			"PrimaryLanguage": {
+				"Name": "Jupyter Notebook"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python-goose",
+			"CreatedAt": "2012-01-08T20:52:44Z",
+			"UpdatedAt": "2020-10-02T23:01:58Z",
+			"StargazerCount": 3596,
+			"ForkCount": 762,
+			"Owner": {
+				"Login": "grangier"
+			},
+			"PrimaryLanguage": {
+				"Name": "HTML"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python-binance",
+			"CreatedAt": "2017-08-14T12:09:45Z",
+			"UpdatedAt": "2020-10-01T20:39:16Z",
+			"StargazerCount": 1944,
+			"ForkCount": 999,
+			"Owner": {
+				"Login": "sammchardy"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python_interview_question",
+			"CreatedAt": "2019-03-02T03:57:17Z",
+			"UpdatedAt": "2020-10-02T14:33:15Z",
+			"StargazerCount": 4030,
+			"ForkCount": 1364,
+			"Owner": {
+				"Login": "kenwoodjw"
+			},
+			"PrimaryLanguage": {
+				"Name": ""
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "DataSciencePython",
+			"CreatedAt": "2015-10-06T15:26:08Z",
+			"UpdatedAt": "2020-10-02T04:09:12Z",
+			"StargazerCount": 4029,
+			"ForkCount": 1310,
+			"Owner": {
+				"Login": "ujjwalkarn"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python-small-examples",
+			"CreatedAt": "2019-11-17T01:47:01Z",
+			"UpdatedAt": "2020-10-02T23:16:20Z",
+			"StargazerCount": 5109,
+			"ForkCount": 1182,
+			"Owner": {
+				"Login": "jackzhenguo"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "Zappa",
+			"CreatedAt": "2016-01-20T21:57:04Z",
+			"UpdatedAt": "2020-10-02T17:54:07Z",
+			"StargazerCount": 11108,
+			"ForkCount": 1202,
+			"Owner": {
+				"Login": "Miserlou"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 6
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "py",
+			"CreatedAt": "2015-11-28T22:47:16Z",
+			"UpdatedAt": "2020-10-02T10:55:39Z",
+			"StargazerCount": 1147,
+			"ForkCount": 5310,
+			"Owner": {
+				"Login": "codebasics"
+			},
+			"PrimaryLanguage": {
+				"Name": "Jupyter Notebook"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "ml-coursera-python-assignments",
+			"CreatedAt": "2018-02-17T10:11:53Z",
+			"UpdatedAt": "2020-10-02T18:56:58Z",
+			"StargazerCount": 3394,
+			"ForkCount": 1331,
+			"Owner": {
+				"Login": "dibgerge"
+			},
+			"PrimaryLanguage": {
+				"Name": "Jupyter Notebook"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "pythonnet",
+			"CreatedAt": "2013-11-27T13:42:20Z",
+			"UpdatedAt": "2020-10-02T07:17:44Z",
+			"StargazerCount": 2281,
+			"ForkCount": 429,
+			"Owner": {
+				"Login": "pythonnet"
+			},
+			"PrimaryLanguage": {
+				"Name": "C#"
+			},
+			"Releases": {
+				"TotalCount": 11
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "awesome-python-webapp",
+			"CreatedAt": "2014-05-16T05:55:57Z",
+			"UpdatedAt": "2020-09-30T10:11:16Z",
+			"StargazerCount": 1921,
+			"ForkCount": 1695,
+			"Owner": {
+				"Login": "michaelliao"
+			},
+			"PrimaryLanguage": {
+				"Name": ""
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "zhihu-python",
+			"CreatedAt": "2014-12-14T15:37:29Z",
+			"UpdatedAt": "2020-10-01T13:57:49Z",
+			"StargazerCount": 2107,
+			"ForkCount": 856,
+			"Owner": {
+				"Login": "egrcc"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "google-cloud-python",
+			"CreatedAt": "2014-01-28T15:51:47Z",
+			"UpdatedAt": "2020-10-02T19:14:35Z",
+			"StargazerCount": 3358,
+			"ForkCount": 1315,
+			"Owner": {
+				"Login": "googleapis"
+			},
+			"PrimaryLanguage": {
+				"Name": ""
+			},
+			"Releases": {
+				"TotalCount": 696
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "30-seconds-of-python",
+			"CreatedAt": "2018-01-08T12:17:16Z",
+			"UpdatedAt": "2020-10-02T09:01:05Z",
+			"StargazerCount": 6673,
+			"ForkCount": 924,
+			"Owner": {
+				"Login": "30-seconds"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python-slackclient",
+			"CreatedAt": "2014-11-10T21:32:02Z",
+			"UpdatedAt": "2020-10-02T23:55:07Z",
+			"StargazerCount": 2914,
+			"ForkCount": 683,
+			"Owner": {
+				"Login": "slackapi"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 40
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "tweepy",
+			"CreatedAt": "2009-07-06T04:15:34Z",
+			"UpdatedAt": "2020-10-02T16:48:16Z",
+			"StargazerCount": 7154,
+			"ForkCount": 3248,
+			"Owner": {
+				"Login": "tweepy"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 12
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "GitPython",
+			"CreatedAt": "2010-11-30T17:34:03Z",
+			"UpdatedAt": "2020-10-01T03:25:38Z",
+			"StargazerCount": 2857,
+			"ForkCount": 664,
+			"Owner": {
+				"Login": "gitpython-developers"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 1
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "intermediatePython",
+			"CreatedAt": "2015-08-15T21:21:51Z",
+			"UpdatedAt": "2020-09-30T03:15:38Z",
+			"StargazerCount": 3102,
+			"ForkCount": 633,
+			"Owner": {
+				"Login": "yasoob"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "raven-python",
+			"CreatedAt": "2011-10-06T18:30:01Z",
+			"UpdatedAt": "2020-09-25T11:49:38Z",
+			"StargazerCount": 1671,
+			"ForkCount": 799,
+			"Owner": {
+				"Login": "getsentry"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 10
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python_reference",
+			"CreatedAt": "2013-10-29T22:04:12Z",
+			"UpdatedAt": "2020-10-01T19:38:28Z",
+			"StargazerCount": 2511,
+			"ForkCount": 671,
+			"Owner": {
+				"Login": "rasbt"
+			},
+			"PrimaryLanguage": {
+				"Name": "Jupyter Notebook"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "shadowsocksr",
+			"CreatedAt": "2017-07-27T13:58:27Z",
+			"UpdatedAt": "2020-10-02T02:26:57Z",
+			"StargazerCount": 5525,
+			"ForkCount": 3310,
+			"Owner": {
+				"Login": "shadowsocksr-backup"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "pyenv",
+			"CreatedAt": "2012-08-31T06:57:52Z",
+			"UpdatedAt": "2020-10-03T00:16:15Z",
+			"StargazerCount": 20866,
+			"ForkCount": 1827,
+			"Owner": {
+				"Login": "pyenv"
+			},
+			"PrimaryLanguage": {
+				"Name": "Shell"
+			},
+			"Releases": {
+				"TotalCount": 28
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python-docx",
+			"CreatedAt": "2013-10-15T14:50:41Z",
+			"UpdatedAt": "2020-10-02T13:13:07Z",
+			"StargazerCount": 2345,
+			"ForkCount": 666,
+			"Owner": {
+				"Login": "python-openxml"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "AlgorithmsByPython",
+			"CreatedAt": "2016-06-27T14:39:00Z",
+			"UpdatedAt": "2020-10-02T09:13:55Z",
+			"StargazerCount": 2876,
+			"ForkCount": 1135,
+			"Owner": {
+				"Login": "Jack-Lee-Hiter"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python-social-auth",
+			"CreatedAt": "2012-12-12T16:08:42Z",
+			"UpdatedAt": "2020-10-01T11:41:56Z",
+			"StargazerCount": 2790,
+			"ForkCount": 1139,
+			"Owner": {
+				"Login": "omab"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "NLP-with-Python",
+			"CreatedAt": "2017-08-03T04:18:42Z",
+			"UpdatedAt": "2020-10-02T12:53:57Z",
+			"StargazerCount": 1716,
+			"ForkCount": 1399,
+			"Owner": {
+				"Login": "susanli2016"
+			},
+			"PrimaryLanguage": {
+				"Name": "Jupyter Notebook"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "RustPython",
+			"CreatedAt": "2018-05-28T19:27:01Z",
+			"UpdatedAt": "2020-10-02T16:04:27Z",
+			"StargazerCount": 5970,
+			"ForkCount": 434,
+			"Owner": {
+				"Login": "RustPython"
+			},
+			"PrimaryLanguage": {
+				"Name": "Rust"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "WhirlwindTourOfPython",
+			"CreatedAt": "2016-07-27T14:39:44Z",
+			"UpdatedAt": "2020-10-01T15:37:39Z",
+			"StargazerCount": 2516,
+			"ForkCount": 1162,
+			"Owner": {
+				"Login": "jakevdp"
+			},
+			"PrimaryLanguage": {
+				"Name": "Jupyter Notebook"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "mne-python",
+			"CreatedAt": "2011-01-28T03:31:13Z",
+			"UpdatedAt": "2020-10-02T21:38:39Z",
+			"StargazerCount": 1395,
+			"ForkCount": 797,
+			"Owner": {
+				"Login": "mne-tools"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 25
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "Kalman-and-Bayesian-Filters-in-Python",
+			"CreatedAt": "2014-05-16T19:24:36Z",
+			"UpdatedAt": "2020-10-02T22:26:15Z",
+			"StargazerCount": 8788,
+			"ForkCount": 2485,
+			"Owner": {
+				"Login": "rlabbe"
+			},
+			"PrimaryLanguage": {
+				"Name": "Jupyter Notebook"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "python-oauth2",
+			"CreatedAt": "2009-10-21T17:21:07Z",
+			"UpdatedAt": "2020-09-29T06:54:23Z",
+			"StargazerCount": 2926,
+			"ForkCount": 1044,
+			"Owner": {
+				"Login": "joestump"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "pyecharts",
+			"CreatedAt": "2017-06-22T02:50:25Z",
+			"UpdatedAt": "2020-10-02T17:44:05Z",
+			"StargazerCount": 9806,
+			"ForkCount": 2231,
+			"Owner": {
+				"Login": "pyecharts"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "autobahn-python",
+			"CreatedAt": "2011-07-27T15:22:13Z",
+			"UpdatedAt": "2020-09-30T23:57:37Z",
+			"StargazerCount": 2214,
+			"ForkCount": 617,
+			"Owner": {
+				"Login": "crossbario"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "google-maps-services-python",
+			"CreatedAt": "2014-08-15T04:35:30Z",
+			"UpdatedAt": "2020-10-02T16:48:13Z",
+			"StargazerCount": 2889,
+			"ForkCount": 1003,
+			"Owner": {
+				"Login": "googlemaps"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 15
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "Python-100-Days",
+			"CreatedAt": "2018-06-12T09:40:33Z",
+			"UpdatedAt": "2020-10-03T00:33:35Z",
+			"StargazerCount": 2688,
+			"ForkCount": 988,
+			"Owner": {
+				"Login": "ZiniuLu"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "mongo-python-driver",
+			"CreatedAt": "2009-01-15T15:18:06Z",
+			"UpdatedAt": "2020-10-02T22:20:27Z",
+			"StargazerCount": 3119,
+			"ForkCount": 960,
+			"Owner": {
+				"Login": "mongodb"
+			},
+			"PrimaryLanguage": {
+				"Name": "Python"
+			},
+			"Releases": {
+				"TotalCount": 7
+			}
+		}
+	}
+]
