@@ -3,8 +3,8 @@
 		"Repository": {
 			"Name": "Python",
 			"CreatedAt": "2016-07-16T09:44:01Z",
-			"UpdatedAt": "2020-10-02T23:20:27Z",
-			"StargazerCount": 86338,
+			"UpdatedAt": "2020-10-03T00:43:32Z",
+			"StargazerCount": 86339,
 			"ForkCount": 25376,
 			"Owner": {
 				"Login": "TheAlgorithms"
@@ -1531,24 +1531,6 @@
 	},
 	{
 		"Repository": {
-			"Name": "pyenv",
-			"CreatedAt": "2012-08-31T06:57:52Z",
-			"UpdatedAt": "2020-10-03T00:16:15Z",
-			"StargazerCount": 20866,
-			"ForkCount": 1827,
-			"Owner": {
-				"Login": "pyenv"
-			},
-			"PrimaryLanguage": {
-				"Name": "Shell"
-			},
-			"Releases": {
-				"TotalCount": 28
-			}
-		}
-	},
-	{
-		"Repository": {
 			"Name": "python-docx",
 			"CreatedAt": "2013-10-15T14:50:41Z",
 			"UpdatedAt": "2020-10-02T13:13:07Z",
@@ -1562,6 +1544,24 @@
 			},
 			"Releases": {
 				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "pyenv",
+			"CreatedAt": "2012-08-31T06:57:52Z",
+			"UpdatedAt": "2020-10-03T00:16:15Z",
+			"StargazerCount": 20866,
+			"ForkCount": 1827,
+			"Owner": {
+				"Login": "pyenv"
+			},
+			"PrimaryLanguage": {
+				"Name": "Shell"
+			},
+			"Releases": {
+				"TotalCount": 28
 			}
 		}
 	},

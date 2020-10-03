@@ -52,10 +52,10 @@ func run() {
 	c <- runQuery("Java stars:>1000", "java")
 	for q := range c {
 		if q != true {
-			fmt.Println("Task not finished on channel: ", c)
+			log.Panic("Task not finished on channel: ", c)
 		}
+		return
 	}
-	return
 }
 
 func runQuery(search string, file string) bool {
@@ -114,7 +114,7 @@ func runQuery(search string, file string) bool {
 
 // writeJSON writes the JSON file
 func writeJSON(v interface{}, file string) {
-	f, err := os.OpenFile("./"+file+".json", os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
+	f, err := os.OpenFile("./data/"+file+".json", os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
 	if err != nil {
 		fmt.Println(err)
 	}
@@ -127,7 +127,7 @@ func writeJSON(v interface{}, file string) {
 	if err != nil {
 		panic(err)
 	} else {
-		fmt.Println("json done!")
+		fmt.Printf("%s.csv done!\n", file)
 	}
 }
 
@@ -145,7 +145,7 @@ func writeCsv(v interface{}, file string) {
 		fmt.Println(err)
 	}
 
-	csvfile, err := os.OpenFile("./"+file+".csv", os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
+	csvfile, err := os.OpenFile("./data/"+file+".csv", os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
 	if err != nil {
 		fmt.Println(err)
 	}
@@ -159,11 +159,11 @@ func writeCsv(v interface{}, file string) {
 		record = append(record, string(node.Repository.Name))
 		record = append(record, string(node.Repository.CreatedAt))
 		record = append(record, string(node.Repository.UpdatedAt))
-		record = append(record, string(node.Repository.StargazerCount))
-		record = append(record, string(node.Repository.ForkCount))
+		record = append(record, strconv.Itoa(node.Repository.StargazerCount))
+		record = append(record, strconv.Itoa(node.Repository.ForkCount))
 		record = append(record, string(node.Repository.Owner.Login))
 		record = append(record, string(node.Repository.PrimaryLanguage.Name))
-		record = append(record, string(node.Repository.Releases.TotalCount))
+		record = append(record, strconv.Itoa(node.Repository.Releases.TotalCount))
 		writer.Write(record)
 		i++
 	}
@@ -172,6 +172,6 @@ func writeCsv(v interface{}, file string) {
 	if err != nil {
 		panic(err)
 	} else {
-		fmt.Println("csv done!")
+		fmt.Printf("%s.csv done!\n", file)
 	}
 }
