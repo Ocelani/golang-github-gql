@@ -1,0 +1,2202 @@
+[
+	{
+		"Repository": {
+			"Name": "Java",
+			"URL": "https://github.com/TheAlgorithms/Java",
+			"CreatedAt": "2016-07-16T10:21:02Z",
+			"UpdatedAt": "2020-10-08T00:07:52Z",
+			"StargazerCount": 30783,
+			"ForkCount": 10696,
+			"Owner": {
+				"Login": "TheAlgorithms"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 1907
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "Java",
+			"URL": "https://github.com/DuGuQiuBai/Java",
+			"CreatedAt": "2015-11-25T07:30:08Z",
+			"UpdatedAt": "2020-10-07T13:44:06Z",
+			"StargazerCount": 7176,
+			"ForkCount": 3565,
+			"Owner": {
+				"Login": "DuGuQiuBai"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 661
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "JavaGuide",
+			"URL": "https://github.com/Snailclimb/JavaGuide",
+			"CreatedAt": "2018-05-07T13:27:00Z",
+			"UpdatedAt": "2020-10-07T19:18:29Z",
+			"StargazerCount": 89088,
+			"ForkCount": 30829,
+			"Owner": {
+				"Login": "Snailclimb"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 4450
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "Java",
+			"URL": "https://github.com/HelloWorld521/Java",
+			"CreatedAt": "2016-12-08T14:01:46Z",
+			"UpdatedAt": "2020-10-06T14:08:30Z",
+			"StargazerCount": 1293,
+			"ForkCount": 686,
+			"Owner": {
+				"Login": "HelloWorld521"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 62
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "java",
+			"URL": "https://github.com/kubernetes-client/java",
+			"CreatedAt": "2017-05-08T21:52:58Z",
+			"UpdatedAt": "2020-10-07T07:47:51Z",
+			"StargazerCount": 1416,
+			"ForkCount": 606,
+			"Owner": {
+				"Login": "kubernetes-client"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 89
+			},
+			"Releases": {
+				"TotalCount": 17
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "Java",
+			"URL": "https://github.com/gaopu/Java",
+			"CreatedAt": "2014-11-18T11:25:02Z",
+			"UpdatedAt": "2020-10-06T00:55:01Z",
+			"StargazerCount": 1005,
+			"ForkCount": 649,
+			"Owner": {
+				"Login": "gaopu"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 138
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "JavaScript30",
+			"URL": "https://github.com/wesbos/JavaScript30",
+			"CreatedAt": "2016-12-07T19:15:31Z",
+			"UpdatedAt": "2020-10-07T21:20:29Z",
+			"StargazerCount": 13683,
+			"ForkCount": 16235,
+			"Owner": {
+				"Login": "wesbos"
+			},
+			"PrimaryLanguage": {
+				"Name": "HTML"
+			},
+			"Watchers": {
+				"TotalCount": 575
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "javascript",
+			"URL": "https://github.com/airbnb/javascript",
+			"CreatedAt": "2012-11-01T23:13:50Z",
+			"UpdatedAt": "2020-10-07T23:46:38Z",
+			"StargazerCount": 100251,
+			"ForkCount": 19499,
+			"Owner": {
+				"Login": "airbnb"
+			},
+			"PrimaryLanguage": {
+				"Name": "JavaScript"
+			},
+			"Watchers": {
+				"TotalCount": 3708
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "JavaFamily",
+			"URL": "https://github.com/AobingJava/JavaFamily",
+			"CreatedAt": "2019-11-12T04:26:18Z",
+			"UpdatedAt": "2020-10-07T18:04:37Z",
+			"StargazerCount": 19117,
+			"ForkCount": 4164,
+			"Owner": {
+				"Login": "AobingJava"
+			},
+			"PrimaryLanguage": {
+				"Name": ""
+			},
+			"Watchers": {
+				"TotalCount": 909
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "javascript-algorithms",
+			"URL": "https://github.com/trekhleb/javascript-algorithms",
+			"CreatedAt": "2018-03-24T07:47:04Z",
+			"UpdatedAt": "2020-10-07T22:51:52Z",
+			"StargazerCount": 82040,
+			"ForkCount": 13829,
+			"Owner": {
+				"Login": "trekhleb"
+			},
+			"PrimaryLanguage": {
+				"Name": "JavaScript"
+			},
+			"Watchers": {
+				"TotalCount": 3298
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "java8-tutorial",
+			"URL": "https://github.com/winterbe/java8-tutorial",
+			"CreatedAt": "2014-03-16T17:25:43Z",
+			"UpdatedAt": "2020-10-07T22:30:33Z",
+			"StargazerCount": 13933,
+			"ForkCount": 3394,
+			"Owner": {
+				"Login": "winterbe"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 997
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "advanced-java",
+			"URL": "https://github.com/doocs/advanced-java",
+			"CreatedAt": "2018-10-06T11:38:30Z",
+			"UpdatedAt": "2020-10-07T14:04:10Z",
+			"StargazerCount": 47684,
+			"ForkCount": 13328,
+			"Owner": {
+				"Login": "doocs"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 2412
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "JavaEETest",
+			"URL": "https://github.com/lenve/JavaEETest",
+			"CreatedAt": "2016-12-13T02:13:58Z",
+			"UpdatedAt": "2020-10-06T10:28:00Z",
+			"StargazerCount": 2739,
+			"ForkCount": 2731,
+			"Owner": {
+				"Login": "lenve"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 269
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "RxJava",
+			"URL": "https://github.com/ReactiveX/RxJava",
+			"CreatedAt": "2013-01-08T20:11:48Z",
+			"UpdatedAt": "2020-10-07T14:38:36Z",
+			"StargazerCount": 43555,
+			"ForkCount": 7252,
+			"Owner": {
+				"Login": "ReactiveX"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 2342
+			},
+			"Releases": {
+				"TotalCount": 202
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "guava",
+			"URL": "https://github.com/google/guava",
+			"CreatedAt": "2014-05-29T16:23:17Z",
+			"UpdatedAt": "2020-10-07T18:54:09Z",
+			"StargazerCount": 38958,
+			"ForkCount": 8740,
+			"Owner": {
+				"Login": "google"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 2519
+			},
+			"Releases": {
+				"TotalCount": 29
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "Java8InAction",
+			"URL": "https://github.com/java8/Java8InAction",
+			"CreatedAt": "2013-10-28T23:59:40Z",
+			"UpdatedAt": "2020-10-07T08:49:12Z",
+			"StargazerCount": 2679,
+			"ForkCount": 1935,
+			"Owner": {
+				"Login": "java8"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 281
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "JavaScript-MD5",
+			"URL": "https://github.com/blueimp/JavaScript-MD5",
+			"CreatedAt": "2011-12-10T20:42:25Z",
+			"UpdatedAt": "2020-10-06T13:20:11Z",
+			"StargazerCount": 3914,
+			"ForkCount": 1551,
+			"Owner": {
+				"Login": "blueimp"
+			},
+			"PrimaryLanguage": {
+				"Name": "JavaScript"
+			},
+			"Watchers": {
+				"TotalCount": 114
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "javaee7-samples",
+			"URL": "https://github.com/javaee-samples/javaee7-samples",
+			"CreatedAt": "2013-08-27T18:47:51Z",
+			"UpdatedAt": "2020-10-07T17:10:42Z",
+			"StargazerCount": 2454,
+			"ForkCount": 1657,
+			"Owner": {
+				"Login": "javaee-samples"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 373
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "awesome-javascript",
+			"URL": "https://github.com/sorrycc/awesome-javascript",
+			"CreatedAt": "2014-07-01T15:59:02Z",
+			"UpdatedAt": "2020-10-07T21:02:57Z",
+			"StargazerCount": 21127,
+			"ForkCount": 3129,
+			"Owner": {
+				"Login": "sorrycc"
+			},
+			"PrimaryLanguage": {
+				"Name": ""
+			},
+			"Watchers": {
+				"TotalCount": 1027
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "jadx",
+			"URL": "https://github.com/skylot/jadx",
+			"CreatedAt": "2013-03-18T17:08:21Z",
+			"UpdatedAt": "2020-10-07T18:51:13Z",
+			"StargazerCount": 23532,
+			"ForkCount": 2823,
+			"Owner": {
+				"Login": "skylot"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 741
+			},
+			"Releases": {
+				"TotalCount": 13
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "JavaScript-Load-Image",
+			"URL": "https://github.com/blueimp/JavaScript-Load-Image",
+			"CreatedAt": "2011-12-12T22:22:36Z",
+			"UpdatedAt": "2020-10-04T04:45:44Z",
+			"StargazerCount": 3990,
+			"ForkCount": 918,
+			"Owner": {
+				"Login": "blueimp"
+			},
+			"PrimaryLanguage": {
+				"Name": "JavaScript"
+			},
+			"Watchers": {
+				"TotalCount": 170
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "JavaScript-Koans",
+			"URL": "https://github.com/liammclennan/JavaScript-Koans",
+			"CreatedAt": "2010-10-20T04:53:24Z",
+			"UpdatedAt": "2020-10-07T11:54:01Z",
+			"StargazerCount": 1316,
+			"ForkCount": 1225,
+			"Owner": {
+				"Login": "liammclennan"
+			},
+			"PrimaryLanguage": {
+				"Name": "JavaScript"
+			},
+			"Watchers": {
+				"TotalCount": 59
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "awesome-java-cn",
+			"URL": "https://github.com/jobbole/awesome-java-cn",
+			"CreatedAt": "2015-10-01T06:53:06Z",
+			"UpdatedAt": "2020-10-06T09:13:34Z",
+			"StargazerCount": 13350,
+			"ForkCount": 4472,
+			"Owner": {
+				"Login": "jobbole"
+			},
+			"PrimaryLanguage": {
+				"Name": ""
+			},
+			"Watchers": {
+				"TotalCount": 1547
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "Javascript",
+			"URL": "https://github.com/TheAlgorithms/Javascript",
+			"CreatedAt": "2017-07-13T06:12:33Z",
+			"UpdatedAt": "2020-10-07T23:51:54Z",
+			"StargazerCount": 6397,
+			"ForkCount": 1266,
+			"Owner": {
+				"Login": "TheAlgorithms"
+			},
+			"PrimaryLanguage": {
+				"Name": "JavaScript"
+			},
+			"Watchers": {
+				"TotalCount": 299
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "javapoet",
+			"URL": "https://github.com/square/javapoet",
+			"CreatedAt": "2013-02-01T16:56:30Z",
+			"UpdatedAt": "2020-10-04T09:35:58Z",
+			"StargazerCount": 8375,
+			"ForkCount": 1083,
+			"Owner": {
+				"Login": "square"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 350
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "weixin-java-tools",
+			"URL": "https://github.com/chanjarster/weixin-java-tools",
+			"CreatedAt": "2014-08-18T08:11:26Z",
+			"UpdatedAt": "2020-10-06T05:37:17Z",
+			"StargazerCount": 2581,
+			"ForkCount": 7904,
+			"Owner": {
+				"Login": "chanjarster"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 477
+			},
+			"Releases": {
+				"TotalCount": 21
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "javaScript",
+			"URL": "https://github.com/yangxi0126/javaScript",
+			"CreatedAt": "2016-02-02T01:45:52Z",
+			"UpdatedAt": "2020-10-07T04:26:42Z",
+			"StargazerCount": 1175,
+			"ForkCount": 682,
+			"Owner": {
+				"Login": "yangxi0126"
+			},
+			"PrimaryLanguage": {
+				"Name": "JavaScript"
+			},
+			"Watchers": {
+				"TotalCount": 81
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "arthas",
+			"URL": "https://github.com/alibaba/arthas",
+			"CreatedAt": "2018-08-29T17:15:57Z",
+			"UpdatedAt": "2020-10-07T23:52:28Z",
+			"StargazerCount": 23193,
+			"ForkCount": 5046,
+			"Owner": {
+				"Login": "alibaba"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 1120
+			},
+			"Releases": {
+				"TotalCount": 27
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "javacv",
+			"URL": "https://github.com/bytedeco/javacv",
+			"CreatedAt": "2014-04-21T13:50:26Z",
+			"UpdatedAt": "2020-10-07T16:20:01Z",
+			"StargazerCount": 4594,
+			"ForkCount": 1196,
+			"Owner": {
+				"Login": "bytedeco"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 256
+			},
+			"Releases": {
+				"TotalCount": 5
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "realm-java",
+			"URL": "https://github.com/realm/realm-java",
+			"CreatedAt": "2012-04-20T09:18:42Z",
+			"UpdatedAt": "2020-10-07T15:30:19Z",
+			"StargazerCount": 11008,
+			"ForkCount": 1739,
+			"Owner": {
+				"Login": "realm"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 379
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "javascript-koans",
+			"URL": "https://github.com/mrdavidlaing/javascript-koans",
+			"CreatedAt": "2010-11-06T14:50:55Z",
+			"UpdatedAt": "2020-09-28T15:17:34Z",
+			"StargazerCount": 2182,
+			"ForkCount": 3265,
+			"Owner": {
+				"Login": "mrdavidlaing"
+			},
+			"PrimaryLanguage": {
+				"Name": "JavaScript"
+			},
+			"Watchers": {
+				"TotalCount": 91
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "Eloquent-JavaScript",
+			"URL": "https://github.com/marijnh/Eloquent-JavaScript",
+			"CreatedAt": "2013-09-30T13:40:20Z",
+			"UpdatedAt": "2020-10-05T16:19:07Z",
+			"StargazerCount": 2452,
+			"ForkCount": 643,
+			"Owner": {
+				"Login": "marijnh"
+			},
+			"PrimaryLanguage": {
+				"Name": "JavaScript"
+			},
+			"Watchers": {
+				"TotalCount": 154
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "JavaScript-Garden",
+			"URL": "https://github.com/BonsaiDen/JavaScript-Garden",
+			"CreatedAt": "2011-01-04T14:41:31Z",
+			"UpdatedAt": "2020-10-06T14:08:28Z",
+			"StargazerCount": 3286,
+			"ForkCount": 573,
+			"Owner": {
+				"Login": "BonsaiDen"
+			},
+			"PrimaryLanguage": {
+				"Name": "CSS"
+			},
+			"Watchers": {
+				"TotalCount": 173
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "WebViewJavascriptBridge",
+			"URL": "https://github.com/marcuswestin/WebViewJavascriptBridge",
+			"CreatedAt": "2011-08-28T02:25:27Z",
+			"UpdatedAt": "2020-10-05T05:13:41Z",
+			"StargazerCount": 13385,
+			"ForkCount": 2826,
+			"Owner": {
+				"Login": "marcuswestin"
+			},
+			"PrimaryLanguage": {
+				"Name": "Objective-C"
+			},
+			"Watchers": {
+				"TotalCount": 518
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "mybatis-3",
+			"URL": "https://github.com/mybatis/mybatis-3",
+			"CreatedAt": "2013-02-14T19:03:32Z",
+			"UpdatedAt": "2020-10-07T04:04:12Z",
+			"StargazerCount": 14347,
+			"ForkCount": 9622,
+			"Owner": {
+				"Login": "mybatis"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 1203
+			},
+			"Releases": {
+				"TotalCount": 33
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "netty-socketio",
+			"URL": "https://github.com/mrniko/netty-socketio",
+			"CreatedAt": "2012-01-12T11:43:49Z",
+			"UpdatedAt": "2020-10-07T16:32:23Z",
+			"StargazerCount": 4924,
+			"ForkCount": 1363,
+			"Owner": {
+				"Login": "mrniko"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 411
+			},
+			"Releases": {
+				"TotalCount": 3
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "JavaScriptServices",
+			"URL": "https://github.com/aspnet/JavaScriptServices",
+			"CreatedAt": "2015-11-02T01:24:11Z",
+			"UpdatedAt": "2020-10-01T07:19:15Z",
+			"StargazerCount": 3129,
+			"ForkCount": 538,
+			"Owner": {
+				"Login": "aspnet"
+			},
+			"PrimaryLanguage": {
+				"Name": "C#"
+			},
+			"Watchers": {
+				"TotalCount": 283
+			},
+			"Releases": {
+				"TotalCount": 2
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "JavaInterview",
+			"URL": "https://github.com/OUYANGSIHAI/JavaInterview",
+			"CreatedAt": "2020-02-19T08:52:03Z",
+			"UpdatedAt": "2020-10-07T16:35:44Z",
+			"StargazerCount": 1810,
+			"ForkCount": 464,
+			"Owner": {
+				"Login": "OUYANGSIHAI"
+			},
+			"PrimaryLanguage": {
+				"Name": ""
+			},
+			"Watchers": {
+				"TotalCount": 97
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "JSON-java",
+			"URL": "https://github.com/stleary/JSON-java",
+			"CreatedAt": "2010-12-21T17:46:09Z",
+			"UpdatedAt": "2020-10-05T14:15:09Z",
+			"StargazerCount": 3659,
+			"ForkCount": 2238,
+			"Owner": {
+				"Login": "stleary"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 271
+			},
+			"Releases": {
+				"TotalCount": 11
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "jjwt",
+			"URL": "https://github.com/jwtk/jjwt",
+			"CreatedAt": "2014-09-13T01:06:24Z",
+			"UpdatedAt": "2020-10-07T13:37:51Z",
+			"StargazerCount": 6818,
+			"ForkCount": 1008,
+			"Owner": {
+				"Login": "jwtk"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 279
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "fastjson",
+			"URL": "https://github.com/alibaba/fastjson",
+			"CreatedAt": "2011-11-03T06:58:52Z",
+			"UpdatedAt": "2020-10-07T11:36:51Z",
+			"StargazerCount": 22454,
+			"ForkCount": 5978,
+			"Owner": {
+				"Login": "alibaba"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 1397
+			},
+			"Releases": {
+				"TotalCount": 79
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "en.javascript.info",
+			"URL": "https://github.com/javascript-tutorial/en.javascript.info",
+			"CreatedAt": "2017-06-03T14:27:57Z",
+			"UpdatedAt": "2020-10-07T23:06:12Z",
+			"StargazerCount": 11128,
+			"ForkCount": 2336,
+			"Owner": {
+				"Login": "javascript-tutorial"
+			},
+			"PrimaryLanguage": {
+				"Name": "HTML"
+			},
+			"Watchers": {
+				"TotalCount": 282
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "gson",
+			"URL": "https://github.com/google/gson",
+			"CreatedAt": "2015-03-19T18:21:20Z",
+			"UpdatedAt": "2020-10-07T15:30:59Z",
+			"StargazerCount": 18610,
+			"ForkCount": 3602,
+			"Owner": {
+				"Login": "google"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 747
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "jna",
+			"URL": "https://github.com/java-native-access/jna",
+			"CreatedAt": "2011-04-29T13:30:29Z",
+			"UpdatedAt": "2020-10-07T20:15:26Z",
+			"StargazerCount": 6028,
+			"ForkCount": 1381,
+			"Owner": {
+				"Login": "java-native-access"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 388
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "JavaHamcrest",
+			"URL": "https://github.com/hamcrest/JavaHamcrest",
+			"CreatedAt": "2012-04-01T19:38:04Z",
+			"UpdatedAt": "2020-10-04T09:48:35Z",
+			"StargazerCount": 1795,
+			"ForkCount": 334,
+			"Owner": {
+				"Login": "hamcrest"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 109
+			},
+			"Releases": {
+				"TotalCount": 7
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "javaparser",
+			"URL": "https://github.com/javaparser/javaparser",
+			"CreatedAt": "2011-10-30T14:03:44Z",
+			"UpdatedAt": "2020-10-05T17:18:22Z",
+			"StargazerCount": 3302,
+			"ForkCount": 773,
+			"Owner": {
+				"Login": "javaparser"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 135
+			},
+			"Releases": {
+				"TotalCount": 18
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "123-Essential-JavaScript-Interview-Questions",
+			"URL": "https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions",
+			"CreatedAt": "2015-06-02T12:50:14Z",
+			"UpdatedAt": "2020-10-07T18:08:35Z",
+			"StargazerCount": 2841,
+			"ForkCount": 792,
+			"Owner": {
+				"Login": "ganqqwerty"
+			},
+			"PrimaryLanguage": {
+				"Name": ""
+			},
+			"Watchers": {
+				"TotalCount": 115
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "learn-javascript",
+			"URL": "https://github.com/michaelliao/learn-javascript",
+			"CreatedAt": "2015-08-09T11:33:56Z",
+			"UpdatedAt": "2020-10-04T08:37:43Z",
+			"StargazerCount": 1472,
+			"ForkCount": 2262,
+			"Owner": {
+				"Login": "michaelliao"
+			},
+			"PrimaryLanguage": {
+				"Name": ""
+			},
+			"Watchers": {
+				"TotalCount": 103
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "javascripting",
+			"URL": "https://github.com/workshopper/javascripting",
+			"CreatedAt": "2014-09-29T23:38:32Z",
+			"UpdatedAt": "2020-10-07T01:33:17Z",
+			"StargazerCount": 2211,
+			"ForkCount": 907,
+			"Owner": {
+				"Login": "workshopper"
+			},
+			"PrimaryLanguage": {
+				"Name": "JavaScript"
+			},
+			"Watchers": {
+				"TotalCount": 153
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "JavaCollection",
+			"URL": "https://github.com/hansonwang99/JavaCollection",
+			"CreatedAt": "2020-05-01T14:14:36Z",
+			"UpdatedAt": "2020-10-07T13:53:26Z",
+			"StargazerCount": 1717,
+			"ForkCount": 329,
+			"Owner": {
+				"Login": "hansonwang99"
+			},
+			"PrimaryLanguage": {
+				"Name": ""
+			},
+			"Watchers": {
+				"TotalCount": 101
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "javascript-algorithms",
+			"URL": "https://github.com/mgechev/javascript-algorithms",
+			"CreatedAt": "2012-11-18T19:11:57Z",
+			"UpdatedAt": "2020-10-07T11:16:10Z",
+			"StargazerCount": 6408,
+			"ForkCount": 1127,
+			"Owner": {
+				"Login": "mgechev"
+			},
+			"PrimaryLanguage": {
+				"Name": "JavaScript"
+			},
+			"Watchers": {
+				"TotalCount": 262
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "Java-WebSocket",
+			"URL": "https://github.com/TooTallNate/Java-WebSocket",
+			"CreatedAt": "2010-01-20T23:33:04Z",
+			"UpdatedAt": "2020-10-07T07:08:30Z",
+			"StargazerCount": 7292,
+			"ForkCount": 2077,
+			"Owner": {
+				"Login": "TooTallNate"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 362
+			},
+			"Releases": {
+				"TotalCount": 12
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "JavaScript-Templates",
+			"URL": "https://github.com/blueimp/JavaScript-Templates",
+			"CreatedAt": "2011-12-10T20:55:40Z",
+			"UpdatedAt": "2020-10-07T08:03:08Z",
+			"StargazerCount": 1604,
+			"ForkCount": 446,
+			"Owner": {
+				"Login": "blueimp"
+			},
+			"PrimaryLanguage": {
+				"Name": "JavaScript"
+			},
+			"Watchers": {
+				"TotalCount": 114
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "jfinal",
+			"URL": "https://github.com/jfinal/jfinal",
+			"CreatedAt": "2012-04-25T08:48:48Z",
+			"UpdatedAt": "2020-10-04T05:29:27Z",
+			"StargazerCount": 3091,
+			"ForkCount": 1358,
+			"Owner": {
+				"Login": "jfinal"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 373
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "jd-gui",
+			"URL": "https://github.com/java-decompiler/jd-gui",
+			"CreatedAt": "2015-03-25T05:28:41Z",
+			"UpdatedAt": "2020-10-07T16:02:53Z",
+			"StargazerCount": 9112,
+			"ForkCount": 1766,
+			"Owner": {
+				"Login": "java-decompiler"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 500
+			},
+			"Releases": {
+				"TotalCount": 18
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "aws-sdk-java",
+			"URL": "https://github.com/aws/aws-sdk-java",
+			"CreatedAt": "2010-03-22T23:34:58Z",
+			"UpdatedAt": "2020-10-07T20:30:47Z",
+			"StargazerCount": 3372,
+			"ForkCount": 2564,
+			"Owner": {
+				"Login": "aws"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 322
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "awesome-javascript-cn",
+			"URL": "https://github.com/jobbole/awesome-javascript-cn",
+			"CreatedAt": "2015-11-03T11:17:05Z",
+			"UpdatedAt": "2020-10-06T12:27:54Z",
+			"StargazerCount": 6582,
+			"ForkCount": 1816,
+			"Owner": {
+				"Login": "jobbole"
+			},
+			"PrimaryLanguage": {
+				"Name": ""
+			},
+			"Watchers": {
+				"TotalCount": 626
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "JsonPath",
+			"URL": "https://github.com/json-path/JsonPath",
+			"CreatedAt": "2011-01-24T13:19:19Z",
+			"UpdatedAt": "2020-10-06T09:49:19Z",
+			"StargazerCount": 5255,
+			"ForkCount": 1003,
+			"Owner": {
+				"Login": "json-path"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 277
+			},
+			"Releases": {
+				"TotalCount": 4
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "java-learning",
+			"URL": "https://github.com/brianway/java-learning",
+			"CreatedAt": "2016-02-09T05:20:58Z",
+			"UpdatedAt": "2020-10-07T15:30:29Z",
+			"StargazerCount": 3512,
+			"ForkCount": 1158,
+			"Owner": {
+				"Login": "brianway"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 322
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "JavaLambdaInternals",
+			"URL": "https://github.com/CarpenterLee/JavaLambdaInternals",
+			"CreatedAt": "2016-10-13T12:47:26Z",
+			"UpdatedAt": "2020-10-06T00:22:40Z",
+			"StargazerCount": 1181,
+			"ForkCount": 424,
+			"Owner": {
+				"Login": "CarpenterLee"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 72
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "JavaScript30",
+			"URL": "https://github.com/soyaine/JavaScript30",
+			"CreatedAt": "2016-12-20T09:19:41Z",
+			"UpdatedAt": "2020-10-07T01:04:51Z",
+			"StargazerCount": 1487,
+			"ForkCount": 377,
+			"Owner": {
+				"Login": "soyaine"
+			},
+			"PrimaryLanguage": {
+				"Name": "JavaScript"
+			},
+			"Watchers": {
+				"TotalCount": 95
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "Java-Tutorial",
+			"URL": "https://github.com/h2pl/Java-Tutorial",
+			"CreatedAt": "2018-05-01T15:57:21Z",
+			"UpdatedAt": "2020-10-07T08:17:19Z",
+			"StargazerCount": 4032,
+			"ForkCount": 1043,
+			"Owner": {
+				"Login": "h2pl"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 151
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "scribejava",
+			"URL": "https://github.com/scribejava/scribejava",
+			"CreatedAt": "2010-09-05T19:11:40Z",
+			"UpdatedAt": "2020-10-05T15:57:01Z",
+			"StargazerCount": 5085,
+			"ForkCount": 1664,
+			"Owner": {
+				"Login": "scribejava"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 322
+			},
+			"Releases": {
+				"TotalCount": 2
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "webmagic",
+			"URL": "https://github.com/code4craft/webmagic",
+			"CreatedAt": "2013-04-23T12:57:36Z",
+			"UpdatedAt": "2020-10-07T08:35:27Z",
+			"StargazerCount": 9285,
+			"ForkCount": 3864,
+			"Owner": {
+				"Login": "code4craft"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 818
+			},
+			"Releases": {
+				"TotalCount": 20
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "CtCI-6th-Edition-JavaScript",
+			"URL": "https://github.com/careercup/CtCI-6th-Edition-JavaScript",
+			"CreatedAt": "2016-02-12T05:01:45Z",
+			"UpdatedAt": "2020-10-07T08:30:31Z",
+			"StargazerCount": 1528,
+			"ForkCount": 647,
+			"Owner": {
+				"Login": "careercup"
+			},
+			"PrimaryLanguage": {
+				"Name": "JavaScript"
+			},
+			"Watchers": {
+				"TotalCount": 61
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "google-java-format",
+			"URL": "https://github.com/google/google-java-format",
+			"CreatedAt": "2015-05-11T20:38:28Z",
+			"UpdatedAt": "2020-10-07T23:25:20Z",
+			"StargazerCount": 3538,
+			"ForkCount": 625,
+			"Owner": {
+				"Login": "google"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 147
+			},
+			"Releases": {
+				"TotalCount": 11
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "stackoverflow-java-top-qa",
+			"URL": "https://github.com/giantray/stackoverflow-java-top-qa",
+			"CreatedAt": "2015-08-18T02:10:15Z",
+			"UpdatedAt": "2020-10-06T09:04:35Z",
+			"StargazerCount": 5088,
+			"ForkCount": 1492,
+			"Owner": {
+				"Login": "giantray"
+			},
+			"PrimaryLanguage": {
+				"Name": ""
+			},
+			"Watchers": {
+				"TotalCount": 459
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "graphql-java",
+			"URL": "https://github.com/graphql-java/graphql-java",
+			"CreatedAt": "2015-07-06T06:52:20Z",
+			"UpdatedAt": "2020-10-06T17:37:09Z",
+			"StargazerCount": 4499,
+			"ForkCount": 823,
+			"Owner": {
+				"Login": "graphql-java"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 235
+			},
+			"Releases": {
+				"TotalCount": 31
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "javacpp",
+			"URL": "https://github.com/bytedeco/javacpp",
+			"CreatedAt": "2014-04-21T12:47:21Z",
+			"UpdatedAt": "2020-10-07T15:08:10Z",
+			"StargazerCount": 3284,
+			"ForkCount": 450,
+			"Owner": {
+				"Login": "bytedeco"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 185
+			},
+			"Releases": {
+				"TotalCount": 5
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "better-java",
+			"URL": "https://github.com/cxxr/better-java",
+			"CreatedAt": "2014-05-05T22:10:53Z",
+			"UpdatedAt": "2020-10-07T18:01:02Z",
+			"StargazerCount": 5618,
+			"ForkCount": 710,
+			"Owner": {
+				"Login": "cxxr"
+			},
+			"PrimaryLanguage": {
+				"Name": ""
+			},
+			"Watchers": {
+				"TotalCount": 370
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "30-seconds-of-java8",
+			"URL": "https://github.com/biezhi/30-seconds-of-java8",
+			"CreatedAt": "2018-01-30T13:02:27Z",
+			"UpdatedAt": "2020-10-07T19:40:11Z",
+			"StargazerCount": 1910,
+			"ForkCount": 344,
+			"Owner": {
+				"Login": "biezhi"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 70
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "javalin",
+			"URL": "https://github.com/tipsy/javalin",
+			"CreatedAt": "2017-04-02T20:01:28Z",
+			"UpdatedAt": "2020-10-07T23:06:12Z",
+			"StargazerCount": 4242,
+			"ForkCount": 375,
+			"Owner": {
+				"Login": "tipsy"
+			},
+			"PrimaryLanguage": {
+				"Name": "Kotlin"
+			},
+			"Watchers": {
+				"TotalCount": 107
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "JavaScript-Canvas-to-Blob",
+			"URL": "https://github.com/blueimp/JavaScript-Canvas-to-Blob",
+			"CreatedAt": "2012-02-11T01:26:32Z",
+			"UpdatedAt": "2020-09-28T12:56:37Z",
+			"StargazerCount": 1396,
+			"ForkCount": 390,
+			"Owner": {
+				"Login": "blueimp"
+			},
+			"PrimaryLanguage": {
+				"Name": "JavaScript"
+			},
+			"Watchers": {
+				"TotalCount": 67
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "beginner-javascript",
+			"URL": "https://github.com/wesbos/beginner-javascript",
+			"CreatedAt": "2019-05-29T19:03:46Z",
+			"UpdatedAt": "2020-10-07T08:00:40Z",
+			"StargazerCount": 3607,
+			"ForkCount": 805,
+			"Owner": {
+				"Login": "wesbos"
+			},
+			"PrimaryLanguage": {
+				"Name": "HTML"
+			},
+			"Watchers": {
+				"TotalCount": 81
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "computer-science-in-javascript",
+			"URL": "https://github.com/humanwhocodes/computer-science-in-javascript",
+			"CreatedAt": "2009-04-12T01:03:24Z",
+			"UpdatedAt": "2020-10-07T19:01:43Z",
+			"StargazerCount": 7410,
+			"ForkCount": 1083,
+			"Owner": {
+				"Login": "humanwhocodes"
+			},
+			"PrimaryLanguage": {
+				"Name": "JavaScript"
+			},
+			"Watchers": {
+				"TotalCount": 319
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "http-request",
+			"URL": "https://github.com/kevinsawicki/http-request",
+			"CreatedAt": "2011-10-21T19:54:58Z",
+			"UpdatedAt": "2020-10-07T09:32:02Z",
+			"StargazerCount": 3095,
+			"ForkCount": 816,
+			"Owner": {
+				"Login": "kevinsawicki"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 231
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "Java-concurrency",
+			"URL": "https://github.com/CL0610/Java-concurrency",
+			"CreatedAt": "2018-04-30T07:17:54Z",
+			"UpdatedAt": "2020-10-07T04:17:52Z",
+			"StargazerCount": 2625,
+			"ForkCount": 867,
+			"Owner": {
+				"Login": "CL0610"
+			},
+			"PrimaryLanguage": {
+				"Name": ""
+			},
+			"Watchers": {
+				"TotalCount": 127
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "awesome-java",
+			"URL": "https://github.com/Snailclimb/awesome-java",
+			"CreatedAt": "2019-12-06T11:03:23Z",
+			"UpdatedAt": "2020-10-07T11:14:04Z",
+			"StargazerCount": 3530,
+			"ForkCount": 760,
+			"Owner": {
+				"Login": "Snailclimb"
+			},
+			"PrimaryLanguage": {
+				"Name": ""
+			},
+			"Watchers": {
+				"TotalCount": 162
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "java-docs-samples",
+			"URL": "https://github.com/GoogleCloudPlatform/java-docs-samples",
+			"CreatedAt": "2015-03-25T22:48:38Z",
+			"UpdatedAt": "2020-10-07T21:49:53Z",
+			"StargazerCount": 1186,
+			"ForkCount": 2298,
+			"Owner": {
+				"Login": "GoogleCloudPlatform"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 115
+			},
+			"Releases": {
+				"TotalCount": 1
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "junit4",
+			"URL": "https://github.com/junit-team/junit4",
+			"CreatedAt": "2009-01-13T03:41:26Z",
+			"UpdatedAt": "2020-10-07T10:06:45Z",
+			"StargazerCount": 7965,
+			"ForkCount": 3018,
+			"Owner": {
+				"Login": "junit-team"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 616
+			},
+			"Releases": {
+				"TotalCount": 11
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "java-jwt",
+			"URL": "https://github.com/auth0/java-jwt",
+			"CreatedAt": "2014-03-07T15:06:11Z",
+			"UpdatedAt": "2020-10-07T21:45:38Z",
+			"StargazerCount": 3813,
+			"ForkCount": 717,
+			"Owner": {
+				"Login": "auth0"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 231
+			},
+			"Releases": {
+				"TotalCount": 20
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "eloquente-javascript",
+			"URL": "https://github.com/braziljs/eloquente-javascript",
+			"CreatedAt": "2014-01-03T15:18:01Z",
+			"UpdatedAt": "2020-10-07T21:50:51Z",
+			"StargazerCount": 2666,
+			"ForkCount": 818,
+			"Owner": {
+				"Login": "braziljs"
+			},
+			"PrimaryLanguage": {
+				"Name": ""
+			},
+			"Watchers": {
+				"TotalCount": 229
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "JavaVerbalExpressions",
+			"URL": "https://github.com/VerbalExpressions/JavaVerbalExpressions",
+			"CreatedAt": "2013-07-25T16:15:26Z",
+			"UpdatedAt": "2020-09-20T01:20:46Z",
+			"StargazerCount": 1838,
+			"ForkCount": 223,
+			"Owner": {
+				"Login": "VerbalExpressions"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 107
+			},
+			"Releases": {
+				"TotalCount": 8
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "javascript-state-machine",
+			"URL": "https://github.com/jakesgordon/javascript-state-machine",
+			"CreatedAt": "2011-06-01T22:02:01Z",
+			"UpdatedAt": "2020-10-07T10:09:09Z",
+			"StargazerCount": 7364,
+			"ForkCount": 914,
+			"Owner": {
+				"Login": "jakesgordon"
+			},
+			"PrimaryLanguage": {
+				"Name": "JavaScript"
+			},
+			"Watchers": {
+				"TotalCount": 257
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "java-tron",
+			"URL": "https://github.com/tronprotocol/java-tron",
+			"CreatedAt": "2017-12-26T10:20:38Z",
+			"UpdatedAt": "2020-10-07T08:42:36Z",
+			"StargazerCount": 2451,
+			"ForkCount": 780,
+			"Owner": {
+				"Login": "tronprotocol"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 310
+			},
+			"Releases": {
+				"TotalCount": 49
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "jsr",
+			"URL": "https://github.com/mercyblitz/jsr",
+			"CreatedAt": "2017-07-23T15:05:33Z",
+			"UpdatedAt": "2020-10-06T14:08:04Z",
+			"StargazerCount": 1689,
+			"ForkCount": 916,
+			"Owner": {
+				"Login": "mercyblitz"
+			},
+			"PrimaryLanguage": {
+				"Name": "HTML"
+			},
+			"Watchers": {
+				"TotalCount": 198
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "shopizer",
+			"URL": "https://github.com/shopizer-ecommerce/shopizer",
+			"CreatedAt": "2012-11-21T03:42:39Z",
+			"UpdatedAt": "2020-10-06T20:24:01Z",
+			"StargazerCount": 1750,
+			"ForkCount": 1736,
+			"Owner": {
+				"Login": "shopizer-ecommerce"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 260
+			},
+			"Releases": {
+				"TotalCount": 8
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "zxing",
+			"URL": "https://github.com/zxing/zxing",
+			"CreatedAt": "2011-10-12T14:07:27Z",
+			"UpdatedAt": "2020-10-07T18:07:49Z",
+			"StargazerCount": 26326,
+			"ForkCount": 8809,
+			"Owner": {
+				"Login": "zxing"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 1702
+			},
+			"Releases": {
+				"TotalCount": 27
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "useful-java-links",
+			"URL": "https://github.com/Vedenin/useful-java-links",
+			"CreatedAt": "2016-02-13T13:14:52Z",
+			"UpdatedAt": "2020-10-07T16:26:55Z",
+			"StargazerCount": 4801,
+			"ForkCount": 1031,
+			"Owner": {
+				"Login": "Vedenin"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 531
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "JGrowing",
+			"URL": "https://github.com/javagrowing/JGrowing",
+			"CreatedAt": "2019-02-26T01:55:08Z",
+			"UpdatedAt": "2020-10-07T14:08:03Z",
+			"StargazerCount": 3542,
+			"ForkCount": 783,
+			"Owner": {
+				"Login": "javagrowing"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 221
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "javascript-testing-best-practices",
+			"URL": "https://github.com/goldbergyoni/javascript-testing-best-practices",
+			"CreatedAt": "2019-07-04T11:08:12Z",
+			"UpdatedAt": "2020-10-07T20:20:13Z",
+			"StargazerCount": 9574,
+			"ForkCount": 756,
+			"Owner": {
+				"Login": "goldbergyoni"
+			},
+			"PrimaryLanguage": {
+				"Name": "JavaScript"
+			},
+			"Watchers": {
+				"TotalCount": 190
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "mongo-java-driver",
+			"URL": "https://github.com/mongodb/mongo-java-driver",
+			"CreatedAt": "2009-01-15T15:16:29Z",
+			"UpdatedAt": "2020-10-07T20:21:02Z",
+			"StargazerCount": 2347,
+			"ForkCount": 1357,
+			"Owner": {
+				"Login": "mongodb"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 237
+			},
+			"Releases": {
+				"TotalCount": 101
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "docker-java",
+			"URL": "https://github.com/docker-java/docker-java",
+			"CreatedAt": "2014-06-02T18:47:31Z",
+			"UpdatedAt": "2020-10-06T08:37:52Z",
+			"StargazerCount": 1817,
+			"ForkCount": 823,
+			"Owner": {
+				"Login": "docker-java"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 103
+			},
+			"Releases": {
+				"TotalCount": 36
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "greys-anatomy",
+			"URL": "https://github.com/oldmanpushcart/greys-anatomy",
+			"CreatedAt": "2012-11-21T19:39:35Z",
+			"UpdatedAt": "2020-10-03T15:45:24Z",
+			"StargazerCount": 3534,
+			"ForkCount": 1154,
+			"Owner": {
+				"Login": "oldmanpushcart"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 453
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "Java-Interview",
+			"URL": "https://github.com/xbox1994/Java-Interview",
+			"CreatedAt": "2018-03-28T11:40:00Z",
+			"UpdatedAt": "2020-10-08T00:05:50Z",
+			"StargazerCount": 2187,
+			"ForkCount": 695,
+			"Owner": {
+				"Login": "xbox1994"
+			},
+			"PrimaryLanguage": {
+				"Name": ""
+			},
+			"Watchers": {
+				"TotalCount": 106
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "Awesome-RxJava",
+			"URL": "https://github.com/lzyzsd/Awesome-RxJava",
+			"CreatedAt": "2015-07-01T02:28:39Z",
+			"UpdatedAt": "2020-10-05T15:52:03Z",
+			"StargazerCount": 4810,
+			"ForkCount": 905,
+			"Owner": {
+				"Login": "lzyzsd"
+			},
+			"PrimaryLanguage": {
+				"Name": ""
+			},
+			"Watchers": {
+				"TotalCount": 283
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "think-in-java",
+			"URL": "https://github.com/quanke/think-in-java",
+			"CreatedAt": "2016-05-04T03:59:47Z",
+			"UpdatedAt": "2020-10-06T13:46:56Z",
+			"StargazerCount": 1554,
+			"ForkCount": 533,
+			"Owner": {
+				"Login": "quanke"
+			},
+			"PrimaryLanguage": {
+				"Name": ""
+			},
+			"Watchers": {
+				"TotalCount": 65
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "reflections",
+			"URL": "https://github.com/ronmamo/reflections",
+			"CreatedAt": "2013-04-16T16:19:26Z",
+			"UpdatedAt": "2020-10-07T12:50:57Z",
+			"StargazerCount": 3393,
+			"ForkCount": 561,
+			"Owner": {
+				"Login": "ronmamo"
+			},
+			"PrimaryLanguage": {
+				"Name": "Java"
+			},
+			"Watchers": {
+				"TotalCount": 203
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "javascript-in-one-pic",
+			"URL": "https://github.com/coodict/javascript-in-one-pic",
+			"CreatedAt": "2015-06-24T15:09:02Z",
+			"UpdatedAt": "2020-10-07T19:50:26Z",
+			"StargazerCount": 6352,
+			"ForkCount": 762,
+			"Owner": {
+				"Login": "coodict"
+			},
+			"PrimaryLanguage": {
+				"Name": ""
+			},
+			"Watchers": {
+				"TotalCount": 375
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	},
+	{
+		"Repository": {
+			"Name": "Java-Interview-Advanced",
+			"URL": "https://github.com/shishan100/Java-Interview-Advanced",
+			"CreatedAt": "2019-07-11T13:03:03Z",
+			"UpdatedAt": "2020-10-07T14:27:43Z",
+			"StargazerCount": 2523,
+			"ForkCount": 1139,
+			"Owner": {
+				"Login": "shishan100"
+			},
+			"PrimaryLanguage": {
+				"Name": "HTML"
+			},
+			"Watchers": {
+				"TotalCount": 204
+			},
+			"Releases": {
+				"TotalCount": 0
+			}
+		}
+	}
+]

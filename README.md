@@ -46,13 +46,13 @@ $ ./main
 Utilizaremos como fatores de qualidade métricas associadas à quatro dimensões:
 
 - **Popularidade:**
-- - número de estrelas, número de watchers, número de forks dos repositórios coletados
+- - _número de estrelas_, _número de watchers_, _número de forks_ dos repositórios coletados
 - **Tamanho:**
 - - linhas de código (LOC e SLOC) e linhas de comentários
 - **Atividade:**
-- - número de releases, frequência de publicação de releases (número de releases / dias)
+- - _número de releases_, _frequência de publicação de releases_ (número de releases / dias)
 - **Maturidade:**
-- - idade (em anos) de cada repositório coletado
+- - _idade (em anos) de cada repositório coletado_
 
 ### Prática 1
 

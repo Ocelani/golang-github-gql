@@ -20,6 +20,7 @@ import (
 type Node struct {
 	Repository struct {
 		Name           string
+		URL            string
 		CreatedAt      string
 		UpdatedAt      string
 		StargazerCount int
@@ -29,6 +30,9 @@ type Node struct {
 		}
 		PrimaryLanguage struct {
 			Name string
+		}
+		Watchers struct {
+			TotalCount int
 		}
 		Releases struct {
 			TotalCount int
@@ -48,8 +52,8 @@ func main() {
 
 func run() {
 	c := make(chan bool, 2)
-	c <- runQuery("Python stars:>1000", "python")
-	c <- runQuery("Java stars:>1000", "java")
+	c <- runQuery("Python stars:>1000", "python2")
+	c <- runQuery("Java stars:>1000", "java2")
 	for q := range c {
 		if q != true {
 			log.Panic("Task not finished on channel: ", c)
@@ -114,7 +118,7 @@ func runQuery(search string, file string) bool {
 
 // writeJSON writes the JSON file
 func writeJSON(v interface{}, file string) {
-	f, err := os.OpenFile("./data/"+file+".json", os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
+	f, err := os.OpenFile("./data/json/"+file+".json", os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
 	if err != nil {
 		fmt.Println(err)
 	}
@@ -127,7 +131,7 @@ func writeJSON(v interface{}, file string) {
 	if err != nil {
 		panic(err)
 	} else {
-		fmt.Printf("%s.csv done!\n", file)
+		fmt.Printf("%s.json done!\n", file)
 	}
 }
 
@@ -145,7 +149,7 @@ func writeCsv(v interface{}, file string) {
 		fmt.Println(err)
 	}
 
-	csvfile, err := os.OpenFile("./data/"+file+".csv", os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
+	csvfile, err := os.OpenFile("./data/csv/"+file+".csv", os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
 	if err != nil {
 		fmt.Println(err)
 	}
@@ -153,19 +157,32 @@ func writeCsv(v interface{}, file string) {
 
 	writer := csv.NewWriter(csvfile)
 
-	for i, node := range n {
+	writer.Write([]string{
+		"Name",
+		"Owner",
+		"URL",
+		"CreatedAt",
+		"UpdatedAt",
+		"StargazerCount",
+		"ForkCount",
+		"PrimaryLanguage",
+		"Watchers",
+		"Releases",
+	})
+
+	for _, node := range n {
 		var record []string
-		record = append(record, strconv.Itoa(i+1))
 		record = append(record, string(node.Repository.Name))
+		record = append(record, string(node.Repository.Owner.Login))
+		record = append(record, string(node.Repository.URL))
 		record = append(record, string(node.Repository.CreatedAt))
 		record = append(record, string(node.Repository.UpdatedAt))
 		record = append(record, strconv.Itoa(node.Repository.StargazerCount))
 		record = append(record, strconv.Itoa(node.Repository.ForkCount))
-		record = append(record, string(node.Repository.Owner.Login))
 		record = append(record, string(node.Repository.PrimaryLanguage.Name))
+		record = append(record, strconv.Itoa(node.Repository.Watchers.TotalCount))
 		record = append(record, strconv.Itoa(node.Repository.Releases.TotalCount))
 		writer.Write(record)
-		i++
 	}
 	writer.Flush()
 
