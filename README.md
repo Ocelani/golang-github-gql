@@ -32,13 +32,13 @@ $ ./main
 
 #### Questões
 
-- [ ] **RQ.01**
+- [x] **RQ.01**
       Quais as características dos top-100repositórios Java mais populares?
-- [ ] **RQ.02**
+- [x] **RQ.02**
       Quais as características dos top-100 repositórios Python mais populares?
-- [ ] **RQ.03**
-      Repositórios Java e Python popularespossuem características de “boa qualidade” semelhantes?
-- [ ] **RQ.04**
+- [x] **RQ.03**
+      Repositórios Java e Python populares possuem características de “boa qualidade” semelhantes?
+- [x] **RQ.04**
       A popularidade influencia nas características dos repositórios Java e Python?
 
 #### Métricas
